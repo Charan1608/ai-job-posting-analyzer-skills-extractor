@@ -91,14 +91,10 @@ data/interim/
 # -----------------------------
 # MODEL BINARIES
 # -----------------------------
-*.pkl
 *.joblib
 *.h5
 *.keras
 *.onnx
-*.npy
-
-models/
 storage/
 
 # -----------------------------
