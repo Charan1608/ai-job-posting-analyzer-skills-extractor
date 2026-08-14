@@ -1,0 +1,321 @@
+technology,canonical,category
+python,Python,Programming Language
+python programming,Python,Programming Language
+sql,SQL,Database Language
+mysql,MySQL,Database
+postgresql,PostgreSQL,Database
+oracle sql,Oracle SQL,Database
+sql server,SQL Server,Database
+pl sql,PL/SQL,Database
+nosql,NoSQL,Database
+
+power bi,Power BI,BI Tool
+powerbi,Power BI,BI Tool
+power bi desktop,Power BI,BI Tool
+pbix,Power BI,BI Tool
+
+tableau,Tableau,BI Tool
+tableau desktop,Tableau,BI Tool
+
+excel,Microsoft Excel,Spreadsheet
+ms excel,Microsoft Excel,Spreadsheet
+microsoft excel,Microsoft Excel,Spreadsheet
+
+aws,Amazon Web Services,Cloud
+amazon web services,Amazon Web Services,Cloud
+azure,Microsoft Azure,Cloud
+microsoft azure,Microsoft Azure,Cloud
+gcp,Google Cloud Platform,Cloud
+google cloud platform,Google Cloud Platform,Cloud
+
+spark,Apache Spark,Big Data
+apache spark,Apache Spark,Big Data
+hadoop,Apache Hadoop,Big Data
+databricks,Databricks,Big Data
+snowflake,Snowflake,Cloud Data Warehouse
+
+airflow,Apache Airflow,Workflow
+apache airflow,Apache Airflow,Workflow
+dbt,dbt,Data Engineering
+kafka,Apache Kafka,Streaming
+
+tensorflow,TensorFlow,Machine Learning
+tensor flow,TensorFlow,Machine Learning
+pytorch,PyTorch,Machine Learning
+scikit learn,Scikit-learn,Machine Learning
+sklearn,Scikit-learn,Machine Learning
+xgboost,XGBoost,Machine Learning
+lightgbm,LightGBM,Machine Learning
+
+r,R,Programming Language
+sas,SAS,Analytics
+spss,SPSS,Analytics
+
+git,Git,Version Control
+github,GitHub,Version Control
+
+docker,Docker,DevOps
+kubernetes,Kubernetes,DevOps
+jira,Jira,Project Management
+jira software,Jira,Project Management
+azure devops,Azure DevOps,DevOps
+azure dev ops,Azure DevOps,DevOps
+azure pipelines,Azure DevOps,DevOps
+azure repos,Azure DevOps,DevOps
+
+sap,SAP,ERP
+sap fico,SAP FICO,ERP
+sap mm,SAP MM,ERP
+sap sd,SAP SD,ERP
+sap hana,SAP HANA,ERP
+s/4 hana,SAP S/4HANA,ERP
+
+vlookup,Microsoft Excel,Spreadsheet
+xlookup,Microsoft Excel,Spreadsheet
+hlookup,Microsoft Excel,Spreadsheet
+pivot table,Microsoft Excel,Spreadsheet
+pivot tables,Microsoft Excel,Spreadsheet
+power query,Microsoft Excel,Spreadsheet
+power pivot,Microsoft Excel,Spreadsheet
+
+microsoft office,Microsoft Office,Office Suite
+office 365,Microsoft Office,Office Suite
+ms office,Microsoft Office,Office Suite
+
+dax,DAX,Power BI
+power bi service,Power BI,BI Tool
+power bi report builder,Power BI,BI Tool
+
+ssis,SQL Server Integration Services,ETL
+ssis packages,SQL Server Integration Services,ETL
+ssrs,SQL Server Reporting Services,Reporting
+ssas,SQL Server Analysis Services,Analytics
+
+rest api,REST API,API
+restful api,REST API,API
+api,API,API
+json,JSON,Data Format
+xml,XML,Data Format
+
+numpy,NumPy,Python Library
+pandas,Pandas,Python Library
+matplotlib,Matplotlib,Python Library
+seaborn,Seaborn,Python Library
+plotly,Plotly,Python Library
+
+jupyter,Jupyter Notebook,Development Tool
+jupyter notebook,Jupyter Notebook,Development Tool
+visual studio code,Visual Studio Code,IDE
+vscode,Visual Studio Code,IDE
+jira,Jira,Project Management
+azure devops,Azure DevOps,DevOps
+microsoft office,Microsoft Office,Office Suite
+vlookup,Microsoft Excel,Spreadsheet
+pivot tables,Microsoft Excel,Spreadsheet
+power query,Microsoft Excel,Spreadsheet
+dax,DAX,Power BI
+ssis,SQL Server Integration Services,ETL
+adls,Azure Data Lake Storage,Cloud
+aws ec2,Amazon EC2,Cloud
+apache druid,Apache Druid,Big Data
+apache kafka,Apache Kafka,Streaming
+athena,Amazon Athena,Cloud Analytics
+azure data factory,Azure Data Factory,ETL
+cosmos db,Azure Cosmos DB,Database
+dynamodb,Amazon DynamoDB,Database
+ecs,Amazon ECS,Cloud
+event hub,Azure Event Hub,Streaming
+figma,Figma,Design Tool
+gatk,GATK,Bioinformatics
+galaxy,Galaxy,Bioinformatics
+gen ai,Generative AI,Artificial Intelligence
+generative ai,Generative AI,Artificial Intelligence
+google cloud dataflow,Google Cloud Dataflow,Big Data
+h2o,H2O.ai,Machine Learning
+hdfs,HDFS,Big Data
+hql,HiveQL,Big Data
+ifs,IFS ERP,ERP
+knime,KNIME,Analytics
+lakehouse,Lakehouse,Data Engineering
+lambda,AWS Lambda,Cloud
+large language models,Large Language Models,Artificial Intelligence
+metabase,Metabase,BI Tool
+microsoft project,Microsoft Project,Project Management
+mulesoft,MuleSoft,Integration
+neo4j,Neo4j,Graph Database
+oracle bi publisher,Oracle BI Publisher,BI Tool
+oracle drm,Oracle DRM,ERP
+advanced excel,Microsoft Excel,Spreadsheet
+aws platform & services,Amazon Web Services,Cloud
+adobe experience platform,Adobe Experience Platform,Marketing Platform
+adobe xd,Adobe XD,Design Tool
+apm tools,Application Performance Monitoring,Monitoring
+athena,Amazon Athena,Cloud Analytics
+azure data factory,Azure Data Factory,ETL
+bloomberg,Bloomberg,Financial Platform
+ci/cd tools,CI/CD,DevOps
+cloud platforms,Cloud Platform,Cloud
+"cloud platforms (azure, aws, gcp)",Cloud Platform,Cloud
+containerization technologies,Docker,DevOps
+continuous deployment,CI/CD,DevOps
+copilot m365,Microsoft Copilot,Artificial Intelligence
+copilot web,Microsoft Copilot,Artificial Intelligence
+cosmos db,Azure Cosmos DB,Database
+coupa,Coupa,Procurement
+dashboard development,Dashboard Development,Business Intelligence
+dask,Dask,Machine Learning
+data ops,DataOps,Data Engineering
+data stack,Modern Data Stack,Data Engineering
+databricks delta lake,Databricks,Big Data
+databricks' delta tables,Databricks,Big Data
+dataflows,Power BI,BI Tool
+delta live tables,Databricks,Big Data
+domino data labs,Domino Data Lab,Machine Learning
+dynamodb,Amazon DynamoDB,Database
+ecs,Amazon ECS,Cloud
+figma,Figma,Design Tool
+generative ai,Generative AI,Artificial Intelligence
+google cloud dataflow,Google Cloud Dataflow,Big Data
+knime,KNIME,Analytics
+lakehouse,Lakehouse,Data Engineering
+large language models,Large Language Models,Artificial Intelligence
+metabase,Metabase,BI Tool
+microsoft project,Microsoft Project,Project Management
+mulesoft,MuleSoft,Integration
+neo4j,Neo4j,Graph Database
+oracle bi publisher,Oracle BI Publisher,BI Tool
+oracle drm,Oracle DRM,ERP
+jira,Jira,Project Management
+ci/cd,CI/CD,DevOps
+ci/cd pipelines,CI/CD,DevOps
+docker,docker,DevOps
+ecr,Amazon ECR,Cloud
+fargate,AWS Fargate,Cloud
+elastic load balancer,Elastic Load Balancer,Cloud
+api development,API Development,Software Engineering
+rest api,REST API,Software Engineering
+web apis,Web API,Software Engineering
+http,HTTP,Web Technology
+jsonb,JSONB,Database
+kanban,Kanban,Agile
+sdlc,Software Development Life Cycle,Software Engineering
+software development lifecycle,Software Development Life Cycle,Software Engineering
+test driven development,Test-Driven Development,Software Engineering
+tdd,Test-Driven Development,Software Engineering
+user stories,User Stories,Agile
+user story writing,User Stories,Agile
+requirement gathering,Requirements Gathering,Business Analysis
+requirements elicitation,Requirements Elicitation,Business Analysis
+requirements engineering,Requirements Engineering,Business Analysis
+workflow orchestration,Workflow Orchestration,Data Engineering
+microservices architecture,Microservices,Software Architecture
+distributed systems architecture,Distributed Systems,Software Architecture
+backend engineering,Backend Development,Software Engineering
+full-stack development,Full Stack Development,Software Engineering
+sdk development,SDK Development,Software Engineering
+sharepoint,Microsoft SharePoint,Collaboration
+tableau server,Tableau Server,BI Tool
+stata,Stata,Analytics
+scipy,SciPy,Python Library
+d3.js,D3.js,Visualization
+synapse,Azure Synapse,Cloud
+sagemaker,Amazon SageMaker,Machine Learning
+salesforce,Salesforce,CRM
+salesforce.com,Salesforce,CRM
+salesforce mc,Salesforce Marketing Cloud,CRM
+essbase,Oracle Essbase,Analytics
+sap fico modules,SAP FICO,ERP
+oracle e-business suite,Oracle E-Business Suite,ERP
+team foundation server,TFS,DevOps
+unix shell scripting,Bash,Programming Language
+iaas,Infrastructure as a Service,Cloud
+paas,Platform as a Service,Cloud
+cloud native services,Cloud Native,Cloud
+google cloud services,Google Cloud Platform,Cloud
+s3,Amazon S3,Cloud
+mxnet,MXNet,Machine Learning
+deseq2,DESeq2,Bioinformatics
+hisat2,HISAT2,Bioinformatics
+ai model deployment,AI Model Deployment,Machine Learning
+ai model development,AI Model Development,Machine Learning
+ai performance optimization,AI Performance Optimization,Machine Learning
+adobe stacks,Adobe Experience Cloud,Marketing Technology
+apqp,Advanced Product Quality Planning,Quality Management
+bayesian methods,Bayesian Statistics,Statistics
+bias variance tradeoff,Bias-Variance Tradeoff,Machine Learning
+cmdb,Configuration Management Database,IT Service Management
+cpq,Configure Price Quote,CRM
+client server,Client-Server Architecture,Software Engineering
+code optimization,Code Optimization,Software Engineering
+container strategies,Containerization,DevOps
+d365 finance and operations,Microsoft Dynamics 365 Finance and Operations,ERP
+dwh,Data Warehouse,Data Engineering
+data cubes,Data Cube,Data Warehousing
+data flow automation,Data Flow Automation,Data Engineering
+data flow diagrams,Data Flow Diagram,System Design
+data governance,Data Governance,Data Engineering
+data lineage,Data Lineage,Data Engineering
+data manipulation,Data Manipulation,Data Engineering
+data pipeline optimization,Data Pipeline Optimization,Data Engineering
+data segmentation,Data Segmentation,Analytics
+data standardization,Data Standardization,Data Engineering
+data storytelling,Data Storytelling,Analytics
+dataset manipulation,Dataset Manipulation,Data Engineering
+distributed microservices,Microservices,Software Architecture
+edge device integration,Edge Computing,IoT
+explainable ai,Explainable AI,Machine Learning
+fp&a,Financial Planning and Analysis,Finance
+fault tolerance,Fault Tolerance,System Design
+financial modeling,Financial Modeling,Finance
+generalized linear models,Generalized Linear Models,Statistics
+graph theory,Graph Theory,Mathematics
+high performance computing,High Performance Computing,Computing
+infrastructure as code,Infrastructure as Code,DevOps
+iac,Infrastructure as Code,DevOps
+it service management,IT Service Management,ITSM
+image data handling,Image Processing,Computer Vision
+issue tracking with jira,Jira,Project Management
+kimball methodology,Kimball Methodology,Data Warehousing
+model deployment,Model Deployment,Machine Learning
+model management,Model Management,Machine Learning
+model operationalization,MLOps,Machine Learning
+multivariate analysis,Multivariate Analysis,Statistics
+network operations,Network Operations,Networking
+non linear regression analysis,Nonlinear Regression,Statistics
+operational workflows,Workflow Management,Business Process
+oracle e business suite release 12.1.3,Oracle E-Business Suite,ERP
+performance optimization,Performance Optimization,Software Engineering
+process flow analysis,Process Flow Analysis,Business Analysis
+process flow charts,Process Flowchart,Business Analysis
+programmatic automation,Automation,Software Engineering
+rest api development,REST API,Software Engineering
+real time data distribution,Real-Time Data Processing,Data Engineering
+sap fico modules ap/ar/gl/tax,SAP FICO,ERP
+sas enterprise guide/miner,SAS Enterprise Guide,Analytics
+sdlc methodology,Software Development Life Cycle,Software Engineering
+sharepoint application implementation,Microsoft SharePoint,Collaboration
+sharepoint configuration,Microsoft SharePoint,Collaboration
+software delivery methodologies,Software Delivery,Software Engineering
+solution integration,System Integration,Software Engineering
+system performance enhancement,System Performance Optimization,Software Engineering
+team foundation server,Team Foundation Server,DevOps
+test case development,Test Case Design,Software Testing
+unsupervised modeling,Unsupervised Learning,Machine Learning
+user acceptance testing,User Acceptance Testing,Software Testing
+workflow analysis,Workflow Analysis,Business Analysis
+writing user stories,User Stories,Agile
+chatbots,Chatbots,Artificial Intelligence
+derivatives modeling,Derivatives Modeling,Finance
+generative ai llm models,Large Language Models,Artificial Intelligence
+graph analysis,Graph Analytics,Analytics
+microservices structure,Microservices,Software Architecture
+non relational data stores,NoSQL Database,Database
+notebooks,Jupyter Notebook,Data Science
+recommendation personalization,Recommendation Systems,Machine Learning
+relational data stores,Relational Database,Database
+retrieval augmented generation,Retrieval-Augmented Generation,Artificial Intelligence
+sentiment analysis,Sentiment Analysis,Natural Language Processing
+time series,Time Series Analysis,Statistics
+web3,Web3,Blockchain
+xsd,XML Schema,XML
+soap2,SOAP,Web Services

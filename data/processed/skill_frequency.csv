@@ -1,0 +1,572 @@
+skill,frequency
+R,83
+statistics,77
+SQL,75
+Python,63
+computer programming,57
+machine learning,39
+Microsoft Excel,34
+natural gas,30
+database,28
+business analysis,27
+ICT project management methodologies,25
+use computer telephony integration,24
+data models,23
+business intelligence,22
+integrated circuits,21
+solar energy,21
+Power BI,21
+data visualisation software,21
+project management,20
+radiotherapy,20
+semiconductors,20
+data mining,18
+Scala,18
+reverse engineering,18
+Tableau,17
+Apache Spark,16
+data engineering,16
+solve problems,14
+"data extraction, transformation and loading tools",14
+Data Governance,13
+cloud technologies,13
+natural language processing,13
+Amazon Web Services,13
+plan,12
+learning management systems,12
+identify process improvements,12
+deep learning,12
+interact with users to gather requirements,11
+SAP Data Services,11
+ski,11
+types of tidal stream generators,11
+principles of artificial intelligence,11
+sing,10
+data warehouse,10
+Java (computer programming),10
+analyse pipeline database information,10
+CI/CD,10
+TensorFlow,10
+PyTorch,10
+define data quality criteria,9
+risk management,9
+engage with stakeholders,9
+SAS,9
+database management systems,9
+ML (computer programming),9
+C++,9
+data analytics,9
+business processes,9
+information architecture,8
+communication,8
+supervision of persons,8
+Snowflake,8
+computer vision,8
+public relations,8
+SQL Server,8
+Jira,8
+use presentation software,7
+Databricks,7
+statistical modeling techniques,7
+think creatively,7
+DevOps,7
+Apache Airflow,6
+Git,6
+blockchain consensus mechanisms,6
+process data,6
+data science,6
+create prototype of user experience solutions,6
+liaise with quality assurance,6
+Apache Hadoop,6
+Microsoft Office,6
+Microsoft SharePoint,6
+algorithms,6
+Scikit-learn,6
+demonstrate leadership in social service cases,6
+JavaScript,6
+write technical reports,5
+financial analysis,5
+computer technology,5
+make decisions,5
+Agile development,5
+Data Manipulation,5
+Visual Basic,4
+human-robot collaboration,4
+Generative AI,4
+fit low vision aids,4
+augmented reality,4
+manage standards for data exchange,4
+customer relationship management,4
+Apache Kafka,4
+C#,4
+manage system testing,4
+Kubernetes,4
+Oracle Warehouse Builder,4
+DAX,4
+Software Development Life Cycle,4
+XML,4
+Source (digital game creation systems),4
+rhetoric,4
+SAS Data Management,4
+Pentaho Data Integration,4
+use microsoft office,4
+keywords in digital content,4
+lead process optimisation,4
+Jenkins (tools for software configuration management),4
+search engines,4
+Microsoft Azure,4
+glue film reels,4
+asset management,4
+manage athletes,4
+execute integration testing,4
+Docker,4
+apply information security policies,4
+hardware testing methods,4
+conduct patch testing,4
+Amazon S3,3
+mathematics,3
+perform data cleansing,3
+interpreting modes,3
+data storage,3
+report analysis results,3
+Perl,3
+Azure DevOps,3
+interpret seismic data,3
+SAP FICO,3
+Microservices,3
+IBM InfoSphere DataStage,3
+manage workflow processes,3
+Performance Optimization,3
+simplify communication in maritime management,3
+logic,3
+Large Language Models,3
+electrical machines,3
+Amazon Athena,3
+Requirements Gathering,3
+system design,3
+use online tools to collaborate,3
+Microsoft Access,3
+SQL Server Integration Services,3
+User Stories,3
+accounting,3
+User Acceptance Testing,3
+morality,3
+business requirements techniques,3
+analyse business requirements,3
+Data Lineage,3
+develop business case,3
+think critically,3
+assess your competences for artistic coaching,3
+troubleshoot,3
+perform software unit testing,3
+MySQL,3
+artificial neural networks,3
+quantitative analysis,3
+integrated development environment software,3
+social innovation,3
+make data-driven decisions,3
+apply change management,3
+Azure Data Factory,3
+Google Cloud Platform,3
+root cause analysis,3
+building automation,3
+Pandas,3
+debt classification,3
+dbt,3
+computer simulation,3
+NoSQL,3
+PostgreSQL,2
+Figma,2
+information structure,2
+Requirements Elicitation,2
+mathematical modelling,2
+IT Service Management,2
+accept own accountability,2
+cost management,2
+develop campaigns,2
+geographic information systems,2
+validation of learning acquired through volunteering,2
+manage ICT virtualisation environments,2
+seismic measurement techniques,2
+SPARK,2
+use personal organization software,2
+supervise work on design planning,2
+systems development life-cycle,2
+pricing strategies,2
+manage drilling team,2
+social development,2
+documentation types,2
+develop with cloud services,2
+Cloud Platform,2
+Dask,2
+Microsoft Copilot,2
+control compliance of railway vehicles regulations,2
+perform contract reporting and evaluation,2
+web analytics,2
+talent management strategies,2
+Financial Modeling,2
+Amazon EC2,2
+marketing analytics,2
+Amazon DynamoDB,2
+service-oriented modelling,2
+economics,2
+SPSS,2
+Teradata Database,2
+collection management,2
+web programming,2
+QlikView Expressor,2
+Groovy,2
+use specialised computer models for weather forecasting,2
+Salesforce,2
+Microsoft Project,2
+Infrastructure as a Service,2
+operations management,2
+marketing mix,2
+iron textiles,2
+manage currency exchange risk mitigation techniques,2
+manage sales teams,2
+tools for ICT test automation,2
+types of metal manufacturing processes,2
+NumPy,2
+JSON,2
+Oracle Data Integrator,2
+apply business acumen,2
+perform dimensionality reduction,2
+lead others,2
+design database scheme,2
+Requirements Engineering,2
+business process modelling,2
+tools for software configuration management,2
+distributed computing,2
+Model Deployment,2
+Time Series Analysis,2
+Sentiment Analysis,2
+H2O.ai,2
+teach secondary education class content,2
+GitHub,2
+Azure Synapse,2
+AWS Lambda,2
+supply chain management,2
+electronics,1
+Oracle E-Business Suite,1
+social work theory,1
+framework for a safety management system,1
+Unsupervised Learning,1
+Workflow Management,1
+business knowledge,1
+IPC standards,1
+Domino Data Lab,1
+assess reliability of data,1
+liquidity management,1
+Derivatives Modeling,1
+actuarial science,1
+blockchain,1
+Web3,1
+scaffolding components,1
+distributed ledger technology,1
+Jupyter Notebook,1
+REST API,1
+DESeq2,1
+HISAT2,1
+Oracle BI Publisher,1
+Apache Druid,1
+Waterfall development,1
+visual presentation techniques,1
+stitch paper materials,1
+Salesforce Marketing Cloud,1
+computer science,1
+NoSQL Database,1
+Relational Database,1
+Application Performance Monitoring,1
+grading systems,1
+sand blasting machine parts,1
+Galaxy,1
+SOAP,1
+design metal components,1
+analyse blockchain use cases,1
+building information modelling,1
+Workflow Orchestration,1
+Model Management,1
+Amazon ECS,1
+CSS,1
+SAS Enterprise Guide,1
+Tableau Server,1
+design application interfaces,1
+Full Stack Development,1
+digital identity management,1
+manage time,1
+Bash,1
+archive scientific documentation,1
+Lakehouse,1
+JSONB,1
+TypeScript,1
+network engineering,1
+Angular,1
+software UI design patterns,1
+Azure Data Lake Storage,1
+pharmacognosy,1
+develop statistical software,1
+think analytically,1
+financial capability,1
+team building,1
+use databases,1
+arrange surgery operating site,1
+perform fuel reconciliation,1
+Process Flowchart,1
+Data Flow Diagram,1
+manage ICT data classification,1
+Configure Price Quote,1
+perform cleaning duties,1
+negotiate supplier arrangements,1
+e-procurement,1
+Azure Event Hub,1
+Oracle Application Development Framework,1
+MXNet,1
+Kali Linux,1
+Matplotlib,1
+SciPy,1
+Elastic Load Balancer,1
+dump batches,1
+report facts,1
+KNIME,1
+Recommendation Systems,1
+prepare sales checks,1
+Process Flow Analysis,1
+translate artistic concepts to technical designs,1
+plan product management,1
+Test-Driven Development,1
+Software Delivery,1
+ICT system integration,1
+create project specifications,1
+execute feasibility study,1
+MLOps,1
+modern portfolio theory,1
+API Development,1
+SDK Development,1
+create data sets,1
+claims procedures,1
+migration,1
+D3.js,1
+Cloud Native,1
+Kanban,1
+Bloomberg,1
+international carriage of dangerous goods by road,1
+design the physical outlook of games,1
+satisfy technical requirements,1
+utilise computer-aided software engineering tools,1
+decision support systems,1
+MuleSoft,1
+plan migration to cloud,1
+ensure infrastructure accessibility,1
+Configuration Management Database,1
+maintain statutory books,1
+perform quality audits,1
+audit techniques,1
+monitor international market performance,1
+monitor drilling fluid,1
+develop automated software tests,1
+cyber security,1
+normalise data,1
+SQL Server Reporting Services,1
+Data Warehouse,1
+Kimball Methodology,1
+unified modelling language,1
+MATLAB,1
+use spreadsheets software,1
+Stata,1
+start up chocolate moulding line,1
+use object-oriented programming,1
+design process,1
+Oracle SQL,1
+audit contractors,1
+plan rig operations,1
+health care system,1
+meet commitments,1
+track key performance indicators,1
+Real-Time Data Processing,1
+knowledge management,1
+Generalized Linear Models,1
+Bayesian Statistics,1
+Multivariate Analysis,1
+Nonlinear Regression,1
+Coupa,1
+crimping,1
+Amazon SageMaker,1
+CAM software,1
+document management,1
+XML Schema,1
+office software,1
+conduct training on monitoring and evaluation frameworks,1
+maintain pricing database,1
+market analysis,1
+energy market,1
+trade future commodities,1
+internal auditing,1
+manage company transport strategy,1
+supervise waste disposal,1
+data protection,1
+advise on eligibility of expenditures,1
+perform drug investigations,1
+undertake employee screening,1
+launch lifeboats,1
+Christianity,1
+define software architecture,1
+business strategy concepts,1
+design enterprise architecture,1
+keep up with digital transformation of industrial processes,1
+identify processes for re-engineering,1
+manage software releases,1
+perform failure analysis of production process,1
+process applications,1
+use mathematical tools and equipment,1
+network management system tools,1
+Adobe Experience Cloud,1
+HDFS,1
+smart contract programming languages,1
+Workflow Analysis,1
+write specifications,1
+Adobe Experience Platform,1
+support development of annual budget,1
+financial forecasting,1
+Financial Planning and Analysis,1
+task algorithmisation,1
+attend to detail in casting processes,1
+use clinical assessment techniques,1
+manage documentation of prior learning assessments,1
+conduct literature research,1
+implement ICT coding conventions,1
+Data Segmentation,1
+Test Case Design,1
+provide technical documentation,1
+manage agricultural staff,1
+sales department processes,1
+Data Pipeline Optimization,1
+gather data,1
+penetration testing tool,1
+ICT debugging tools,1
+Rapid application development,1
+government representation,1
+assist in developing marketing campaigns,1
+portfolio management in textile manufacturing,1
+develop health and safety strategies in mining,1
+advise on architectural matters,1
+Bias-Variance Tradeoff,1
+Explainable AI,1
+maintain moulds,1
+model mineral deposits,1
+create model,1
+beer downstream processing,1
+human factors regarding safety,1
+Dashboard Development,1
+customer segmentation,1
+maintain database performance,1
+deploy cloud resource,1
+ICT networking hardware,1
+listen actively,1
+have emotional intelligence,1
+conflict management,1
+teach communication to clients,1
+ensure client orientation,1
+demonstrate professional Pilates attitude,1
+develop efficiency plans for maritime shipping,1
+Modern Data Stack,1
+financial markets,1
+Data Cube,1
+Data Storytelling,1
+Automation,1
+develop tourism products,1
+SAS language,1
+offer financial services,1
+management consulting,1
+Dataset Manipulation,1
+ensure compliance with policies,1
+security of assets legislation,1
+reputation management,1
+plan resource allocation,1
+metrology,1
+policy analysis,1
+conduct research on flora,1
+information confidentiality,1
+explain financial jargon,1
+comply with agricultural code of practice,1
+prepare financial projections,1
+Fault Tolerance,1
+High Performance Computing,1
+Distributed Systems,1
+maintain information network hardware,1
+Network Operations,1
+apply basic programming skills,1
+comply with legal regulations,1
+implement corporate governance,1
+ICT software specifications,1
+integrate system components,1
+create business process models,1
+Microsoft Dynamics 365 Finance and Operations,1
+mergers and acquisitions,1
+provide self management support,1
+show initiative,1
+think holistically,1
+provide user documentation,1
+develop strategy to solve problems,1
+operational research,1
+analyse own performance,1
+manage truck drivers,1
+human resource management,1
+estimate repair priority,1
+recommend product improvements,1
+verify feasibility,1
+ICT project management,1
+advise on efficiency improvements,1
+System Performance Optimization,1
+show diplomacy,1
+evaluate project plans,1
+design management,1
+Code Optimization,1
+Retrieval-Augmented Generation,1
+Chatbots,1
+apply statistical analysis techniques,1
+cryptocurrency,1
+Backend Development,1
+IFS ERP,1
+manage data,1
+database development tools,1
+Platform as a Service,1
+Data Flow Automation,1
+AI Performance Optimization,1
+AI Model Deployment,1
+AI Model Development,1
+lean manufacturing,1
+continuous improvement philosophies,1
+System Integration,1
+Oracle Essbase,1
+Web API,1
+web services,1
+SAP R3,1
+Adobe XD,1
+Azure Cosmos DB,1
+DataOps,1
+Unity (digital game creation systems),1
+Neo4j,1
+Graph Analytics,1
+Client-Server Architecture,1
+HTTP,1
+select soap shaping plate,1
+hardware platforms,1
+Infrastructure as Code,1
+transportation software related to an ERP system,1
+GATK,1
+HiveQL,1
+business ICT systems,1
+Google Cloud Dataflow,1
+graphic design,1
+conduct ICT code review,1
+improve rail service delivery,1
+mobile operating systems,1
+Data Standardization,1
+monitor curriculum implementation,1
+Image Processing,1
+Edge Computing,1
+data quality assessment,1
+Metabase,1
+Graph Theory,1
+Oracle DRM,1

@@ -1,0 +1,23 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-IN
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["cleaned_postings","normalized_jobs","normalized_skills_long","normalized_jobs (2)"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table cleaned_postings
+ref table normalized_jobs
+ref table normalized_skills_long
+ref table Table
+ref table 'normalized_jobs (2)'
+
+ref cultureInfo en-US
+

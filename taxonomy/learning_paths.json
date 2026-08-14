@@ -1,0 +1,51 @@
+{
+    "sql": {
+        "course": "Advanced SQL for Data Analytics",
+        "certification": "Oracle SQL Associate"
+    },
+
+    "python": {
+        "course": "Python for Data Science",
+        "certification": "PCAP Python"
+    },
+
+    "power bi": {
+        "course": "Microsoft Power BI",
+        "certification": "PL-300"
+    },
+
+    "tableau": {
+        "course": "Tableau Desktop Specialist",
+        "certification": "Tableau Desktop Specialist"
+    },
+
+    "statistics": {
+        "course": "Statistics for Data Analytics",
+        "certification": "IBM Data Analyst"
+    },
+
+    "machine learning": {
+        "course": "Machine Learning Specialization",
+        "certification": "Google Advanced Data Analytics"
+    },
+
+    "business analysis": {
+        "course": "Business Analysis Fundamentals",
+        "certification": "ECBA"
+    },
+
+    "manage stakeholders": {
+        "course": "Stakeholder Management",
+        "certification": "PMI CAPM"
+    },
+
+    "prepare reports": {
+        "course": "Business Reporting",
+        "certification": "Microsoft Power BI"
+    },
+
+    "excel": {
+        "course": "Advanced Microsoft Excel",
+        "certification": "Microsoft Office Specialist"
+    }
+}

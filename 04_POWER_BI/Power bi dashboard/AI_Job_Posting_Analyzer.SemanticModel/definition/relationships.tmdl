@@ -1,0 +1,28 @@
+relationship AutoDetected_51c50d09-d493-424c-8e56-ac0bf55f9ea4
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: normalized_jobs.job_id
+	toColumn: cleaned_postings.job_id
+
+relationship AutoDetected_40d99d63-8d79-473a-a299-3c191a291d53
+	fromColumn: normalized_skills_long.job_id
+	toColumn: cleaned_postings.job_id
+
+relationship efb64621-34a0-4399-b10c-4a69217051c6
+	isActive: false
+	fromColumn: normalized_skills_long.job_id
+	toColumn: normalized_jobs.job_id
+
+relationship AutoDetected_b3526bca-16f1-4d02-9a4b-48f7a3332fc8
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'normalized_jobs (2)'.job_id
+	toColumn: cleaned_postings.job_id
+
+relationship AutoDetected_f79e491d-bf1d-4cf6-87b9-8e3f332b2f09
+	isActive: false
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'normalized_jobs (2)'.job_posting_url
+	toColumn: normalized_jobs.job_posting_url
+

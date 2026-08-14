@@ -1,0 +1,370 @@
+table 'normalized_jobs (2)'
+	lineageTag: 352ff743-f657-4b13-b41d-0d65dd50265b
+
+	column job_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 620f648f-312a-4914-ac7a-0c2cb54925a8
+		summarizeBy: none
+		sourceColumn: job_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column company_name
+		dataType: string
+		lineageTag: e90fab5e-6c05-4fef-ba2d-e707c72b8467
+		summarizeBy: none
+		sourceColumn: company_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column title
+		dataType: string
+		lineageTag: 4ac47b8b-73d3-49cb-a47b-17e6cf3c8312
+		summarizeBy: none
+		sourceColumn: title
+
+		annotation SummarizationSetBy = Automatic
+
+	column description
+		dataType: string
+		lineageTag: 20672704-d566-479c-867f-b6b3634c9d5c
+		summarizeBy: none
+		sourceColumn: description
+
+		annotation SummarizationSetBy = Automatic
+
+	column max_salary
+		dataType: double
+		lineageTag: 4c6d2e22-895e-4acf-ad62-90ad81e8311a
+		summarizeBy: sum
+		sourceColumn: max_salary
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column pay_period
+		dataType: string
+		lineageTag: 1a603663-5e97-4595-bd67-0a4116076b28
+		summarizeBy: none
+		sourceColumn: pay_period
+
+		annotation SummarizationSetBy = Automatic
+
+	column location
+		dataType: string
+		lineageTag: 3318aa83-c3c9-4a86-9515-77c1a3cbb1d9
+		summarizeBy: none
+		sourceColumn: location
+
+		annotation SummarizationSetBy = Automatic
+
+	column company_id
+		dataType: int64
+		formatString: 0
+		lineageTag: 1eda72ea-b394-4e78-a26f-5f7d222761be
+		summarizeBy: sum
+		sourceColumn: company_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column views
+		dataType: int64
+		formatString: 0
+		lineageTag: 1bbc652a-7de9-47d2-946b-c8595de31829
+		summarizeBy: sum
+		sourceColumn: views
+
+		annotation SummarizationSetBy = Automatic
+
+	column med_salary
+		dataType: int64
+		formatString: 0
+		lineageTag: 450a9a17-b3e3-4784-abf7-e5ba36f00243
+		summarizeBy: sum
+		sourceColumn: med_salary
+
+		annotation SummarizationSetBy = Automatic
+
+	column min_salary
+		dataType: double
+		lineageTag: 9402cb82-19fc-425e-8f2b-b83166626bb1
+		summarizeBy: sum
+		sourceColumn: min_salary
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column formatted_work_type
+		dataType: string
+		lineageTag: 2782cf71-49e3-4d91-8ee7-df606985efb1
+		summarizeBy: none
+		sourceColumn: formatted_work_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column applies
+		dataType: int64
+		formatString: 0
+		lineageTag: beb21b66-791e-4902-b6f7-793e891fba3e
+		summarizeBy: sum
+		sourceColumn: applies
+
+		annotation SummarizationSetBy = Automatic
+
+	column original_listed_time
+		dataType: int64
+		formatString: 0
+		lineageTag: f370e383-eaad-4930-8eef-8b8bde770565
+		summarizeBy: sum
+		sourceColumn: original_listed_time
+
+		annotation SummarizationSetBy = Automatic
+
+	column remote_allowed
+		dataType: int64
+		formatString: 0
+		lineageTag: 1ce9510d-9680-495a-94be-30382966f645
+		summarizeBy: sum
+		sourceColumn: remote_allowed
+
+		annotation SummarizationSetBy = Automatic
+
+	column job_posting_url
+		dataType: string
+		lineageTag: bbcc9e67-3204-4289-9d25-ed56ce941889
+		summarizeBy: none
+		sourceColumn: job_posting_url
+
+		annotation SummarizationSetBy = Automatic
+
+	column application_url
+		dataType: string
+		lineageTag: 79a54492-55d3-4b57-b5ab-f5cd6ccb5da9
+		summarizeBy: none
+		sourceColumn: application_url
+
+		annotation SummarizationSetBy = Automatic
+
+	column application_type
+		dataType: string
+		lineageTag: 19d920d0-8e52-41b4-bf41-8aa7693fe1ea
+		summarizeBy: none
+		sourceColumn: application_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column expiry
+		dataType: int64
+		formatString: 0
+		lineageTag: 105f0366-776c-4cc4-8ba5-e9d0d06ab772
+		summarizeBy: sum
+		sourceColumn: expiry
+
+		annotation SummarizationSetBy = Automatic
+
+	column closed_time
+		dataType: int64
+		formatString: 0
+		lineageTag: 419a5375-eb2c-47ca-ab67-02368ce5dca5
+		summarizeBy: sum
+		sourceColumn: closed_time
+
+		annotation SummarizationSetBy = Automatic
+
+	column formatted_experience_level
+		dataType: string
+		lineageTag: af080c66-40d2-4711-a0a1-64605dc08031
+		summarizeBy: none
+		sourceColumn: formatted_experience_level
+
+		annotation SummarizationSetBy = Automatic
+
+	column skills_desc
+		dataType: string
+		lineageTag: bd879510-afad-4df4-8af3-a149135d2978
+		summarizeBy: none
+		sourceColumn: skills_desc
+
+		annotation SummarizationSetBy = Automatic
+
+	column listed_time
+		dataType: int64
+		formatString: 0
+		lineageTag: 06e9a5a1-3864-44f1-b135-d55a299f70e8
+		summarizeBy: sum
+		sourceColumn: listed_time
+
+		annotation SummarizationSetBy = Automatic
+
+	column posting_domain
+		dataType: string
+		lineageTag: 66232fc8-9844-46dd-81c3-c4ce34bae72e
+		summarizeBy: none
+		sourceColumn: posting_domain
+
+		annotation SummarizationSetBy = Automatic
+
+	column sponsored
+		dataType: int64
+		formatString: 0
+		lineageTag: 7c541653-97ee-4b9a-a010-d5a323e4778d
+		summarizeBy: sum
+		sourceColumn: sponsored
+
+		annotation SummarizationSetBy = Automatic
+
+	column work_type
+		dataType: string
+		lineageTag: 98598bd1-27c6-41e3-98f6-2aec07583763
+		summarizeBy: none
+		sourceColumn: work_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column currency
+		dataType: string
+		lineageTag: 92bf7f4f-15fc-472f-814e-a8a87cc92431
+		summarizeBy: none
+		sourceColumn: currency
+
+		annotation SummarizationSetBy = Automatic
+
+	column compensation_type
+		dataType: string
+		lineageTag: 326fdd97-4de4-4158-b81a-8c359be41de0
+		summarizeBy: none
+		sourceColumn: compensation_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column normalized_salary
+		dataType: double
+		lineageTag: 178c597c-e14f-42cf-9bae-8740f9eefffb
+		summarizeBy: sum
+		sourceColumn: normalized_salary
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column zip_code
+		dataType: int64
+		formatString: 0
+		lineageTag: 8b93950e-0203-4f04-afc3-a1f9419e59cc
+		summarizeBy: sum
+		sourceColumn: zip_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column fips
+		dataType: int64
+		formatString: 0
+		lineageTag: 412006c7-bb70-4fcb-b245-0804daccdf43
+		summarizeBy: sum
+		sourceColumn: fips
+
+		annotation SummarizationSetBy = Automatic
+
+	column technical_skills
+		dataType: string
+		lineageTag: 637c3580-66ad-40dc-ac69-9af52c188e53
+		summarizeBy: none
+		sourceColumn: technical_skills
+
+		annotation SummarizationSetBy = Automatic
+
+	column soft_skills
+		dataType: string
+		lineageTag: f7140b4f-6032-4b12-8830-435d00b33b7c
+		summarizeBy: none
+		sourceColumn: soft_skills
+
+		annotation SummarizationSetBy = Automatic
+
+	column tools
+		dataType: string
+		lineageTag: 3ec5b053-5f7c-40c1-ad95-54f01f263538
+		summarizeBy: none
+		sourceColumn: tools
+
+		annotation SummarizationSetBy = Automatic
+
+	column certifications
+		dataType: string
+		lineageTag: cffcb764-49b3-48c4-95c7-380c84ca5227
+		summarizeBy: none
+		sourceColumn: certifications
+
+		annotation SummarizationSetBy = Automatic
+
+	column experience
+		dataType: string
+		lineageTag: 86ca792a-e081-4ccf-aa56-2391265c6a16
+		summarizeBy: none
+		sourceColumn: experience
+
+		annotation SummarizationSetBy = Automatic
+
+	column education
+		dataType: string
+		lineageTag: 9593d1c6-c107-4b28-894e-3a7c52f623b1
+		summarizeBy: none
+		sourceColumn: education
+
+		annotation SummarizationSetBy = Automatic
+
+	column annotator
+		dataType: string
+		lineageTag: 2aea83c7-4092-42ee-bf5f-ca67f29f780e
+		summarizeBy: none
+		sourceColumn: annotator
+
+		annotation SummarizationSetBy = Automatic
+
+	column review_status
+		dataType: string
+		lineageTag: a486f9ea-9d19-411f-ac6f-286ed579a84f
+		summarizeBy: none
+		sourceColumn: review_status
+
+		annotation SummarizationSetBy = Automatic
+
+	column comments
+		dataType: string
+		lineageTag: f4273055-cd22-443d-bb1b-dc55e080d2e9
+		summarizeBy: none
+		sourceColumn: comments
+
+		annotation SummarizationSetBy = Automatic
+
+	column normalized_technical_skills
+		dataType: string
+		lineageTag: 6d0c34b1-884e-4af9-adee-3c6885ee66f2
+		summarizeBy: none
+		sourceColumn: normalized_technical_skills
+
+		annotation SummarizationSetBy = Automatic
+
+	column normalized_role
+		dataType: string
+		lineageTag: a09d9f46-8d6d-43c6-b5a8-045b7a6056b4
+		summarizeBy: none
+		sourceColumn: normalized_role
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'normalized_jobs (2)' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\PGDBA 2nd sem sources\AI_Job_Posting_Analyzer\data\processed\normalized_jobs.csv"),[Delimiter=",", Columns=42, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"job_id", Int64.Type}, {"company_name", type text}, {"title", type text}, {"description", type text}, {"max_salary", type number}, {"pay_period", type text}, {"location", type text}, {"company_id", Int64.Type}, {"views", Int64.Type}, {"med_salary", Int64.Type}, {"min_salary", type number}, {"formatted_work_type", type text}, {"applies", Int64.Type}, {"original_listed_time", Int64.Type}, {"remote_allowed", Int64.Type}, {"job_posting_url", type text}, {"application_url", type text}, {"application_type", type text}, {"expiry", Int64.Type}, {"closed_time", Int64.Type}, {"formatted_experience_level", type text}, {"skills_desc", type text}, {"listed_time", Int64.Type}, {"posting_domain", type text}, {"sponsored", Int64.Type}, {"work_type", type text}, {"currency", type text}, {"compensation_type", type text}, {"normalized_salary", type number}, {"zip_code", Int64.Type}, {"fips", Int64.Type}, {"technical_skills", type text}, {"soft_skills", type text}, {"tools", type text}, {"certifications", type text}, {"experience", type text}, {"education", type text}, {"annotator", type text}, {"review_status", type text}, {"comments", type text}, {"normalized_technical_skills", type text}, {"normalized_role", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

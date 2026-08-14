@@ -1,0 +1,34 @@
+project_scope:
+
+  include_keywords:
+
+    - business analyst
+    - data analyst
+    - business intelligence
+    - bi analyst
+    - bi developer
+    - analytics
+    - analytics engineer
+    - reporting analyst
+    - product analyst
+    - business systems analyst
+    - decision scientist
+    - data scientist
+    - machine learning
+    - ai engineer
+    - data engineer
+
+  exclude_keywords:
+
+    - nurse
+    - dentist
+    - chef
+    - cashier
+    - receptionist
+    - retail
+    - electrician
+    - driver
+    - warehouse
+    - mechanic
+    - plumber
+    - security

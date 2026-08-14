@@ -1,0 +1,31 @@
+Role_Family,Include,Regex_Pattern,Confidence
+Business Analyst,TRUE,.*business.*analyst.*,1
+Business Systems Analyst,TRUE,.*business.*systems.*analyst.*,1
+Data Analyst,TRUE,.*data.*analyst.*,1
+Reporting Analyst,TRUE,.*reporting.*analyst.*,0.98
+BI Analyst,TRUE,.*\bbi\b.*analyst.*,0.98
+Business Intelligence Analyst,TRUE,.*business.*intelligence.*analyst.*,1
+BI Developer,TRUE,.*\bbi\b.*developer.*,0.97
+Analytics Engineer,TRUE,.*analytics.*engineer.*,0.97
+Decision Scientist,TRUE,.*decision.*scientist.*,0.98
+Data Scientist,TRUE,.*data.*scientist.*,0.95
+Machine Learning Engineer,TRUE,.*machine.*learning.*engineer.*,0.95
+AI Engineer,TRUE,.*ai.*engineer.*,0.95
+Business Intelligence Developer,TRUE,.*business.*intelligence.*developer.*,0.95
+Business Intelligence Lead,TRUE,.*business.*intelligence.*lead.*,0.95
+Analytics Specialist,TRUE,.*analytics.*specialist.*,0.95
+Data Engineer,TRUE,.*data.*engineer.*,0.95
+Product Analyst,TRUE,,0.92
+Sales,FALSE,,0
+Business Development,FALSE,,0
+Customer Service,FALSE,,0
+Marketing,FALSE,,0
+Recruiter,FALSE,,0
+HR,FALSE,,0
+Nurse,FALSE,,0
+Receptionist,FALSE,,0
+Retail,FALSE,,0
+Store,FALSE,,0
+Cashier,FALSE,,0
+Chef,FALSE,,0
+Electrician,FALSE,,0

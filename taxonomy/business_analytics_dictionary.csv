@@ -1,0 +1,41 @@
+input,normalized,skill_type
+business analysis,business analysis,knowledge
+business analyst,business analysis,knowledge
+business analytics,business analysis,knowledge
+
+requirement gathering,analyse business requirements,skill/competence
+gather requirements,analyse business requirements,skill/competence
+business requirements,analyse business requirements,skill/competence
+
+stakeholder management,manage stakeholders,skill/competence
+stakeholder communication,communicate with stakeholders,skill/competence
+work with stakeholders,manage stakeholders,skill/competence
+
+dashboard,dashboard development,skill/competence
+dashboards,dashboard development,skill/competence
+build dashboard,dashboard development,skill/competence
+build dashboards,dashboard development,skill/competence
+develop dashboard,dashboard development,skill/competence
+dashboard creation,dashboard development,skill/competence
+
+report,prepare reports,skill/competence
+reports,prepare reports,skill/competence
+reporting,prepare reports,skill/competence
+create report,prepare reports,skill/competence
+create reports,prepare reports,skill/competence
+
+data analysis,data analysis,knowledge
+data analytics,data analysis,knowledge
+
+machine learning,machine learning,knowledge
+
+statistics,statistics,knowledge
+
+python,python,tool
+sql,sql,tool
+power bi,power bi,tool
+powerbi,power bi,tool
+tableau,tableau,tool
+excel,microsoft excel,tool
+azure,microsoft azure,tool
+aws,amazon web services,tool

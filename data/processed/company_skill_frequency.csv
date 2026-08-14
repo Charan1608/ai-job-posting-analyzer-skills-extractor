@@ -1,0 +1,1902 @@
+company,skill,frequency
+Capital One,machine learning,7
+USAA,statistics,7
+Capital One,Scala,6
+Capital One,Python,5
+Capital One,R,5
+Capital One,SQL,5
+Capital One,cloud technologies,5
+Capital One,ski,5
+"REV Group, Inc",solar energy,5
+Capital One,Apache Spark,4
+OpTech,Microsoft Excel,4
+Genmab,R,4
+Capital One,computer programming,4
+Capital One,statistics,4
+Nordstrom,statistics,4
+SullivanCotter,Microsoft Excel,3
+CBTS,SAP Data Services,3
+Capital One,Scikit-learn,3
+Capital One,PyTorch,3
+Capital One,TensorFlow,3
+Randstad Digital,R,3
+ATC,ICT project management methodologies,3
+ATC,Software Development Life Cycle,3
+ATC,Requirements Gathering,3
+Brighton Jones,R,3
+AspiringIT,database management systems,3
+NetApp,asset management,3
+Capital One,deep learning,3
+Capital One,Source (digital game creation systems),3
+Capital One,database,3
+Capital One,Amazon Web Services,3
+Cisco,R,3
+Capital One,solar energy,3
+Robbie AI,computer vision,3
+Maxonic,computer programming,3
+Cognizant,statistics,3
+Capital One,ICT project management methodologies,3
+Capital One,natural gas,3
+Rose International,computer programming,3
+Frost,statistics,3
+Citi,semiconductors,3
+Westlake,solar energy,3
+Auburn University,use computer telephony integration,3
+Vaco,database,3
+Thoughtwave Software and Solutions,R,3
+Encore Talent Solutions,SAP Data Services,3
+The Hawk Group,R,3
+TikTok,Python,2
+TikTok,database,2
+Fidelity Investments,R,2
+Capital One,Java (computer programming),2
+Capital One,Dask,2
+National Indemnity Company,ICT project management methodologies,2
+Experis,machine learning,2
+Prodware Solutions,deep learning,2
+Prodware Solutions,electrical machines,2
+Prodware Solutions,natural language processing,2
+Prodware Solutions,Large Language Models,2
+"Teaching Strategies, LLC",R,2
+C2FO,radiotherapy,2
+Synechron,Databricks,2
+Brighton Jones,database,2
+McKesson,business intelligence,2
+McKesson,R,2
+TELUS International AI Data Solutions,reverse engineering,2
+TELUS International AI Data Solutions,search engines,2
+Staffmark Group,R,2
+DP Professionals (DPP),SQL,2
+Capital Group,Microsoft Copilot,2
+Verizon,SQL,2
+Verizon,R,2
+Verizon,Python,2
+Verizon,Tableau,2
+Cisco,natural gas,2
+Capital One,teach secondary education class content,2
+Capital One,H2O.ai,2
+Capital One,debt classification,2
+Capital One,Sentiment Analysis,2
+Capital One,Time Series Analysis,2
+Genmab,Databricks,2
+Robbie AI,R,2
+TikTok,R,2
+TikTok,algorithms,2
+TELUS International,search engines,2
+HireTalent - Diversity Staffing & Recruiting Firm,ICT project management methodologies,2
+HireTalent - Diversity Staffing & Recruiting Firm,R,2
+HireTalent - Diversity Staffing & Recruiting Firm,SQL,2
+The Job Network,plan,2
+The Job Network,semiconductors,2
+Realtek Consulting LLC,machine learning,2
+Maxonic,troubleshoot,2
+Maxonic,statistics,2
+ATC,business analysis,2
+ATC,system design,2
+ATC,use computer telephony integration,2
+ATC,execute integration testing,2
+ATC,User Acceptance Testing,2
+HireTalent - Diversity Staffing & Recruiting Firm,business intelligence,2
+HireTalent - Diversity Staffing & Recruiting Firm,computer programming,2
+HireTalent - Diversity Staffing & Recruiting Firm,statistics,2
+Kaizer Software Solutions,computer programming,2
+AT&T,statistics,2
+AT&T,computer programming,2
+PODS,radiotherapy,2
+PODS,statistics,2
+Cognizant,business intelligence,2
+"Elegant Enterprise-Wide Solutions, Inc.",statistics,2
+Paramount,financial analysis,2
+ATC,plan,2
+Capital One,data engineering,2
+Capital One,Data Governance,2
+Capital One,learning management systems,2
+PulsePoint,statistics,2
+Cognizant,sing,2
+Cognizant,R,2
+Rose International,integrated circuits,2
+Capital One,semiconductors,2
+Capital One,business intelligence,2
+Citi,risk management,2
+Citi,natural gas,2
+Citi,communication,2
+Citi,integrated circuits,2
+Nebula,statistics,2
+Westlake,Microsoft SharePoint,2
+Westlake,business processes,2
+Westlake,plan,2
+Florida Blue,statistics,2
+Florida Blue,quantitative analysis,2
+Florida Blue,identify process improvements,2
+USAA,principles of artificial intelligence,2
+USAA,machine learning,2
+USAA,natural language processing,2
+"Aptino, Inc.",use computer telephony integration,2
+Auburn University,solar energy,2
+Auburn University,business analysis,2
+Experis,Generative AI,2
+Experis,Data Governance,2
+Pop-Up Talent,computer programming,2
+Pop-Up Talent,statistics,2
+Vaco,radiotherapy,2
+Vaco,CI/CD,2
+SAE International,ML (computer programming),2
+JPMorgan Chase & Co.,information architecture,2
+Robert Half,SAP FICO,2
+Publicis Sapient,business intelligence,2
+Publicis Sapient,R,2
+USAA,Python,2
+USAA,SQL,2
+"FUJIFILM Cellular Dynamics, Inc",R,2
+ICE,computer programming,2
+Dice,Python,2
+Dice,R,2
+Central Point Partners,R,2
+Complete Staffing Solutions,SQL,2
+EY,R,2
+Oracle,business intelligence,2
+Ledgent Technology,SQL,2
+Ledgent Technology,Power BI,2
+Ledgent Technology,blockchain consensus mechanisms,2
+SullivanCotter,Microsoft Office,1
+SullivanCotter,SQL,1
+SullivanCotter,Tableau,1
+SullivanCotter,R,1
+SullivanCotter,Power BI,1
+SullivanCotter,Python,1
+SullivanCotter,Azure DevOps,1
+Aequor,Jira,1
+Aequor,Figma,1
+Aequor,Adobe XD,1
+Aequor,Agile development,1
+Aequor,information structure,1
+Aequor,hardware platforms,1
+Aequor,Backend Development,1
+Aequor,data engineering,1
+ApTask,Amazon Web Services,1
+ApTask,Python,1
+Soni,computer programming,1
+Soni,use computer telephony integration,1
+CBTS,SAP FICO,1
+CBTS,semiconductors,1
+CBTS,plan,1
+CBTS,SQL,1
+CBTS,interpreting modes,1
+TikTok,SQL,1
+TikTok,"data extraction, transformation and loading tools",1
+TikTok,data models,1
+"Securitas Security Services USA, Inc.",R,1
+"Securitas Security Services USA, Inc.",CAM software,1
+"Securitas Security Services USA, Inc.",service-oriented modelling,1
+Fidelity Investments,SQL,1
+Fidelity Investments,database,1
+Fidelity Investments,Amazon DynamoDB,1
+Fidelity Investments,reverse engineering,1
+Fidelity Investments,Oracle Warehouse Builder,1
+Fidelity Investments,analyse pipeline database information,1
+Fidelity Investments,manage workflow processes,1
+Fidelity Investments,Amazon EC2,1
+Fidelity Investments,Amazon S3,1
+Fidelity Investments,digital identity management,1
+Fidelity Investments,Python,1
+Fidelity Investments,CI/CD,1
+Fidelity Investments,Jenkins (tools for software configuration management),1
+Fidelity Investments,Full Stack Development,1
+Fidelity Investments,distributed computing,1
+Fidelity Investments,Software Development Life Cycle,1
+Aquent,JavaScript,1
+Aquent,XML,1
+Aquent,XML Schema,1
+Aquent,data models,1
+Aquent,service-oriented modelling,1
+Aquent,database,1
+GE Vernova,perform failure analysis of production process,1
+GE Vernova,root cause analysis,1
+GE Vernova,data analytics,1
+National Indemnity Company,reverse engineering,1
+National Indemnity Company,Kanban,1
+National Indemnity Company,Azure DevOps,1
+National Indemnity Company,Jira,1
+National Indemnity Company,R,1
+National Indemnity Company,Cloud Native,1
+National Indemnity Company,Amazon Web Services,1
+National Indemnity Company,Google Cloud Platform,1
+Qualibar,Power BI,1
+Qualibar,SQL Server Integration Services,1
+Qualibar,SQL Server,1
+Qualibar,data models,1
+Qualibar,SQL,1
+Qualibar,mathematics,1
+Experis,public relations,1
+Experis,marketing analytics,1
+Experis,ski,1
+Experis,Microsoft Excel,1
+Experis,use presentation software,1
+Experis,graphic design,1
+Experis,keywords in digital content,1
+Experis,natural language processing,1
+Kavaliro,interpreting modes,1
+Kavaliro,radiotherapy,1
+Kavaliro,Pentaho Data Integration,1
+Kavaliro,use microsoft office,1
+Kavaliro,Microsoft Excel,1
+Kavaliro,IFS ERP,1
+Kavaliro,SAP Data Services,1
+Kavaliro,reverse engineering,1
+Eliassen Group,SQL,1
+Eliassen Group,radiotherapy,1
+Eliassen Group,learning management systems,1
+Eliassen Group,logic,1
+"Teaching Strategies, LLC",machine learning,1
+"Teaching Strategies, LLC",Apache Airflow,1
+"Teaching Strategies, LLC",Apache Spark,1
+"Teaching Strategies, LLC",Kubernetes,1
+"Teaching Strategies, LLC",Amazon SageMaker,1
+"Teaching Strategies, LLC",Amazon Web Services,1
+"Teaching Strategies, LLC",PyTorch,1
+"Teaching Strategies, LLC",Python,1
+"Teaching Strategies, LLC",crimping,1
+"Teaching Strategies, LLC",CI/CD,1
+"Teaching Strategies, LLC",business intelligence,1
+"Teaching Strategies, LLC",Amazon Athena,1
+Randstad Digital,Microsoft Excel,1
+Randstad Digital,use microsoft office,1
+Randstad Digital,Coupa,1
+Netradyne,deep learning,1
+Netradyne,machine learning,1
+Netradyne,computer vision,1
+Netradyne,Python,1
+Netradyne,PyTorch,1
+Netradyne,TensorFlow,1
+Oshkosh Corporation,Python,1
+Oshkosh Corporation,Java (computer programming),1
+Oshkosh Corporation,Scala,1
+Oshkosh Corporation,SQL,1
+Oshkosh Corporation,Apache Hadoop,1
+Oshkosh Corporation,Apache Spark,1
+Oshkosh Corporation,Apache Kafka,1
+Oshkosh Corporation,data warehouse,1
+Oshkosh Corporation,"data extraction, transformation and loading tools",1
+Oshkosh Corporation,types of tidal stream generators,1
+Oshkosh Corporation,reverse engineering,1
+C2FO,sing,1
+C2FO,Kimball Methodology,1
+C2FO,information structure,1
+C2FO,data warehouse,1
+Synechron,Python,1
+Synechron,C#,1
+Synechron,Java (computer programming),1
+Synechron,SQL,1
+Synechron,"data extraction, transformation and loading tools",1
+Synechron,Data Warehouse,1
+Synechron,Git,1
+Synechron,Jira,1
+Synechron,use online tools to collaborate,1
+Synechron,Jenkins (tools for software configuration management),1
+Synechron,R,1
+Synechron,Snowflake,1
+Synechron,SQL Server Integration Services,1
+Synechron,SQL Server Reporting Services,1
+Cornerstone Building Brands,sing,1
+Cornerstone Building Brands,Data Manipulation,1
+Cornerstone Building Brands,manage standards for data exchange,1
+Cornerstone Building Brands,normalise data,1
+Cornerstone Building Brands,statistics,1
+Cornerstone Building Brands,SQL,1
+Cornerstone Building Brands,natural gas,1
+Cornerstone Building Brands,DAX,1
+Cornerstone Building Brands,Python,1
+Cornerstone Building Brands,R,1
+Cornerstone Building Brands,data visualisation software,1
+Brighton Jones,Salesforce,1
+Brighton Jones,MuleSoft,1
+Brighton Jones,Snowflake,1
+Brighton Jones,integrated circuits,1
+Brighton Jones,Amazon S3,1
+Brighton Jones,glue film reels,1
+Brighton Jones,Amazon Athena,1
+PDSSOFT INC.,financial analysis,1
+PDSSOFT INC.,business analysis,1
+PDSSOFT INC.,statistics,1
+PDSSOFT INC.,use specialised computer models for weather forecasting,1
+Vertiv,manage athletes,1
+Vertiv,JavaScript,1
+Vertiv,interpreting modes,1
+Vertiv,Configure Price Quote,1
+Vertiv,customer relationship management,1
+Vertiv,Microsoft Access,1
+Vertiv,Microsoft Excel,1
+Vertiv,design the physical outlook of games,1
+Vertiv,keywords in digital content,1
+Michael Page,international carriage of dangerous goods by road,1
+Michael Page,Bloomberg,1
+Michael Page,Microsoft Excel,1
+Michael Page,SQL,1
+Michael Page,business intelligence,1
+AspiringIT,economics,1
+AspiringIT,accounting,1
+AspiringIT,e-procurement,1
+AspiringIT,negotiate supplier arrangements,1
+AspiringIT,integrated circuits,1
+AspiringIT,keywords in digital content,1
+AspiringIT,Microsoft Excel,1
+AspiringIT,use presentation software,1
+AspiringIT,fit low vision aids,1
+AspiringIT,Microsoft SharePoint,1
+AspiringIT,Jira,1
+AspiringIT,maintain statutory books,1
+Talentify.io,SQL,1
+Talentify.io,R,1
+Talentify.io,SAS,1
+Talentify.io,Tableau,1
+Talentify.io,Power BI,1
+Talentify.io,use microsoft office,1
+NetApp,integrated circuits,1
+NetApp,operations management,1
+NetApp,Configuration Management Database,1
+NetApp,DevOps,1
+NetApp,Infrastructure as a Service,1
+NetApp,Microsoft Project,1
+NetApp,fit low vision aids,1
+NetApp,keywords in digital content,1
+NetApp,ensure infrastructure accessibility,1
+McKesson,data engineering,1
+McKesson,plan migration to cloud,1
+McKesson,semiconductors,1
+McKesson,information architecture,1
+McKesson,data models,1
+McKesson,radiotherapy,1
+McKesson,solar energy,1
+McKesson,analyse pipeline database information,1
+McKesson,process data,1
+McKesson,Apache Hadoop,1
+McKesson,archive scientific documentation,1
+McKesson,Snowflake,1
+McKesson,Databricks,1
+McKesson,Google Cloud Platform,1
+McKesson,Microsoft Azure,1
+McKesson,Python,1
+McKesson,Bash,1
+McKesson,manage time,1
+McKesson,Power BI,1
+McKesson,Tableau,1
+McKesson,integrated development environment software,1
+McKesson,SQL,1
+ITW,solar energy,1
+ITW,computer programming,1
+orangepeople,augmented reality,1
+orangepeople,computer programming,1
+orangepeople,SQL,1
+orangepeople,XML,1
+orangepeople,JavaScript,1
+orangepeople,SAS,1
+orangepeople,Microsoft Excel,1
+Staffmark Group,Microsoft Excel,1
+Staffmark Group,use presentation software,1
+Staffmark Group,Tableau,1
+Staffmark Group,Python,1
+Staffmark Group,SQL,1
+Staffmark Group,data mining,1
+Staffmark Group,types of metal manufacturing processes,1
+Staffmark Group,statistical modeling techniques,1
+Staffmark Group,natural gas,1
+Staffmark Group,solar energy,1
+Staffmark Group,mathematics,1
+Unified Women's Healthcare,SQL,1
+Unified Women's Healthcare,database,1
+Unified Women's Healthcare,data warehouse,1
+Unified Women's Healthcare,Power BI,1
+Unified Women's Healthcare,Microsoft Excel,1
+Unified Women's Healthcare,DAX,1
+Unified Women's Healthcare,Python,1
+DP Professionals (DPP),ICT project management methodologies,1
+DP Professionals (DPP),tools for ICT test automation,1
+DP Professionals (DPP),Microsoft Office,1
+DP Professionals (DPP),Microsoft SharePoint,1
+DP Professionals (DPP),manage sales teams,1
+Capital Group,Microsoft SharePoint,1
+Capital Group,manage currency exchange risk mitigation techniques,1
+Capital Group,manage sales teams,1
+Capital Group,integrated circuits,1
+Capital Group,ML (computer programming),1
+Capital Group,computer programming,1
+VolunteerMatch,Python,1
+VolunteerMatch,R,1
+VolunteerMatch,SQL,1
+VolunteerMatch,machine learning,1
+VolunteerMatch,statistics,1
+VolunteerMatch,data visualisation software,1
+Deloitte,Python,1
+Deloitte,R,1
+Deloitte,Visual Basic,1
+Deloitte,SQL,1
+Deloitte,Tableau,1
+Deloitte,QlikView Expressor,1
+Deloitte,Power BI,1
+Deloitte,D3.js,1
+Deloitte,SQL Server,1
+Deloitte,Oracle SQL,1
+Deloitte,database,1
+Deloitte,"data extraction, transformation and loading tools",1
+Deloitte,manage standards for data exchange,1
+Deloitte,natural gas,1
+Deloitte,statistics,1
+Deloitte,machine learning,1
+Deloitte,natural language processing,1
+Deloitte,lead process optimisation,1
+Deloitte,computer simulation,1
+EAB,web programming,1
+EAB,computer programming,1
+EAB,statistics,1
+EAB,Python,1
+EAB,Microsoft Excel,1
+EAB,use presentation software,1
+EAB,Visual Basic,1
+EAB,Tableau,1
+EAB,R,1
+EAB,SQL,1
+Gainwell Technologies,SQL,1
+Gainwell Technologies,NoSQL,1
+Gainwell Technologies,business processes,1
+Gainwell Technologies,design process,1
+Gainwell Technologies,collection management,1
+Gainwell Technologies,project management,1
+Verizon,Teradata Database,1
+Verizon,scaffolding components,1
+Verizon,learning management systems,1
+Verizon,Adobe Experience Cloud,1
+Experis,develop with cloud services,1
+Experis,network management system tools,1
+Experis,use mathematical tools and equipment,1
+Experis,process applications,1
+Experis,communication,1
+TekWissen ®,fit low vision aids,1
+TekWissen ®,Figma,1
+Intellisoft Technologies,Python,1
+Intellisoft Technologies,SQL,1
+Intellisoft Technologies,ML (computer programming),1
+Intellisoft Technologies,machine learning,1
+Intellisoft Technologies,principles of artificial intelligence,1
+Intellisoft Technologies,statistical modeling techniques,1
+Intellisoft Technologies,data mining,1
+Intellisoft Technologies,algorithms,1
+Intellisoft Technologies,types of tidal stream generators,1
+Intellisoft Technologies,R,1
+OP Labs,SQL,1
+OP Labs,Python,1
+OP Labs,database,1
+OP Labs,Apache Hadoop,1
+OP Labs,Apache Spark,1
+OP Labs,Apache Kafka,1
+OP Labs,Apache Airflow,1
+OP Labs,dbt,1
+OP Labs,Google Cloud Platform,1
+OP Labs,Amazon Web Services,1
+OP Labs,Web3,1
+OP Labs,blockchain,1
+Transamerica,mathematical modelling,1
+Transamerica,actuarial science,1
+Transamerica,statistics,1
+Transamerica,machine learning,1
+Transamerica,principles of artificial intelligence,1
+Transamerica,Derivatives Modeling,1
+Transamerica,liquidity management,1
+OpTech,data analytics,1
+OpTech,office software,1
+Expedia Group,SQL,1
+Expedia Group,Tableau,1
+Expedia Group,R,1
+Expedia Group,Power BI,1
+Expedia Group,Python,1
+PrimePay,Python,1
+PrimePay,R,1
+PrimePay,SQL,1
+PrimePay,Tableau,1
+PrimePay,Power BI,1
+PrimePay,QlikView Expressor,1
+PrimePay,SPSS,1
+PrimePay,SAS,1
+PrimePay,Stata,1
+PrimePay,Microsoft Excel,1
+PrimePay,use spreadsheets software,1
+PrimePay,MATLAB,1
+Xoriant,unified modelling language,1
+Xoriant,Azure DevOps,1
+Xoriant,software UI design patterns,1
+Xoriant,XML,1
+Xoriant,Microsoft Azure,1
+Xoriant,Angular,1
+Xoriant,network engineering,1
+Xoriant,R,1
+Xoriant,C#,1
+Xoriant,TypeScript,1
+Xoriant,SQL,1
+Xoriant,NoSQL,1
+Xoriant,JSON,1
+Xoriant,JSONB,1
+Thermo Fisher Scientific,Microsoft Office,1
+Thermo Fisher Scientific,database,1
+Capital One,computer vision,1
+Capital One,electrical machines,1
+Capital One,natural language processing,1
+Capital One,Recommendation Systems,1
+Confidential,KNIME,1
+Confidential,Visual Basic,1
+Confidential,SQL,1
+Confidential,Microsoft Excel,1
+Confidential,Microsoft Access,1
+Confidential,report facts,1
+Cisco,Python,1
+Cisco,Apache Spark,1
+Cisco,HDFS,1
+Cisco,Apache Kafka,1
+Cisco,Apache Druid,1
+Cisco,MySQL,1
+Cisco,Apache Airflow,1
+Cisco,Amazon EC2,1
+Cisco,glue film reels,1
+Cisco,Amazon S3,1
+Fingerpaint Group,Tableau,1
+Fingerpaint Group,SQL,1
+Fingerpaint Group,data mining,1
+Fingerpaint Group,use computer telephony integration,1
+Fingerpaint Group,statistical modeling techniques,1
+Mitchell Martin Inc.,Oracle BI Publisher,1
+Mitchell Martin Inc.,SQL,1
+ChabezTech LLC,Azure Data Factory,1
+ChabezTech LLC,data warehouse,1
+ChabezTech LLC,integrated circuits,1
+ChabezTech LLC,semiconductors,1
+ChabezTech LLC,Apache Spark,1
+ChabezTech LLC,Python,1
+ChabezTech LLC,Scala,1
+ChabezTech LLC,SQL,1
+ChabezTech LLC,SQL Server,1
+ChabezTech LLC,Teradata Database,1
+ChabezTech LLC,Snowflake,1
+ChabezTech LLC,Azure Synapse,1
+ChabezTech LLC,Git,1
+ChabezTech LLC,GitHub,1
+Genmab,"data extraction, transformation and loading tools",1
+Genmab,building automation,1
+Genmab,manage workflow processes,1
+Genmab,Python,1
+Genmab,integrated circuits,1
+Genmab,use object-oriented programming,1
+Genmab,Pandas,1
+Genmab,start up chocolate moulding line,1
+Genmab,HISAT2,1
+Genmab,DESeq2,1
+Genmab,Amazon Athena,1
+Genmab,glue film reels,1
+Genmab,Lakehouse,1
+Genmab,types of tidal stream generators,1
+Genmab,ICT project management methodologies,1
+Genmab,tools for software configuration management,1
+Genmab,project management,1
+Genmab,Jira,1
+Genmab,cloud technologies,1
+Genmab,computer programming,1
+Genmab,Amazon ECS,1
+Genmab,dump batches,1
+Genmab,Elastic Load Balancer,1
+Genmab,Apache Spark,1
+PSEG,integrated circuits,1
+PSEG,Microsoft Excel,1
+PSEG,use presentation software,1
+PSEG,statistics,1
+PSEG,quantitative analysis,1
+PSEG,R,1
+Robbie AI,Python,1
+Robbie AI,NumPy,1
+Robbie AI,SciPy,1
+Robbie AI,Matplotlib,1
+Robbie AI,Scikit-learn,1
+Robbie AI,computer programming,1
+Robbie AI,Kali Linux,1
+Robbie AI,PyTorch,1
+Robbie AI,TensorFlow,1
+Robbie AI,C++,1
+Robbie AI,Git,1
+Robbie AI,artificial neural networks,1
+Robbie AI,deep learning,1
+TikTok,Java (computer programming),1
+TikTok,C++,1
+TikTok,TensorFlow,1
+TikTok,PyTorch,1
+TikTok,MXNet,1
+TikTok,Apache Spark,1
+TikTok,machine learning,1
+TikTok,deep learning,1
+TikTok,reverse engineering,1
+TikTok,computer programming,1
+"Imagine Staffing Technology, An Imagine Company",SQL,1
+"Imagine Staffing Technology, An Imagine Company",SAS,1
+"Imagine Staffing Technology, An Imagine Company",Python,1
+"Imagine Staffing Technology, An Imagine Company",R,1
+"Imagine Staffing Technology, An Imagine Company",Tableau,1
+"Imagine Staffing Technology, An Imagine Company",Power BI,1
+"Imagine Staffing Technology, An Imagine Company",Apache Hadoop,1
+"Imagine Staffing Technology, An Imagine Company",data visualisation software,1
+"Imagine Staffing Technology, An Imagine Company",statistics,1
+"Imagine Staffing Technology, An Imagine Company",data mining,1
+Okta,Python,1
+Okta,Scala,1
+Okta,C++,1
+Okta,Java (computer programming),1
+Okta,SQL,1
+Okta,Scikit-learn,1
+Okta,Pandas,1
+Okta,machine learning,1
+Okta,data science,1
+Okta,reverse engineering,1
+Okta,Snowflake,1
+Okta,Apache Airflow,1
+Okta,Docker,1
+Okta,Kubernetes,1
+Constellis,SQL,1
+Constellis,design database scheme,1
+Constellis,computer programming,1
+Constellis,Microsoft Excel,1
+Constellis,integrated circuits,1
+Constellis,blockchain consensus mechanisms,1
+Constellis,Microsoft SharePoint,1
+Navy Federal Credit Union,SQL,1
+Navy Federal Credit Union,R,1
+Navy Federal Credit Union,Python,1
+Navy Federal Credit Union,Apache Hadoop,1
+Navy Federal Credit Union,SAS,1
+Navy Federal Credit Union,SPSS,1
+Navy Federal Credit Union,Scala,1
+Navy Federal Credit Union,Amazon Web Services,1
+Navy Federal Credit Union,machine learning,1
+Navy Federal Credit Union,data mining,1
+Navy Federal Credit Union,natural gas,1
+Navy Federal Credit Union,computer programming,1
+Navy Federal Credit Union,perform fuel reconciliation,1
+Navy Federal Credit Union,arrange surgery operating site,1
+Navy Federal Credit Union,data models,1
+Navy Federal Credit Union,computer simulation,1
+Navy Federal Credit Union,mathematics,1
+Navy Federal Credit Union,GitHub,1
+Gypsum Management and Supply,Microsoft Excel,1
+Gypsum Management and Supply,Visual Basic,1
+Gypsum Management and Supply,Power BI,1
+Gypsum Management and Supply,blockchain consensus mechanisms,1
+Gypsum Management and Supply,machine learning,1
+HireTalent - Diversity Staffing & Recruiting Firm,Microsoft Office,1
+HireTalent - Diversity Staffing & Recruiting Firm,Jira,1
+HireTalent - Diversity Staffing & Recruiting Firm,use databases,1
+HireTalent - Diversity Staffing & Recruiting Firm,Power BI,1
+HireTalent - Diversity Staffing & Recruiting Firm,Tableau,1
+ARCO a Family of Construction Companies,Microsoft Office,1
+ARCO a Family of Construction Companies,statistics,1
+ARCO a Family of Construction Companies,public relations,1
+ARCO a Family of Construction Companies,project management,1
+Baxter International Inc.,Salesforce,1
+Baxter International Inc.,Power BI,1
+Baxter International Inc.,ski,1
+The Job Network,make data-driven decisions,1
+The Job Network,demonstrate leadership in social service cases,1
+The Job Network,team building,1
+The Job Network,lead others,1
+The Job Network,social innovation,1
+The Job Network,types of metal manufacturing processes,1
+The Job Network,ski,1
+The Job Network,data analytics,1
+The Job Network,data visualisation software,1
+The Job Network,use computer telephony integration,1
+The Job Network,reverse engineering,1
+The Job Network,think creatively,1
+The Job Network,apply change management,1
+Realtek Consulting LLC,deep learning,1
+Realtek Consulting LLC,process data,1
+Realtek Consulting LLC,perform dimensionality reduction,1
+Realtek Consulting LLC,Model Deployment,1
+Realtek Consulting LLC,ML (computer programming),1
+Realtek Consulting LLC,perform cleaning duties,1
+Realtek Consulting LLC,computer programming,1
+Realtek Consulting LLC,debt classification,1
+Realtek Consulting LLC,solve problems,1
+Realtek Consulting LLC,ski,1
+Realtek Consulting LLC,algorithms,1
+Realtek Consulting LLC,natural gas,1
+Realtek Consulting LLC,Model Management,1
+Realtek Consulting LLC,statistics,1
+Realtek Consulting LLC,sing,1
+Realtek Consulting LLC,R,1
+Realtek Consulting LLC,database,1
+Realtek Consulting LLC,SQL,1
+Realtek Consulting LLC,data engineering,1
+Realtek Consulting LLC,Workflow Orchestration,1
+Realtek Consulting LLC,learning management systems,1
+Realtek Consulting LLC,reverse engineering,1
+Realtek Consulting LLC,supervision of persons,1
+W3Global,business analysis,1
+W3Global,business process modelling,1
+W3Global,building information modelling,1
+W3Global,analyse blockchain use cases,1
+W3Global,User Stories,1
+W3Global,computer programming,1
+W3Global,design metal components,1
+W3Global,statistics,1
+W3Global,data models,1
+W3Global,Data Flow Diagram,1
+W3Global,Process Flowchart,1
+W3Global,interact with users to gather requirements,1
+W3Global,Requirements Engineering,1
+W3Global,Agile development,1
+W3Global,create prototype of user experience solutions,1
+W3Global,customer relationship management,1
+W3Global,computer technology,1
+W3Global,augmented reality,1
+W3Global,Software Delivery,1
+JSR Tech Consulting,Agile development,1
+JSR Tech Consulting,Test-Driven Development,1
+JSR Tech Consulting,project management,1
+JSR Tech Consulting,plan product management,1
+JSR Tech Consulting,business analysis,1
+JSR Tech Consulting,business processes,1
+JSR Tech Consulting,make decisions,1
+JSR Tech Consulting,think critically,1
+JSR Tech Consulting,apply business acumen,1
+JSR Tech Consulting,financial capability,1
+JSR Tech Consulting,think analytically,1
+JSR Tech Consulting,solve problems,1
+JSR Tech Consulting,statistics,1
+JSR Tech Consulting,interact with users to gather requirements,1
+JSR Tech Consulting,engage with stakeholders,1
+JSR Tech Consulting,public relations,1
+JSR Tech Consulting,write technical reports,1
+JSR Tech Consulting,communication,1
+JSR Tech Consulting,human-robot collaboration,1
+JSR Tech Consulting,demonstrate leadership in social service cases,1
+JSR Tech Consulting,assess your competences for artistic coaching,1
+JSR Tech Consulting,supervision of persons,1
+IT Automation LLC,customer relationship management,1
+IT Automation LLC,business analysis,1
+IT Automation LLC,public relations,1
+IT Automation LLC,collection management,1
+IT Automation LLC,ICT project management methodologies,1
+IT Automation LLC,create prototype of user experience solutions,1
+IT Automation LLC,natural gas,1
+IT Automation LLC,DevOps,1
+IT Automation LLC,CI/CD,1
+Centene Corporation,statistics,1
+Centene Corporation,business analysis,1
+Centene Corporation,User Acceptance Testing,1
+Centene Corporation,identify process improvements,1
+Centene Corporation,project management,1
+Centene Corporation,Oracle Data Integrator,1
+Centene Corporation,morality,1
+Centene Corporation,migration,1
+Centene Corporation,ICT project management methodologies,1
+Centene Corporation,Pentaho Data Integration,1
+Centene Corporation,iron textiles,1
+Centene Corporation,claims procedures,1
+Libsys Inc,machine learning,1
+Libsys Inc,ML (computer programming),1
+Libsys Inc,computer programming,1
+Libsys Inc,create data sets,1
+Libsys Inc,SDK Development,1
+Libsys Inc,API Development,1
+Libsys Inc,modern portfolio theory,1
+Libsys Inc,database,1
+Libsys Inc,natural gas,1
+Libsys Inc,Generative AI,1
+Libsys Inc,MLOps,1
+Maxonic,business analysis,1
+Maxonic,semiconductors,1
+Maxonic,think creatively,1
+Maxonic,natural gas,1
+Maxonic,execute feasibility study,1
+Maxonic,business requirements techniques,1
+Maxonic,analyse business requirements,1
+Maxonic,create project specifications,1
+Maxonic,perform software unit testing,1
+Maxonic,ICT system integration,1
+Maxonic,learning management systems,1
+Maxonic,identify process improvements,1
+Maxonic,use computer telephony integration,1
+Maxonic,translate artistic concepts to technical designs,1
+Maxonic,Process Flow Analysis,1
+ATC,demonstrate leadership in social service cases,1
+ATC,ski,1
+ATC,apply business acumen,1
+ATC,conduct patch testing,1
+Algosrus.com,use computer telephony integration,1
+Algosrus.com,develop business case,1
+Algosrus.com,prepare sales checks,1
+Algosrus.com,marketing mix,1
+Algosrus.com,principles of artificial intelligence,1
+HireTalent - Diversity Staffing & Recruiting Firm,Data Governance,1
+HireTalent - Diversity Staffing & Recruiting Firm,think creatively,1
+HireTalent - Diversity Staffing & Recruiting Firm,hardware testing methods,1
+HireTalent - Diversity Staffing & Recruiting Firm,audit techniques,1
+HireTalent - Diversity Staffing & Recruiting Firm,perform quality audits,1
+HireTalent - Diversity Staffing & Recruiting Firm,Data Lineage,1
+HireTalent - Diversity Staffing & Recruiting Firm,natural gas,1
+HireTalent - Diversity Staffing & Recruiting Firm,risk management,1
+HireTalent - Diversity Staffing & Recruiting Firm,manage ICT data classification,1
+HireTalent - Diversity Staffing & Recruiting Firm,apply information security policies,1
+HireTalent - Diversity Staffing & Recruiting Firm,data protection,1
+HireTalent - Diversity Staffing & Recruiting Firm,supervise waste disposal,1
+HireTalent - Diversity Staffing & Recruiting Firm,document management,1
+HireTalent - Diversity Staffing & Recruiting Firm,DevOps,1
+HireTalent - Diversity Staffing & Recruiting Firm,project management,1
+HireTalent - Diversity Staffing & Recruiting Firm,sing,1
+HireTalent - Diversity Staffing & Recruiting Firm,database,1
+HireTalent - Diversity Staffing & Recruiting Firm,knowledge management,1
+HireTalent - Diversity Staffing & Recruiting Firm,solar energy,1
+HireTalent - Diversity Staffing & Recruiting Firm,reverse engineering,1
+HireTalent - Diversity Staffing & Recruiting Firm,develop with cloud services,1
+HireTalent - Diversity Staffing & Recruiting Firm,Real-Time Data Processing,1
+HireTalent - Diversity Staffing & Recruiting Firm,data warehouse,1
+HireTalent - Diversity Staffing & Recruiting Firm,"data extraction, transformation and loading tools",1
+HireTalent - Diversity Staffing & Recruiting Firm,perform data cleansing,1
+HireTalent - Diversity Staffing & Recruiting Firm,data models,1
+HireTalent - Diversity Staffing & Recruiting Firm,track key performance indicators,1
+HireTalent - Diversity Staffing & Recruiting Firm,data analytics,1
+HireTalent - Diversity Staffing & Recruiting Firm,decision support systems,1
+Vidmob,Groovy,1
+Vidmob,utilise computer-aided software engineering tools,1
+Vidmob,types of tidal stream generators,1
+Vidmob,supervision of persons,1
+Vidmob,human-robot collaboration,1
+Vidmob,computer programming,1
+Vidmob,satisfy technical requirements,1
+Vidmob,ICT project management methodologies,1
+Vidmob,liaise with quality assurance,1
+Vidmob,Scala,1
+Vidmob,cyber security,1
+Vidmob,principles of artificial intelligence,1
+Vidmob,natural language processing,1
+Vidmob,Large Language Models,1
+Vidmob,computer vision,1
+Vidmob,statistics,1
+Vidmob,develop automated software tests,1
+Vidmob,perform software unit testing,1
+Vidmob,execute integration testing,1
+Vidmob,natural gas,1
+Vidmob,monitor drilling fluid,1
+Vidmob,monitor international market performance,1
+Vidmob,meet commitments,1
+Vidmob,health care system,1
+Vidmob,business intelligence,1
+Vidmob,database,1
+Vidmob,data analytics,1
+Vidmob,report analysis results,1
+Rose International,statistics,1
+Rose International,data visualisation software,1
+Rose International,root cause analysis,1
+Rose International,solve problems,1
+Rose International,supervision of persons,1
+Rose International,talent management strategies,1
+Rose International,natural gas,1
+Rose International,lead process optimisation,1
+Rose International,analyse pipeline database information,1
+Rose International,data models,1
+Rose International,semiconductors,1
+Kaizer Software Solutions,business analysis,1
+Kaizer Software Solutions,identify process improvements,1
+AT&T,natural gas,1
+AT&T,Pentaho Data Integration,1
+AT&T,business intelligence,1
+AT&T,web analytics,1
+AT&T,semiconductors,1
+AT&T,troubleshoot,1
+AT&T,define data quality criteria,1
+AT&T,data visualisation software,1
+AT&T,solve problems,1
+AT&T,data mining,1
+AT&T,use computer telephony integration,1
+AT&T,data models,1
+AT&T,Data Governance,1
+AT&T,information architecture,1
+AT&T,sing,1
+AT&T,analyse pipeline database information,1
+AT&T,radiotherapy,1
+AT&T,perform data cleansing,1
+AT&T,public relations,1
+AT&T,Data Lineage,1
+PODS,perform contract reporting and evaluation,1
+PODS,web analytics,1
+PODS,plan rig operations,1
+PODS,control compliance of railway vehicles regulations,1
+PODS,morality,1
+PODS,audit contractors,1
+PODS,manage system testing,1
+PODS,identify process improvements,1
+PODS,semiconductors,1
+PODS,data mining,1
+PODS,"data extraction, transformation and loading tools",1
+PODS,data visualisation software,1
+PODS,Christianity,1
+PODS,launch lifeboats,1
+PODS,undertake employee screening,1
+PODS,perform drug investigations,1
+PODS,advise on eligibility of expenditures,1
+PODS,natural gas,1
+PODS,internal auditing,1
+PODS,computer technology,1
+PODS,business intelligence,1
+PODS,project management,1
+RJC Group,R,1
+RJC Group,trade future commodities,1
+RJC Group,energy market,1
+RJC Group,market analysis,1
+RJC Group,maintain pricing database,1
+RJC Group,conduct training on monitoring and evaluation frameworks,1
+RJC Group,radiotherapy,1
+RJC Group,apply change management,1
+RJC Group,manage software releases,1
+Cognizant,business analysis,1
+Cognizant,interact with users to gather requirements,1
+Cognizant,documentation types,1
+Cognizant,develop business case,1
+Cognizant,use computer telephony integration,1
+Cognizant,social development,1
+Cognizant,identify processes for re-engineering,1
+Cognizant,keep up with digital transformation of industrial processes,1
+Cognizant,design enterprise architecture,1
+Cognizant,types of tidal stream generators,1
+Cognizant,computer programming,1
+Cognizant,business strategy concepts,1
+Cognizant,computer technology,1
+Cognizant,data models,1
+Cognizant,information architecture,1
+Cognizant,Pentaho Data Integration,1
+Cognizant,define software architecture,1
+Cognizant,risk management,1
+Cognizant,engage with stakeholders,1
+Cognizant,demonstrate leadership in social service cases,1
+Cognizant,manage drilling team,1
+Cognizant,Financial Modeling,1
+Cognizant,pricing strategies,1
+Cognizant,sales department processes,1
+Cognizant,learning management systems,1
+Cognizant,manage agricultural staff,1
+Cognizant,supervision of persons,1
+Cognizant,assess your competences for artistic coaching,1
+"The Emery Company, LLC",business analysis,1
+"The Emery Company, LLC",interact with users to gather requirements,1
+"The Emery Company, LLC",engage with stakeholders,1
+"The Emery Company, LLC",public relations,1
+"The Emery Company, LLC",use computer telephony integration,1
+"The Emery Company, LLC",write technical reports,1
+"The Emery Company, LLC",systems development life-cycle,1
+"The Emery Company, LLC",business processes,1
+"The Emery Company, LLC",business process modelling,1
+"The Emery Company, LLC",Requirements Engineering,1
+"The Emery Company, LLC",analyse business requirements,1
+"The Emery Company, LLC",provide technical documentation,1
+"The Emery Company, LLC",Test Case Design,1
+"The Emery Company, LLC",liaise with quality assurance,1
+"Elegant Enterprise-Wide Solutions, Inc.",data models,1
+"Elegant Enterprise-Wide Solutions, Inc.",design database scheme,1
+"Elegant Enterprise-Wide Solutions, Inc.",data mining,1
+"Elegant Enterprise-Wide Solutions, Inc.",Data Segmentation,1
+"Elegant Enterprise-Wide Solutions, Inc.",radiotherapy,1
+"Elegant Enterprise-Wide Solutions, Inc.",R,1
+"Elegant Enterprise-Wide Solutions, Inc.",data visualisation software,1
+DataAnnotation,statistics,1
+DataAnnotation,implement ICT coding conventions,1
+DataAnnotation,solve problems,1
+DataAnnotation,computer programming,1
+New York Institute of Technology,statistics,1
+New York Institute of Technology,process data,1
+New York Institute of Technology,computer programming,1
+New York Institute of Technology,conduct literature research,1
+New York Institute of Technology,hardware testing methods,1
+New York Institute of Technology,semiconductors,1
+New York Institute of Technology,manage documentation of prior learning assessments,1
+New York Institute of Technology,use clinical assessment techniques,1
+New York Institute of Technology,attend to detail in casting processes,1
+New York Institute of Technology,supervise work on design planning,1
+New York Institute of Technology,use personal organization software,1
+New York Institute of Technology,simplify communication in maritime management,1
+MPLC,statistics,1
+MPLC,Microsoft Excel,1
+MPLC,use presentation software,1
+MPLC,integrated circuits,1
+MPLC,solve problems,1
+MPLC,project management,1
+MPLC,manage company transport strategy,1
+Paramount,Financial Modeling,1
+Paramount,plan,1
+Paramount,Financial Planning and Analysis,1
+Paramount,financial forecasting,1
+Paramount,business analysis,1
+Paramount,make decisions,1
+Paramount,solve problems,1
+Paramount,statistics,1
+Paramount,support development of annual budget,1
+Paramount,use specialised computer models for weather forecasting,1
+Infogain,statistics,1
+Infogain,report analysis results,1
+Infogain,communication,1
+Infogain,Dashboard Development,1
+Infogain,make data-driven decisions,1
+Infogain,project management,1
+Worldpay,business analysis,1
+Worldpay,project management,1
+Worldpay,statistics,1
+Worldpay,solve problems,1
+Worldpay,use microsoft office,1
+Worldpay,ICT project management methodologies,1
+Worldpay,human factors regarding safety,1
+ATC,User Stories,1
+ATC,manage system testing,1
+ATC,reverse engineering,1
+Qualitative Financials,beer downstream processing,1
+Qualitative Financials,sing,1
+Qualitative Financials,DevOps,1
+Qualitative Financials,manage ICT virtualisation environments,1
+Qualitative Financials,solve problems,1
+Qualitative Financials,think critically,1
+Qualitative Financials,Scala,1
+Qualitative Financials,types of tidal stream generators,1
+Capital One,create model,1
+Capital One,model mineral deposits,1
+Capital One,Model Deployment,1
+Capital One,maintain moulds,1
+Capital One,analyse pipeline database information,1
+Capital One,distributed computing,1
+Capital One,reverse engineering,1
+Capital One,Explainable AI,1
+Capital One,Jenkins (tools for software configuration management),1
+Capital One,CI/CD,1
+Capital One,tools for ICT test automation,1
+Capital One,perform dimensionality reduction,1
+Capital One,Bias-Variance Tradeoff,1
+Capital One,validation of learning acquired through volunteering,1
+Capital One,gather data,1
+Capital One,Data Pipeline Optimization,1
+Capital One,Performance Optimization,1
+"Strategic Education, Inc",Rapid application development,1
+"Strategic Education, Inc",ICT project management methodologies,1
+"Strategic Education, Inc",User Stories,1
+"Strategic Education, Inc",business processes,1
+"Strategic Education, Inc",types of tidal stream generators,1
+"Strategic Education, Inc",ICT debugging tools,1
+"Strategic Education, Inc",liaise with quality assurance,1
+"Strategic Education, Inc",write technical reports,1
+"Strategic Education, Inc",hardware testing methods,1
+"Strategic Education, Inc",computer programming,1
+"Strategic Education, Inc",penetration testing tool,1
+PulsePoint,Data Manipulation,1
+PulsePoint,SQL,1
+PulsePoint,data engineering,1
+PulsePoint,machine learning,1
+PulsePoint,Automation,1
+PulsePoint,use computer telephony integration,1
+PulsePoint,data visualisation software,1
+PulsePoint,report analysis results,1
+PulsePoint,develop campaigns,1
+PulsePoint,analyse pipeline database information,1
+PulsePoint,define data quality criteria,1
+PulsePoint,Data Governance,1
+PulsePoint,data mining,1
+PulsePoint,business intelligence,1
+PulsePoint,Data Storytelling,1
+Cognizant,data engineering,1
+Cognizant,define data quality criteria,1
+Cognizant,analyse pipeline database information,1
+Cognizant,radiotherapy,1
+Cognizant,Data Cube,1
+Cognizant,asset management,1
+Cognizant,financial markets,1
+Cognizant,data science,1
+Cognizant,Modern Data Stack,1
+Cognizant,SAP Data Services,1
+Cognizant,cloud technologies,1
+Cognizant,Scala,1
+Cognizant,develop efficiency plans for maritime shipping,1
+Cognizant,SPARK,1
+Cognizant,dbt,1
+Cognizant,Apache Airflow,1
+Cognizant,Apache Spark,1
+Cognizant,integrated circuits,1
+SNVA Technologies,statistics,1
+SNVA Technologies,morality,1
+SNVA Technologies,Data Governance,1
+SNVA Technologies,perform data cleansing,1
+SNVA Technologies,task algorithmisation,1
+SNVA Technologies,solar energy,1
+SNVA Technologies,SAS Data Management,1
+Rose International,SAS Data Management,1
+Rose International,define data quality criteria,1
+Rose International,database,1
+Rose International,radiotherapy,1
+Rose International,IBM InfoSphere DataStage,1
+Rose International,building automation,1
+Rose International,data warehouse,1
+Rose International,identify process improvements,1
+Rose International,manage standards for data exchange,1
+Rose International,seismic measurement techniques,1
+Rose International,data storage,1
+Rose International,maintain database performance,1
+Rose International,customer segmentation,1
+Rose International,prepare financial projections,1
+Frost,financial analysis,1
+Frost,identify process improvements,1
+Frost,radiotherapy,1
+Frost,computer programming,1
+Frost,comply with agricultural code of practice,1
+Frost,interact with users to gather requirements,1
+Frost,data mining,1
+Frost,data models,1
+Frost,Data Governance,1
+Frost,define data quality criteria,1
+Frost,accounting,1
+Frost,explain financial jargon,1
+Frost,manage workflow processes,1
+Frost,semiconductors,1
+Frost,data science,1
+"Promantis, Inc.",business analysis,1
+"Promantis, Inc.",computer programming,1
+"Promantis, Inc.",business requirements techniques,1
+"Promantis, Inc.",use computer telephony integration,1
+"Promantis, Inc.",business processes,1
+"Promantis, Inc.",blockchain consensus mechanisms,1
+"Promantis, Inc.",learning management systems,1
+"Promantis, Inc.",create prototype of user experience solutions,1
+"Promantis, Inc.",Agile development,1
+Capital One,cost management,1
+Capital One,data storage,1
+Capital One,information confidentiality,1
+Capital One,data analytics,1
+Capital One,Microservices,1
+Capital One,conduct research on flora,1
+Capital One,types of tidal stream generators,1
+Capital One,advise on architectural matters,1
+Nordstrom,think creatively,1
+Nordstrom,data mining,1
+Nordstrom,data models,1
+Nordstrom,develop health and safety strategies in mining,1
+Nordstrom,portfolio management in textile manufacturing,1
+Nordstrom,risk management,1
+Nordstrom,financial analysis,1
+Nordstrom,reverse engineering,1
+Nordstrom,assist in developing marketing campaigns,1
+Nordstrom,project management,1
+Nordstrom,geographic information systems,1
+Nordstrom,supervision of persons,1
+Nordstrom,rhetoric,1
+Nordstrom,engage with stakeholders,1
+Nordstrom,communication,1
+Nordstrom,government representation,1
+Nordstrom,perform contract reporting and evaluation,1
+Nordstrom,data visualisation software,1
+Nordstrom,"data extraction, transformation and loading tools",1
+Nordstrom,interpret seismic data,1
+Nordstrom,SQL,1
+Nordstrom,SAS language,1
+Nordstrom,database management systems,1
+Nordstrom,data warehouse,1
+Nordstrom,Data Governance,1
+Nordstrom,business intelligence,1
+Spectrum,business analysis,1
+Spectrum,business processes,1
+Spectrum,statistics,1
+Spectrum,interpret seismic data,1
+Spectrum,public relations,1
+Spectrum,interact with users to gather requirements,1
+Spectrum,engage with stakeholders,1
+Spectrum,write technical reports,1
+Capital One,business analysis,1
+Capital One,lead others,1
+Capital One,data models,1
+Capital One,risk management,1
+Capital One,marketing analytics,1
+Capital One,develop tourism products,1
+Capital One,pricing strategies,1
+Capital One,database management systems,1
+Capital One,define data quality criteria,1
+Capital One,data visualisation software,1
+Capital One,use computer telephony integration,1
+Capital One,make decisions,1
+Capital One,solve problems,1
+Capital One,think holistically,1
+Capital One,demonstrate leadership in social service cases,1
+Capital One,communication,1
+Capital One,simplify communication in maritime management,1
+Capital One,supervise work on design planning,1
+Capital One,use personal organization software,1
+Capital One,social innovation,1
+Capital One,show initiative,1
+Capital One,provide self management support,1
+Capital One,accept own accountability,1
+Capital One,mergers and acquisitions,1
+Capital One,demonstrate professional Pilates attitude,1
+Capital One,ensure client orientation,1
+Capital One,teach communication to clients,1
+Capital One,conflict management,1
+Capital One,have emotional intelligence,1
+Capital One,listen actively,1
+Capital One,ICT networking hardware,1
+Capital One,write technical reports,1
+Capital One,radiotherapy,1
+micro1,Groovy,1
+micro1,think creatively,1
+micro1,deploy cloud resource,1
+micro1,human-robot collaboration,1
+micro1,principles of artificial intelligence,1
+micro1,machine learning,1
+micro1,Distributed Systems,1
+micro1,High Performance Computing,1
+micro1,cloud technologies,1
+micro1,manage ICT virtualisation environments,1
+micro1,Microservices,1
+micro1,Scala,1
+micro1,Fault Tolerance,1
+micro1,Code Optimization,1
+micro1,Performance Optimization,1
+Citi,project management,1
+Citi,Data Governance,1
+Citi,design management,1
+Citi,solve problems,1
+Citi,control compliance of railway vehicles regulations,1
+Citi,evaluate project plans,1
+Citi,engage with stakeholders,1
+Citi,show diplomacy,1
+Citi,demonstrate leadership in social service cases,1
+Citi,manage drilling team,1
+Citi,liaise with quality assurance,1
+Citi,augmented reality,1
+Citi,solar energy,1
+Citi,policy analysis,1
+Citi,integrated development environment software,1
+Citi,identify process improvements,1
+Citi,metrology,1
+Citi,rhetoric,1
+Citi,plan resource allocation,1
+Citi,make decisions,1
+Citi,reputation management,1
+Citi,security of assets legislation,1
+Citi,ensure compliance with policies,1
+Citi,accept own accountability,1
+Above Lending,statistics,1
+Above Lending,Dataset Manipulation,1
+Above Lending,data visualisation software,1
+Above Lending,SQL,1
+Above Lending,Microsoft Excel,1
+Above Lending,business analysis,1
+Above Lending,management consulting,1
+Above Lending,offer financial services,1
+Above Lending,analyse own performance,1
+Above Lending,operational research,1
+Above Lending,identify process improvements,1
+Above Lending,engage with stakeholders,1
+Above Lending,communication,1
+Above Lending,human-robot collaboration,1
+Above Lending,solve problems,1
+Above Lending,develop strategy to solve problems,1
+Above Lending,make data-driven decisions,1
+Nebula,statistical modeling techniques,1
+Nebula,data visualisation software,1
+Nebula,process data,1
+Nebula,machine learning,1
+Nebula,use computer telephony integration,1
+Nebula,solve problems,1
+Nebula,think critically,1
+Nebula,data science,1
+Nebula,data analytics,1
+Westlake,think creatively,1
+Westlake,hardware testing methods,1
+Westlake,business requirements techniques,1
+Westlake,system design,1
+Westlake,manage system testing,1
+Westlake,project management,1
+Westlake,liaise with quality assurance,1
+Westlake,data models,1
+Westlake,provide user documentation,1
+Westlake,computer programming,1
+Westlake,System Integration,1
+Westlake,natural gas,1
+Westlake,apply change management,1
+Westlake,business analysis,1
+Westlake,continuous improvement philosophies,1
+Westlake,lean manufacturing,1
+"REV Group, Inc",Microsoft Dynamics 365 Finance and Operations,1
+"REV Group, Inc",create business process models,1
+"REV Group, Inc",integrate system components,1
+"REV Group, Inc",manage system testing,1
+"REV Group, Inc",geographic information systems,1
+"REV Group, Inc",business analysis,1
+"REV Group, Inc",interact with users to gather requirements,1
+"REV Group, Inc",tools for software configuration management,1
+"REV Group, Inc",project management,1
+"REV Group, Inc",ICT software specifications,1
+"REV Group, Inc",implement corporate governance,1
+"REV Group, Inc",comply with legal regulations,1
+"REV Group, Inc",statistics,1
+"REV Group, Inc",apply basic programming skills,1
+"REV Group, Inc",Network Operations,1
+"REV Group, Inc",computer programming,1
+"REV Group, Inc",maintain information network hardware,1
+"REV Group, Inc",R,1
+"REV Group, Inc",IPC standards,1
+Florida Blue,business knowledge,1
+Florida Blue,data mining,1
+Florida Blue,root cause analysis,1
+Florida Blue,computer programming,1
+Florida Blue,develop campaigns,1
+Florida Blue,make decisions,1
+Florida Blue,data science,1
+Florida Blue,Workflow Management,1
+USAA,computer simulation,1
+USAA,lead process optimisation,1
+USAA,database management systems,1
+USAA,cloud technologies,1
+USAA,web programming,1
+USAA,data models,1
+USAA,computer programming,1
+USAA,risk management,1
+USAA,use computer telephony integration,1
+USAA,data science,1
+USAA,Unsupervised Learning,1
+Proliance Consulting,business analysis,1
+Proliance Consulting,blockchain consensus mechanisms,1
+Proliance Consulting,seismic measurement techniques,1
+Proliance Consulting,perform software unit testing,1
+Proliance Consulting,execute integration testing,1
+Proliance Consulting,solve problems,1
+Proliance Consulting,ski,1
+Proliance Consulting,simplify communication in maritime management,1
+Proliance Consulting,SQL,1
+"Aptino, Inc.",framework for a safety management system,1
+"Aptino, Inc.",Requirements Elicitation,1
+"Aptino, Inc.",develop business case,1
+"Aptino, Inc.",social development,1
+"Aptino, Inc.",ICT project management methodologies,1
+"Aptino, Inc.",plan,1
+"Aptino, Inc.",risk management,1
+"Aptino, Inc.",manage currency exchange risk mitigation techniques,1
+"Aptino, Inc.",business analysis,1
+"Aptino, Inc.",interact with users to gather requirements,1
+"Aptino, Inc.",liaise with quality assurance,1
+Auburn University,integrated development environment software,1
+Auburn University,types of tidal stream generators,1
+Auburn University,transportation software related to an ERP system,1
+Auburn University,System Performance Optimization,1
+Auburn University,advise on efficiency improvements,1
+Auburn University,ICT project management,1
+Auburn University,interact with users to gather requirements,1
+Auburn University,plan,1
+Auburn University,verify feasibility,1
+Auburn University,conduct patch testing,1
+Auburn University,documentation types,1
+"IDR, Inc.",business analysis,1
+"IDR, Inc.",interact with users to gather requirements,1
+"IDR, Inc.",use computer telephony integration,1
+"IDR, Inc.",validation of learning acquired through volunteering,1
+"IDR, Inc.",project management,1
+"IDR, Inc.",risk management,1
+"IDR, Inc.",engage with stakeholders,1
+"IDR, Inc.",rhetoric,1
+"IDR, Inc.",ICT project management methodologies,1
+Gilead Sciences,business analysis,1
+Gilead Sciences,cost management,1
+Gilead Sciences,statistics,1
+Gilead Sciences,natural gas,1
+Gilead Sciences,Source (digital game creation systems),1
+Gilead Sciences,cloud technologies,1
+Gilead Sciences,IT Service Management,1
+CARFAX,statistics,1
+CARFAX,recommend product improvements,1
+CARFAX,analyse business requirements,1
+CARFAX,identify process improvements,1
+CARFAX,project management,1
+CARFAX,engage with stakeholders,1
+CARFAX,data mining,1
+CARFAX,interpret seismic data,1
+CARFAX,estimate repair priority,1
+CARFAX,Requirements Elicitation,1
+CARFAX,Agile development,1
+CARFAX,marketing mix,1
+Raymond James,statistics,1
+Raymond James,SAS Data Management,1
+Raymond James,process data,1
+Raymond James,data visualisation software,1
+Raymond James,semiconductors,1
+Raymond James,human resource management,1
+Raymond James,manage truck drivers,1
+Raymond James,talent management strategies,1
+Raymond James,assess your competences for artistic coaching,1
+Raymond James,supervision of persons,1
+Raymond James,project management,1
+Raymond James,grading systems,1
+Raymond James,monitor curriculum implementation,1
+Raymond James,Data Governance,1
+Raymond James,business intelligence,1
+Experis,data models,1
+Experis,data engineering,1
+Experis,manage standards for data exchange,1
+Experis,statistics,1
+Experis,sing,1
+Experis,natural gas,1
+Experis,use computer telephony integration,1
+Experis,data visualisation software,1
+Experis,principles of artificial intelligence,1
+Experis,radiotherapy,1
+Experis,Data Standardization,1
+Experis,identify process improvements,1
+Experis,building automation,1
+Experis,Data Lineage,1
+Experis,solar energy,1
+Experis,mobile operating systems,1
+Experis,project management,1
+Experis,supply chain management,1
+Experis,operations management,1
+Fidelity Investments,business analysis,1
+Fidelity Investments,statistics,1
+Fidelity Investments,improve rail service delivery,1
+Fidelity Investments,IT Service Management,1
+Fidelity Investments,project management,1
+Fidelity Investments,define data quality criteria,1
+Fidelity Investments,computer programming,1
+Pop-Up Talent,machine learning,1
+Pop-Up Talent,principles of artificial intelligence,1
+Pop-Up Talent,data engineering,1
+Pop-Up Talent,natural gas,1
+Pop-Up Talent,information architecture,1
+Pop-Up Talent,radiotherapy,1
+Pop-Up Talent,SQL,1
+Pop-Up Talent,database,1
+Pop-Up Talent,conduct patch testing,1
+Pop-Up Talent,CI/CD,1
+Pop-Up Talent,conduct ICT code review,1
+Pop-Up Talent,ICT project management methodologies,1
+Pop-Up Talent,rhetoric,1
+Pop-Up Talent,process data,1
+Pop-Up Talent,AI Model Development,1
+Pop-Up Talent,AI Model Deployment,1
+Pop-Up Talent,AI Performance Optimization,1
+Pop-Up Talent,Scala,1
+Vaco,data models,1
+Vaco,analyse pipeline database information,1
+Vaco,data warehouse,1
+Vaco,natural gas,1
+Vaco,Data Flow Automation,1
+Vaco,cloud technologies,1
+Vaco,Infrastructure as a Service,1
+Vaco,Platform as a Service,1
+Vaco,SQL Server,1
+Vaco,database development tools,1
+Vaco,manage data,1
+Vaco,define data quality criteria,1
+Vaco,assess reliability of data,1
+Vaco,apply information security policies,1
+Vaco,Data Governance,1
+Vaco,data storage,1
+Vaco,reverse engineering,1
+Vaco,Jenkins (tools for software configuration management),1
+Thoughtwave Software and Solutions,reverse engineering,1
+Thoughtwave Software and Solutions,SQL Server,1
+Thoughtwave Software and Solutions,"data extraction, transformation and loading tools",1
+Thoughtwave Software and Solutions,Python,1
+Thoughtwave Software and Solutions,Scala,1
+Thoughtwave Software and Solutions,Pandas,1
+Thoughtwave Software and Solutions,NumPy,1
+Thoughtwave Software and Solutions,integrated circuits,1
+Thoughtwave Software and Solutions,Apache Kafka,1
+Thoughtwave Software and Solutions,augmented reality,1
+Thoughtwave Software and Solutions,Domino Data Lab,1
+Thoughtwave Software and Solutions,Salesforce Marketing Cloud,1
+Thoughtwave Software and Solutions,customer relationship management,1
+Thoughtwave Software and Solutions,Snowflake,1
+Thoughtwave Software and Solutions,dbt,1
+Thoughtwave Software and Solutions,stitch paper materials,1
+Thoughtwave Software and Solutions,Tableau,1
+Thoughtwave Software and Solutions,Apache Airflow,1
+Thoughtwave Software and Solutions,Git,1
+Thoughtwave Software and Solutions,CI/CD,1
+"American Unit, Inc",SQL,1
+Novo Nordisk,natural gas,1
+Novo Nordisk,data mining,1
+Novo Nordisk,visual presentation techniques,1
+Novo Nordisk,machine learning,1
+Novo Nordisk,deep learning,1
+Novo Nordisk,R,1
+Novo Nordisk,Python,1
+Novo Nordisk,SQL,1
+Novo Nordisk,Amazon Web Services,1
+SAE International,machine learning,1
+SAE International,data engineering,1
+SAE International,database,1
+SAE International,Databricks,1
+SAE International,Python,1
+SAE International,TensorFlow,1
+SAE International,PyTorch,1
+SAE International,Scikit-learn,1
+SAE International,Git,1
+SAE International,CI/CD,1
+SAE International,Docker,1
+SAE International,Kubernetes,1
+SAE International,Neo4j,1
+SAE International,algorithms,1
+SAE International,data models,1
+Experis,Databricks,1
+Experis,Microsoft Azure,1
+Experis,Unity (digital game creation systems),1
+Experis,"data extraction, transformation and loading tools",1
+Experis,apply information security policies,1
+Experis,Power BI,1
+Experis,create prototype of user experience solutions,1
+Experis,DataOps,1
+JPMorgan Chase & Co.,principles of artificial intelligence,1
+JPMorgan Chase & Co.,machine learning,1
+JPMorgan Chase & Co.,data engineering,1
+JPMorgan Chase & Co.,integrated circuits,1
+JPMorgan Chase & Co.,R,1
+Robert Half,SAP Data Services,1
+Robert Half,computer programming,1
+Publicis Sapient,Amazon Web Services,1
+Publicis Sapient,Amazon DynamoDB,1
+Publicis Sapient,Azure Cosmos DB,1
+Publicis Sapient,SQL Server,1
+Publicis Sapient,Oracle Warehouse Builder,1
+Publicis Sapient,MySQL,1
+Publicis Sapient,"data extraction, transformation and loading tools",1
+Publicis Sapient,AWS Lambda,1
+Publicis Sapient,Google Cloud Dataflow,1
+Publicis Sapient,Azure Data Factory,1
+Publicis Sapient,Apache Spark,1
+Publicis Sapient,SPARK,1
+Mission Staffing,integrated circuits,1
+Mission Staffing,Microsoft Excel,1
+Mission Staffing,accounting,1
+R.J. O'Brien,systems development life-cycle,1
+R.J. O'Brien,business ICT systems,1
+R.J. O'Brien,public relations,1
+USAA,R,1
+USAA,HiveQL,1
+USAA,NoSQL,1
+USAA,JSON,1
+USAA,XML,1
+"FUJIFILM Cellular Dynamics, Inc",GATK,1
+"FUJIFILM Cellular Dynamics, Inc",business intelligence,1
+"FUJIFILM Cellular Dynamics, Inc",SOAP,1
+"FUJIFILM Cellular Dynamics, Inc",Galaxy,1
+"FUJIFILM Cellular Dynamics, Inc",sand blasting machine parts,1
+"FUJIFILM Cellular Dynamics, Inc",Perl,1
+"FUJIFILM Cellular Dynamics, Inc",Python,1
+"FUJIFILM Cellular Dynamics, Inc",computer programming,1
+"FUJIFILM Cellular Dynamics, Inc",MySQL,1
+"FUJIFILM Cellular Dynamics, Inc",SQL Server,1
+"FUJIFILM Cellular Dynamics, Inc",Oracle Warehouse Builder,1
+"FUJIFILM Cellular Dynamics, Inc",PostgreSQL,1
+"FUJIFILM Cellular Dynamics, Inc",create prototype of user experience solutions,1
+"FUJIFILM Cellular Dynamics, Inc",natural gas,1
+ICE,manage athletes,1
+ICE,SQL,1
+ICE,database,1
+ICE,web services,1
+ICE,Web API,1
+ICE,select soap shaping plate,1
+ICE,R,1
+ICE,JavaScript,1
+ICE,HTTP,1
+ICE,Client-Server Architecture,1
+Dice,Java (computer programming),1
+Dice,C++,1
+Dice,PyTorch,1
+Dice,TensorFlow,1
+Dice,ML (computer programming),1
+Dice,machine learning,1
+Dice,natural language processing,1
+Dice,Graph Analytics,1
+Parallel,SQL,1
+Parallel,Python,1
+Parallel,statistics,1
+Parallel,data visualisation software,1
+Parallel,data warehouse,1
+University of Colorado,SQL,1
+University of Colorado,Microsoft Excel,1
+Dice,Amazon Web Services,1
+Dice,Apache Spark,1
+Dice,semiconductors,1
+Dice,Adobe Experience Platform,1
+Dice,glue film reels,1
+Dice,AWS Lambda,1
+Dice,Scala,1
+Dice,"data extraction, transformation and loading tools",1
+Dice,PostgreSQL,1
+DataAnnotation,Python,1
+DataAnnotation,JavaScript,1
+DataAnnotation,manage athletes,1
+DataAnnotation,C++,1
+DataAnnotation,C#,1
+DataAnnotation,SQL,1
+TeamSoft,business analysis,1
+TeamSoft,interact with users to gather requirements,1
+TeamSoft,write specifications,1
+TeamSoft,plan,1
+TeamSoft,Workflow Analysis,1
+TeamSoft,computer programming,1
+TeamSoft,statistics,1
+TeamSoft,business processes,1
+TeamSoft,project management,1
+hackajob,statistics,1
+hackajob,Data Manipulation,1
+hackajob,smart contract programming languages,1
+hackajob,SQL,1
+hackajob,Python,1
+hackajob,R,1
+hackajob,SAS,1
+Riverbed Technology,machine learning,1
+Riverbed Technology,natural language processing,1
+Riverbed Technology,Generative AI,1
+Riverbed Technology,Microservices,1
+Riverbed Technology,C#,1
+Riverbed Technology,types of tidal stream generators,1
+Riverbed Technology,reverse engineering,1
+Riverbed Technology,Cloud Platform,1
+Riverbed Technology,Python,1
+Riverbed Technology,statistics,1
+Selby Jennings,Python,1
+Selby Jennings,SQL,1
+Selby Jennings,radiotherapy,1
+Selby Jennings,data models,1
+Selby Jennings,natural gas,1
+Selby Jennings,data visualisation software,1
+Sumeru Inc,SAS Data Management,1
+Sumeru Inc,data analytics,1
+Sumeru Inc,data engineering,1
+Sumeru Inc,cloud technologies,1
+Sumeru Inc,Amazon Web Services,1
+Sumeru Inc,Snowflake,1
+Sumeru Inc,Application Performance Monitoring,1
+Motion Recruitment,"data extraction, transformation and loading tools",1
+Motion Recruitment,computer programming,1
+Motion Recruitment,learning management systems,1
+Motion Recruitment,IBM InfoSphere DataStage,1
+Motion Recruitment,Python,1
+Motion Recruitment,Relational Database,1
+Motion Recruitment,NoSQL Database,1
+Motion Recruitment,database,1
+Motion Recruitment,natural gas,1
+Motion Recruitment,iron textiles,1
+FreeWheel,machine learning,1
+FreeWheel,lead process optimisation,1
+FreeWheel,computer science,1
+FreeWheel,design application interfaces,1
+Central Point Partners,Python,1
+Central Point Partners,SAS,1
+Central Point Partners,computer programming,1
+Central Point Partners,integrated circuits,1
+Central Point Partners,Tableau,1
+Central Point Partners,Tableau Server,1
+Central Point Partners,SAS Enterprise Guide,1
+Central Point Partners,Java (computer programming),1
+Central Point Partners,C++,1
+Central Point Partners,manage athletes,1
+Central Point Partners,CSS,1
+Central Point Partners,Perl,1
+Central Point Partners,JavaScript,1
+"DataStaff, Inc.",ICT project management methodologies,1
+"DataStaff, Inc.",computer technology,1
+"DataStaff, Inc.",Jira,1
+"DataStaff, Inc.",use online tools to collaborate,1
+Health Care Service Corporation,Microsoft Access,1
+Health Care Service Corporation,Microsoft Excel,1
+Health Care Service Corporation,Power BI,1
+Health Care Service Corporation,develop statistical software,1
+Complete Staffing Solutions,Microsoft Excel,1
+Complete Staffing Solutions,Data Manipulation,1
+Complete Staffing Solutions,statistics,1
+Complete Staffing Solutions,data models,1
+Complete Staffing Solutions,statistical modeling techniques,1
+Complete Staffing Solutions,data mining,1
+V2Soft,Python,1
+V2Soft,statistical modeling techniques,1
+V2Soft,use computer telephony integration,1
+V2Soft,data mining,1
+V2Soft,database management systems,1
+V2Soft,SQL,1
+V2Soft,computer programming,1
+V2Soft,pharmacognosy,1
+Apex Systems,reverse engineering,1
+Apex Systems,Azure Data Lake Storage,1
+Apex Systems,Oracle Application Development Framework,1
+Apex Systems,Azure Synapse,1
+Apex Systems,logic,1
+Apex Systems,Azure Event Hub,1
+Apex Systems,Python,1
+Apex Systems,R,1
+Apex Systems,SQL,1
+will bank,SQL,1
+will bank,Python,1
+will bank,Microsoft Excel,1
+will bank,Power BI,1
+will bank,Metabase,1
+will bank,R,1
+will bank,Tableau,1
+Vericast,machine learning,1
+Vericast,data engineering,1
+Vericast,algorithms,1
+Vericast,Python,1
+Vericast,Apache Spark,1
+Vericast,ML (computer programming),1
+Vericast,Graph Theory,1
+PCS Wireless,Power BI,1
+PCS Wireless,SQL,1
+PCS Wireless,Python,1
+PCS Wireless,Apache Spark,1
+PCS Wireless,DAX,1
+PCS Wireless,data models,1
+PCS Wireless,data visualisation software,1
+WalkWater Technologies,Microsoft Excel,1
+WalkWater Technologies,Data Manipulation,1
+WalkWater Technologies,computer programming,1
+EY,"data extraction, transformation and loading tools",1
+EY,Oracle DRM,1
+EY,SAP Data Services,1
+EY,learning management systems,1
+EY,Oracle Essbase,1
+EY,SQL,1
+aramco,computer programming,1
+aramco,machine learning,1
+aramco,artificial neural networks,1
+aramco,deep learning,1
+aramco,Python,1
+aramco,TensorFlow,1
+aramco,PyTorch,1
+aramco,Java (computer programming),1
+aramco,C++,1
+aramco,learning management systems,1
+aramco,natural language processing,1
+aramco,computer vision,1
+CGI,Jira,1
+CGI,use online tools to collaborate,1
+CGI,ICT project management methodologies,1
+Oracle,Tableau,1
+Oracle,Power BI,1
+Oracle,semiconductors,1
+Oracle,data warehouse,1
+Oracle,Oracle Data Integrator,1
+Oracle,integrated circuits,1
+Oracle,ML (computer programming),1
+Oracle,natural language processing,1
+Oracle,Python,1
+Oracle,Docker,1
+Oracle,Kubernetes,1
+Oracle,create prototype of user experience solutions,1
+Oracle,Cloud Platform,1
+Oracle,social work theory,1
+Oracle,Microsoft Azure,1
+Oracle,Amazon Web Services,1
+Oracle,DevOps,1
+WalkWater Technologies,Oracle E-Business Suite,1
+WalkWater Technologies,economics,1
+WalkWater Technologies,supply chain management,1
+Encore Talent Solutions,SQL,1
+Encore Talent Solutions,semiconductors,1
+Encore Talent Solutions,plan,1
+Encore Talent Solutions,computer programming,1
+"V-Soft Consulting Group, Inc.",SAP Data Services,1
+"V-Soft Consulting Group, Inc.",SAP R3,1
+"V-Soft Consulting Group, Inc.",radiotherapy,1
+"V-Soft Consulting Group, Inc.",data engineering,1
+"V-Soft Consulting Group, Inc.",SQL,1
+"V-Soft Consulting Group, Inc.",Snowflake,1
+"V-Soft Consulting Group, Inc.",IBM InfoSphere DataStage,1
+"V-Soft Consulting Group, Inc.",R,1
+Plymouth Rock Assurance,use computer telephony integration,1
+Plymouth Rock Assurance,data mining,1
+Plymouth Rock Assurance,Nonlinear Regression,1
+Plymouth Rock Assurance,Multivariate Analysis,1
+Plymouth Rock Assurance,Bayesian Statistics,1
+Plymouth Rock Assurance,Generalized Linear Models,1
+Plymouth Rock Assurance,computer programming,1
+Plymouth Rock Assurance,SAS,1
+Plymouth Rock Assurance,SQL,1
+Plymouth Rock Assurance,R,1
+Plymouth Rock Assurance,Python,1
+Harris Allied,ICT project management methodologies,1
+Harris Allied,electronics,1
+Integration International Inc.,SQL,1
+Integration International Inc.,Python,1
+Integration International Inc.,statistics,1
+Matlen Silver,SQL,1
+Matlen Silver,R,1
+Matlen Silver,Apache Hadoop,1
+Verizon,logic,1
+Verizon,data visualisation software,1
+Verizon,database management systems,1
+Verizon,computer programming,1
+Verizon,sing,1
+Verizon,ICT project management methodologies,1
+Verizon,computer technology,1
+Verizon,Microsoft Office,1
+The Hawk Group,Python,1
+The Hawk Group,C++,1
+The Hawk Group,Java (computer programming),1
+The Hawk Group,SQL,1
+The Hawk Group,Perl,1
+The Hawk Group,data visualisation software,1
+The Hawk Group,Microsoft Excel,1
+The Hawk Group,Power BI,1
+The Hawk Group,DevOps,1
+The Hawk Group,Infrastructure as Code,1
+Ascentt,cloud technologies,1
+Ascentt,data engineering,1
+Ascentt,Image Processing,1
+Ascentt,analyse pipeline database information,1
+Ascentt,information architecture,1
+Ascentt,Edge Computing,1
+Ascentt,data quality assessment,1
+Ascentt,Performance Optimization,1
+Ascentt,data models,1
+Ascentt,think creatively,1
+Ascentt,database,1
+Ascentt,DevOps,1
+Ascentt,CI/CD,1
+Ascentt,Docker,1
+USAA,SAS,1
+USAA,business intelligence,1
+USAA,artificial neural networks,1
+USAA,data mining,1
+USAA,Microsoft Excel,1
+USAA,data visualisation software,1
+Ledgent Technology,Python,1
+Ledgent Technology,SQL Server Integration Services,1
+Ledgent Technology,DAX,1
+Ledgent Technology,apply statistical analysis techniques,1
+Ledgent Technology,SQL Server,1
+Ledgent Technology,Oracle Warehouse Builder,1
+Ledgent Technology,Microsoft Excel,1
+Ledgent Technology,Azure Data Factory,1
+Ledgent Technology,integrated circuits,1
+Vaco,R,1
+Vaco,Power BI,1
+maven,statistics,1
+maven,machine learning,1
+maven,principles of artificial intelligence,1
+maven,mathematical modelling,1
+maven,Python,1
+maven,C++,1
+MetLife,deep learning,1
+MetLife,computer vision,1
+MetLife,Chatbots,1
+MetLife,learning management systems,1
+MetLife,Retrieval-Augmented Generation,1
+MetLife,machine learning,1
+MetLife,TensorFlow,1
+MetLife,Python,1
+MetLife,natural language processing,1
+MetLife,REST API,1
+MetLife,database,1
+MetLife,database management systems,1
+TRM Labs,Python,1
+TRM Labs,SQL,1
+TRM Labs,Git,1
+TRM Labs,Jupyter Notebook,1
+TRM Labs,conduct patch testing,1
+TRM Labs,database,1
+TRM Labs,machine learning,1
+TRM Labs,statistical modeling techniques,1
+TRM Labs,computer programming,1
+TRM Labs,distributed ledger technology,1
+TRM Labs,cryptocurrency,1

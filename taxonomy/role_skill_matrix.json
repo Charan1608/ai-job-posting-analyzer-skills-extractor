@@ -1,0 +1,55 @@
+{
+  "Business Analyst": {
+    "required": [
+      "business analysis",
+      "sql",
+      "power bi",
+      "excel",
+      "statistics",
+      "manage stakeholders",
+      "prepare reports"
+    ]
+  },
+
+  "Data Analyst": {
+    "required": [
+      "sql",
+      "python",
+      "statistics",
+      "power bi",
+      "tableau",
+      "data analysis",
+      "microsoft excel"
+    ]
+  },
+
+  "Data Engineer": {
+    "required": [
+      "python",
+      "sql",
+      "extract transform load",
+      "microsoft azure",
+      "amazon web services"
+    ]
+  },
+
+  "Data Scientist": {
+    "required": [
+      "python",
+      "machine learning",
+      "statistics",
+      "sql",
+      "data analysis"
+    ]
+  },
+
+  "AI / ML Engineer": {
+    "required": [
+      "python",
+      "machine learning",
+      "tensorflow",
+      "pytorch",
+      "microsoft azure"
+    ]
+  }
+}

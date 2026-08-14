@@ -1,0 +1,157 @@
+table Table
+	lineageTag: 34d330a6-c681-41e8-b841-03c5806ec6ac
+
+	measure 'Total Jobs' =
+			
+			COUNTROWS(cleaned_postings)
+		lineageTag: 39225a49-f559-4588-a1ad-5f1dc3e14120
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Total Companies' =
+			
+			DISTINCTCOUNT(cleaned_postings[company_name])
+		formatString: 0
+		lineageTag: b361a790-9813-4dfe-881d-e2e0fafbf86f
+
+	measure 'Average Salary' =
+			
+			AVERAGE(cleaned_postings[normalized_salary])
+		formatString: \$#,0.###############;(\$#,0.###############);\$#,0.###############
+		lineageTag: 1543663d-775c-49a1-b823-f4f0ebb0edc2
+
+	measure 'Average Job Views' =
+			
+			AVERAGE(cleaned_postings[views])
+		lineageTag: 108884fd-2467-455a-a416-e9fa688a050d
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Remote Jobs' =
+			
+			CALCULATE(
+			    COUNTROWS(cleaned_postings),
+			    cleaned_postings[remote_allowed] = TRUE()
+			)
+		formatString: 0
+		lineageTag: f5aead6f-a668-4f5c-a5cd-e04774be36b9
+
+	measure 'Remote Job %' =
+			
+			DIVIDE(
+			    [Remote Jobs],
+			    [Total Jobs],
+			    0
+			)
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: e13eac46-e3e1-453c-a410-5b2aa6da69ca
+
+	measure 'Average Applications' =
+			
+			AVERAGE(cleaned_postings[applies])
+		lineageTag: 6abc849a-6147-4e17-bbda-db40e16d34ca
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure Measure
+		lineageTag: e12ae565-bd0d-4021-817f-9573798080d4
+
+		annotation 436ba87b-9c83-4389-a31b-ebd06a36be98 = {"Expression":null}
+
+		annotation 277cc1b9-af89-4597-8e15-cacc25c0886b = To use special characters in a measure name, enclose the entire name in brackets ( [] ) and add a ] to any closing brackets in the name.
+
+	measure 'Median Salary' =
+			
+			MEDIAN(cleaned_postings[normalized_salary])
+		lineageTag: 25bb274b-b0a4-470f-a611-c0ae2274851b
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Total Skills Extracted' =
+			
+			COUNTROWS(normalized_skills_long)
+		formatString: 0
+		lineageTag: c8443fc9-802d-4096-a7c3-5ea45ba233b4
+
+	measure 'Unique Skills' =
+			
+			DISTINCTCOUNT(normalized_skills_long[normalized_skill])
+		formatString: 0
+		lineageTag: 466a1bcb-9ba7-4b0c-a1d8-d00799c66c4d
+
+	measure 'Unique Job Postings' =
+			
+			DISTINCTCOUNT(normalized_skills_long[job_id])
+		formatString: 0
+		lineageTag: 4298c20d-e5c7-484d-a135-9f4fbd5a3505
+
+	measure 'Average Skills per Job' =
+			
+			DIVIDE(
+			    COUNTROWS(normalized_skills_long),
+			    DISTINCTCOUNT(normalized_skills_long[job_id])
+			)
+		lineageTag: 81c03449-aeba-4681-959d-1075781344b7
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Total Skills' =
+			
+			DISTINCTCOUNT(normalized_skills_long[normalized_skill])
+		formatString: 0
+		lineageTag: 3533f4bd-49e3-4e0c-9419-9ff27cf9a671
+
+	measure 'Skill Mentions' =
+			
+			COUNT(normalized_skills_long[normalized_skill])
+		formatString: 0
+		lineageTag: 39d0177b-225f-438d-b8b4-5fd8cfb45c1f
+
+	measure 'Average Skills per Job1' =
+			
+			DIVIDE(
+			    COUNT(normalized_skills_long[normalized_skill]),
+			    DISTINCTCOUNT(normalized_skills_long[job_id])
+			)
+		lineageTag: 900518b3-c8da-4766-9a31-9e194b01d701
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Average AI Confidence' =
+			
+			AVERAGE(normalized_skills_long[confidence])
+		formatString: 0.00%;-0.00%;0.00%
+		lineageTag: d5a80e84-bfd3-4a8b-9899-ff6bd23dbf16
+
+	measure 'Average AI Confidence%' =
+			
+			AVERAGE(normalized_skills_long[confidence]) / 100
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: fd7ea172-7b11-49e3-a4aa-03e9773696d1
+
+	measure 'Avg Skills per Role' =
+			
+			AVERAGEX(
+			    VALUES(normalized_jobs[job_id]),
+			    CALCULATE(
+			        DISTINCTCOUNT(normalized_skills_long[normalized_skill])
+			    )
+			)
+		lineageTag: a5692c77-8025-44a4-b51c-83255aaea470
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Value
+		lineageTag: 2686d8c7-b60f-4bb1-bb4b-9db5084b8d06
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Value]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Table = calculated
+		mode: import
+		source = {"Measures"}
+
+	annotation PBI_Id = ac8510d127754eb295a8fef303a07848
+

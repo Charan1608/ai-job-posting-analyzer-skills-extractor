@@ -1,0 +1,12 @@
+File Name,Rows,Columns,Missing Values,Duplicate Rows,Memory (MB),Status
+postings.csv,123849,31,1269564,0,928.2,Success
+companies.csv,24473,10,3145,0,43.74,Success
+company_industries.csv,24375,2,0,0,1.84,Success
+company_specialities.csv,169387,2,0,0,11.93,Success
+employee_counts.csv,35787,4,0,0,1.09,Success
+benefits.csv,67943,3,0,0,5.08,Success
+job_industries.csv,164808,2,0,0,2.51,Success
+job_skills.csv,213768,2,0,0,12.31,Success
+salaries.csv,40785,8,47623,0,8.05,Success
+industries.csv,422,2,34,0,0.03,Success
+skills.csv,35,2,0,0,0,Success

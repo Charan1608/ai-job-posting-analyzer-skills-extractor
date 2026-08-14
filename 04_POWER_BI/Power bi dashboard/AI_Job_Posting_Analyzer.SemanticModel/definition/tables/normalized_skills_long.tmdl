@@ -1,0 +1,82 @@
+table normalized_skills_long
+	lineageTag: fd662cbe-88b1-48b5-8cae-add1d4e2aaa8
+
+	column job_id
+		dataType: int64
+		formatString: 0
+		lineageTag: ea34b01e-97b0-49a0-bcc7-0c22615b2e58
+		summarizeBy: none
+		sourceColumn: job_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column skill_type
+		dataType: string
+		lineageTag: 5a748a1d-1cf0-444a-9f60-cc30c17d5a39
+		summarizeBy: none
+		sourceColumn: skill_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column original_skill
+		dataType: string
+		lineageTag: f0fc7bd9-96ad-45f0-be4d-c9d3486a2602
+		summarizeBy: none
+		sourceColumn: original_skill
+
+		annotation SummarizationSetBy = Automatic
+
+	column normalized_skill
+		dataType: string
+		lineageTag: e5509dee-dbe4-4088-9b24-c814e431f85a
+		summarizeBy: none
+		sourceColumn: normalized_skill
+
+		annotation SummarizationSetBy = Automatic
+
+	column category
+		dataType: string
+		lineageTag: 2b9392a1-5520-470e-a117-e07617349e1b
+		summarizeBy: none
+		sourceColumn: category
+
+		annotation SummarizationSetBy = Automatic
+
+	column method
+		dataType: string
+		lineageTag: 42430059-71cb-4c50-aac7-7fa79fc43650
+		summarizeBy: none
+		sourceColumn: method
+
+		annotation SummarizationSetBy = Automatic
+
+	column confidence
+		dataType: double
+		lineageTag: 46662b70-380b-455b-bc52-623dd888f3a5
+		summarizeBy: sum
+		sourceColumn: confidence
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column esco_uri
+		dataType: string
+		lineageTag: ac2c786d-abfd-4520-94ca-839f2eb5e2cd
+		summarizeBy: none
+		sourceColumn: esco_uri
+
+		annotation SummarizationSetBy = Automatic
+
+	partition normalized_skills_long = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\PGDBA 2nd sem sources\AI_Job_Posting_Analyzer\04_POWER_BI\Dataset\normalized_skills_long.csv"),[Delimiter=",", Columns=8, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"job_id", Int64.Type}, {"skill_type", type text}, {"original_skill", type text}, {"normalized_skill", type text}, {"category", type text}, {"method", type text}, {"confidence", type number}, {"esco_uri", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

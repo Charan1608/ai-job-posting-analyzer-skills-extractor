@@ -1,0 +1,33 @@
+# Core data science
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+joblib
+
+# NLP / skill normalization
+rapidfuzz
+sentence-transformers
+langdetect
+
+# LLM integration
+groq
+pydantic
+
+# Analytics / databases
+duckdb
+PyYAML
+
+# Visualization
+matplotlib
+seaborn
+plotly
+networkx
+wordcloud
+
+# Web application
+streamlit
+
+# Utilities
+python-dotenv

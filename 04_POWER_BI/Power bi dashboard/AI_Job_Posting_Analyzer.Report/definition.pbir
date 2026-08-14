@@ -1,0 +1,8 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../AI_Job_Posting_Analyzer.SemanticModel"
+    }
+  }
+}

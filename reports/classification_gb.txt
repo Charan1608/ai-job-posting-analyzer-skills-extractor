@@ -1,0 +1,14 @@
+Model: Gradient Boosting
+
+                  precision    recall  f1-score   support
+
+AI / ML Engineer       1.00      0.50      0.67         4
+Business Analyst       0.56      0.64      0.60        14
+    Data Analyst       0.30      0.43      0.35         7
+   Data Engineer       0.25      0.17      0.20         6
+  Data Scientist       0.67      0.50      0.57         4
+           Other       0.00      0.00      0.00         5
+
+        accuracy                           0.42        40
+       macro avg       0.46      0.37      0.40        40
+    weighted avg       0.45      0.42      0.43        40

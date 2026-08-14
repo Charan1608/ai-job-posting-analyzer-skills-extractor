@@ -1,0 +1,12 @@
+Metric,Value
+Total Records,2397
+Duplicate Job IDs,0
+Empty Descriptions,0
+Descriptions < 50 Characters,2
+Descriptions > 10000 Characters,21
+HTML Remaining,0
+URLs Remaining,354
+Average Description Length,3749.77
+Median Description Length,3421
+Maximum Description Length,17640
+Minimum Description Length,12

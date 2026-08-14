@@ -1,0 +1,2093 @@
+job_id,skill_type,original_skill,normalized_skill,category,method,confidence,esco_uri
+3891074946,technical,Microsoft Office,use microsoft office,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3891074946,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3891074946,technical,VLOOKUP,,,unmatched,0.0,
+3891074946,technical,Pivot tables,,,unmatched,0.0,
+3891074946,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3891074946,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3891074946,technical,R,R,Programming Language,technology_dictionary,1.0,
+3891074946,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3891074946,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3891074946,technical,Azure DevOps,,,unmatched,0.0,
+3891074946,tool,Microsoft Office,use microsoft office,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3891074946,soft,Analytical skills,,,unmatched,0.0,
+3891074946,soft,Critical thinking skills,,,unmatched,0.0,
+3891074946,soft,Communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3891074946,soft,Interpersonal skills,,,unmatched,0.0,
+3891074946,soft,Time management skills,manage time in tourism,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/86ffa56b-12f5-4dcd-8afd-9251fbb6b496
+3891074946,soft,Adaptability,,,unmatched,0.0,
+3891074946,soft,Self-motivation,motivate others,,semantic,0.7575,http://data.europa.eu/esco/skill/e2d44a9b-f28c-489e-9861-b654b5ded507
+3891074946,soft,Attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3891074946,certification,Certificate or experience with Azure DevOps,,,unmatched,0.0,
+3887101270,technical,JIRA,,,unmatched,0.0,
+3887101270,technical,Figma,,,unmatched,0.0,
+3887101270,technical,Adobe Xd,,,unmatched,0.0,
+3887101270,technical,Agile development,Agile development,,exact,1.0,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3887101270,technical,Data infrastructure,information structure,,alt_label,0.99,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339
+3887101270,technical,Platform engineering,hardware platforms,,semantic,0.7907,http://data.europa.eu/esco/skill/117373c8-f04b-4fff-8683-aebe36edac81
+3887101270,technical,Backend engineering,,,unmatched,0.0,
+3887101270,technical,Data engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3887101270,tool,JIRA,,,unmatched,0.0,
+3887101270,tool,Figma,,,unmatched,0.0,
+3887101270,tool,Adobe Xd,,,unmatched,0.0,
+3887101270,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3887101270,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3887101270,soft,Collaboration,,,unmatched,0.0,
+3887101270,soft,Customer empathy,,,unmatched,0.0,
+3887101270,soft,Partnership skills,,,unmatched,0.0,
+3887101270,soft,Entrepreneurial spirit,show entrepreneurial spirit,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/bdcf429c-5ccf-4c3d-bb61-4c987573a35e
+3887101270,soft,Growth mindset,,,unmatched,0.0,
+3903434413,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3903434413,technical,python,Python,Programming Language,technology_dictionary,1.0,
+3903434413,soft,team work,work in teams,,semantic,0.8173,http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0
+3903434413,soft,motivation,motivate others,,semantic,0.755,http://data.europa.eu/esco/skill/e2d44a9b-f28c-489e-9861-b654b5ded507
+3903434413,soft,mentoring,mentor individuals,,semantic,0.8722,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9
+3902357366,technical,API connectivity,,,unmatched,0.0,
+3902357366,technical,web/mobile products,,,unmatched,0.0,
+3902357366,technical,retail functionality,,,unmatched,0.0,
+3902357366,tool,Jira,,,unmatched,0.0,
+3902357366,soft,Strong communication skills,,,unmatched,0.0,
+3902357366,soft,outgoing,,,unmatched,0.0,
+3902357366,soft,personable personality,,,unmatched,0.0,
+3902348430,technical,SAP FICO,,,unmatched,0.0,
+3902348430,technical,SAP S4,SAP R3,,semantic,0.7695,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3902348430,technical,SAP FI,SAP R3,,semantic,0.7619,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3902348430,technical,SAP CO,SAP R3,,semantic,0.7701,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3902348430,technical,SAC Analytics,,,unmatched,0.0,
+3902348430,technical,SAC Planning,,,unmatched,0.0,
+3902348430,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902348430,technical,ERP,,,unmatched,0.0,
+3902348430,tool,Project management tools,project management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3902348430,tool,SAP tools,SAP Data Services,,semantic,0.7534,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4
+3902348430,tool,Reporting tools,develop reporting software,,semantic,0.8366,http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83
+3902348430,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902348430,soft,Presentation,prepare presentation material,,semantic,0.7906,http://data.europa.eu/esco/skill/1ba59ce0-7fec-434b-8d5c-9b275250a26c
+3902348430,soft,Interpersonal,,,unmatched,0.0,
+3902348430,soft,Analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3902348430,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3902348430,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3902348430,soft,Customer service,customer service,,exact,1.0,http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc
+3902348430,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3888994430,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3888994430,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3888994430,technical,ETL tools,,,unmatched,0.0,
+3888994430,technical,PostgreSQL databases,PostgreSQL,,semantic,0.793,http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996
+3888994430,technical,data modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3888994430,technical,database design principles,design database scheme,,semantic,0.7937,http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511
+3888994430,soft,problem-solving skills,solve problems,,semantic,0.7688,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3888994430,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3888994430,soft,interpersonal skills,,,unmatched,0.0,
+3888994430,soft,ability to work independently and in a team environment,,,unmatched,0.0,
+3906253680,technical,ERP software,transportation software related to an ERP system,,semantic,0.7893,http://data.europa.eu/esco/skill/09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba
+3906253680,technical,HCM software,,,unmatched,0.0,
+3906253680,technical,Workforce Management software,,,unmatched,0.0,
+3906253680,technical,SaaS,service-oriented modelling,,alt_label,0.99,http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98
+3906253680,soft,Strong organizational,,,unmatched,0.0,
+3906253680,soft,planning,urban planning,,semantic,0.7856,http://data.europa.eu/esco/skill/7f18039d-dfae-471b-9daa-507f6b2d2842
+3906253680,soft,time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3906253680,soft,problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3906253680,soft,critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3906253680,soft,conflict resolutions,conflict management,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254
+3906253680,soft,English communication,communication,,semantic,0.7746,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903875936,technical,relational SQL,SQL,,semantic,0.8105,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3903875936,technical,NoSQL databases,NoSQL,,semantic,0.8557,http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c
+3903875936,technical,DynamoDB,,,unmatched,0.0,
+3903875936,technical,RDS Postgres,,,unmatched,0.0,
+3903875936,technical,Oracle,Oracle Relational Database,,semantic,0.7527,http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655
+3903875936,technical,data pipeline,analyse pipeline database information,,semantic,0.7723,http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552
+3903875936,technical,workflow management,manage workflow processes,,semantic,0.8467,http://data.europa.eu/esco/skill/7add3681-17b6-4027-8a9d-ee92d2b96a42
+3903875936,technical,Air Flow,control air flow,,semantic,0.8102,http://data.europa.eu/esco/skill/a1728801-a4fd-47b5-862f-12e837f0933c
+3903875936,technical,ControlM,,,unmatched,0.0,
+3903875936,technical,AWS EC2,,,unmatched,0.0,
+3903875936,technical,S3,,,unmatched,0.0,
+3903875936,technical,IAM,digital identity management,,alt_label,0.99,http://data.europa.eu/esco/skill/33efa504-2f26-424d-b662-cee77e6e9c93
+3903875936,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3903875936,technical,CI/CD tools,,,unmatched,0.0,
+3903875936,technical,Jenkins,Jenkins (tools for software configuration management),,alt_label,0.99,http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da
+3903875936,technical,full-stack development,,,unmatched,0.0,
+3903875936,technical,distributed applications,distributed computing,,semantic,0.7689,http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83
+3903875936,technical,Software Development Lifecycle,,,unmatched,0.0,
+3903875936,tool,Air Flow,control air flow,,semantic,0.8102,http://data.europa.eu/esco/skill/a1728801-a4fd-47b5-862f-12e837f0933c
+3903875936,tool,ControlM,,,unmatched,0.0,
+3903875936,tool,Jenkins,Jenkins (tools for software configuration management),,alt_label,0.99,http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da
+3903875936,soft,self-motivated,,,unmatched,0.0,
+3903875936,soft,passionate,,,unmatched,0.0,
+3903875936,soft,constructive,,,unmatched,0.0,
+3903875936,soft,collaborative,,,unmatched,0.0,
+3902780924,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902780924,technical,PySpark,,,unmatched,0.0,
+3902780924,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902780924,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3902780924,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3902780924,technical,scikit-learn,,,unmatched,0.0,
+3902780924,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3902780924,technical,Dask,,,unmatched,0.0,
+3902780924,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3902780924,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3902829691,technical,JavaScript,JavaScript,,exact,1.0,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+3902829691,technical,XML,,,unmatched,0.0,
+3902829691,technical,XSD,,,unmatched,0.0,
+3902829691,technical,Data Model,data models,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3902829691,technical,InDesign,,,unmatched,0.0,
+3902829691,technical,SaaS,service-oriented modelling,,alt_label,0.99,http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98
+3902829691,technical,Oracle database,Oracle Relational Database,,semantic,0.8874,http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655
+3902829691,tool,Workfront,,,unmatched,0.0,
+3902829691,tool,Marketing Technology,,,unmatched,0.0,
+3902829691,soft,Impeccable attention to detail,,,unmatched,0.0,
+3902829691,soft,Great communication,communication,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902829691,soft,Analytical thinking,think analytically,,alt_label,0.99,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3902829691,soft,Strong problem solving,,,unmatched,0.0,
+3902829691,soft,Analysis and reporting skills,,,unmatched,0.0,
+3895272957,technical,Advanced Product Quality Planning (APQP),,,unmatched,0.0,
+3895272957,technical,Failure Mode and Effects Analysis (FMEA),perform failure analysis of production process,,fuzzy_alt,0.98,http://data.europa.eu/esco/skill/12b5cc46-bf35-464c-ac7d-1bdbc23262f7
+3895272957,technical,Root Cause Analysis (RCA),root cause analysis,,exact,1.0,http://data.europa.eu/esco/skill/55514865-3066-4abd-86a9-dbe45a440882
+3895272957,technical,Data Analytics,data analytics,,exact,1.0,http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378
+3895272957,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3895272957,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3895272957,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3895272957,soft,Interpersonal skills,,,unmatched,0.0,
+3895272957,soft,Influential,,,unmatched,0.0,
+3895272957,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3895272957,soft,Collaboration,,,unmatched,0.0,
+3903824576,technical,Azure Cloud,,,unmatched,0.0,
+3903824576,technical,Agile methodologies,Agile development,,semantic,0.8286,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3903824576,technical,Scrum,ICT project management methodologies,,alt_label,0.99,http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9
+3903824576,technical,Kanban,,,unmatched,0.0,
+3903824576,technical,Azure DevOps,,,unmatched,0.0,
+3903824576,technical,JIRA,,,unmatched,0.0,
+3903824576,technical,Rally,,,unmatched,0.0,
+3903824576,technical,Cloud native services,,,unmatched,0.0,
+3903824576,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3903824576,technical,GCP,Google Cloud Platform,Cloud,technology_dictionary,1.0,
+3903824576,tool,Azure DevOps,,,unmatched,0.0,
+3903824576,tool,JIRA,,,unmatched,0.0,
+3903824576,tool,Rally,,,unmatched,0.0,
+3903824576,soft,Detail oriented,,,unmatched,0.0,
+3903824576,soft,Effective communication,communication,,semantic,0.8308,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3901950783,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3901950783,technical,SQL Server Integration Services (SSIS),SQL Server Integration Services,,exact,1.0,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88
+3901950783,technical,SQL Server Reporting Services (SSRS),,,unmatched,0.0,
+3901950783,technical,Data Modelling,data models,,alt_label,0.99,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3901950783,technical,Microsoft SQL,SQL,,semantic,0.9339,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3901950783,technical,Dax Calculation,mathematics,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2
+3901950783,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3901950783,tool,SSIS,SQL Server Integration Services,,alt_label,0.99,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88
+3901950783,tool,SSRS,,,unmatched,0.0,
+3901950783,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3901950783,tool,Microsoft SQL,SQL,,semantic,0.9339,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3898174637,technical,data programming,data engineering,,semantic,0.7532,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3898174637,technical,analytic,,,unmatched,0.0,
+3898174637,technical,reporting skills,,,unmatched,0.0,
+3898174637,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3898174637,technical,PowerPoint,,,unmatched,0.0,
+3898174637,technical,graphic design,graphic design,,exact,1.0,http://data.europa.eu/esco/skill/7fb699d9-182a-430e-b7a0-6d8ed05c284b
+3898174637,technical,Word,,,unmatched,0.0,
+3898174637,technical,NLP,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3898174637,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3898174637,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3898174637,tool,PowerPoint,,,unmatched,0.0,
+3898174637,tool,Word,,,unmatched,0.0,
+3898174637,tool,Veeva,,,unmatched,0.0,
+3898174637,tool,Workday,,,unmatched,0.0,
+3898174637,tool,Qualtrics,,,unmatched,0.0,
+3898174637,soft,project management skills,project management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3898174637,soft,planning and organization skills,,,unmatched,0.0,
+3898174637,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3898174637,soft,professionalism,,,unmatched,0.0,
+3898174637,soft,integrity,morality,,alt_label,0.99,http://data.europa.eu/esco/skill/7cf2762d-32e1-4b21-8ef8-574e40310c18
+3898174637,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3898174637,soft,independence,,,unmatched,0.0,
+3895200298,technical,ERP,,,unmatched,0.0,
+3895200298,technical,ETL,,,unmatched,0.0,
+3895200298,technical,Data integration,,,unmatched,0.0,
+3895200298,technical,Microsoft Office Suite,use microsoft office,,semantic,0.8468,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3895200298,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3895200298,technical,IFS,,,unmatched,0.0,
+3895200298,technical,SAP Concur,SAP R3,,semantic,0.771,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3895200298,technical,OneStream,,,unmatched,0.0,
+3895200298,tool,Microsoft Office Suite,use microsoft office,,semantic,0.8468,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3895200298,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3895200298,tool,IFS,,,unmatched,0.0,
+3895200298,tool,SAP Concur,SAP R3,,semantic,0.771,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3895200298,tool,OneStream,,,unmatched,0.0,
+3895200298,soft,Analytical skills,,,unmatched,0.0,
+3895200298,soft,Communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3895200298,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3895200298,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3895200298,soft,Attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3895200298,soft,Critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3895200298,soft,Creativity,stimulate creative processes,,semantic,0.7752,http://data.europa.eu/esco/skill/d97c894e-d330-4bd3-b8ba-138fc11855ee
+3891072418,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3891072418,technical,ETL,,,unmatched,0.0,
+3891072418,technical,Informatica,,,unmatched,0.0,
+3891072418,technical,Snaplogic,,,unmatched,0.0,
+3891072418,soft,Good Communication skills,,,unmatched,0.0,
+3905218828,technical,Deep Learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3905218828,technical,Transformers,electrical machines,,alt_label,0.99,http://data.europa.eu/esco/skill/f0ab5d57-4be7-411b-afce-b4a76a142302
+3905218828,technical,Natural Language Processing,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3905218828,technical,Large Language Models,,,unmatched,0.0,
+3905218828,tool,Python,Python,Programming Language,technology_dictionary,1.0,
+3905218828,tool,Py Torch,,,unmatched,0.0,
+3905218828,tool,Linux,,,unmatched,0.0,
+3905218828,tool,Docker,Docker,DevOps,technology_dictionary,1.0,
+3905218828,tool,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3905218828,tool,Jupyter,,,unmatched,0.0,
+3905218828,tool,Ray,,,unmatched,0.0,
+3905218828,tool,Dask,,,unmatched,0.0,
+3905218828,tool,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3891088945,technical,Machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3891088945,technical,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3891088945,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3891088945,technical,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3891088945,technical,Sagemaker,,,unmatched,0.0,
+3891088945,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3891088945,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3891088945,technical,PySpark,,,unmatched,0.0,
+3891088945,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3891088945,technical,C,,,unmatched,0.0,
+3891088945,technical,CI/CD,,,unmatched,0.0,
+3891088945,technical,Bitbucket,,,unmatched,0.0,
+3891088945,technical,Redshift,,,unmatched,0.0,
+3891088945,technical,Athena,,,unmatched,0.0,
+3891088945,tool,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3891088945,tool,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3891088945,tool,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3891088945,tool,Sagemaker,,,unmatched,0.0,
+3891088945,tool,Bitbucket,,,unmatched,0.0,
+3891088945,tool,Redshift,,,unmatched,0.0,
+3891088945,tool,Athena,,,unmatched,0.0,
+3891088945,soft,Self-starter,,,unmatched,0.0,
+3891088945,soft,Learning,,,unmatched,0.0,
+3891088945,soft,Initiative,show initiative,,semantic,0.8116,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f
+3902340711,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3902340711,technical,Microsoft Office suite,use microsoft office,,semantic,0.8468,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3902340711,technical,Coupa,,,unmatched,0.0,
+3902340711,technical,Workday,,,unmatched,0.0,
+3902340711,technical,Procore,,,unmatched,0.0,
+3902340711,technical,Verisae,,,unmatched,0.0,
+3902340711,tool,Coupa,,,unmatched,0.0,
+3902340711,tool,Workday,,,unmatched,0.0,
+3902340711,tool,Procore,,,unmatched,0.0,
+3902340711,tool,Verisae,,,unmatched,0.0,
+3902340711,soft,customer service skills,customer service,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc
+3902340711,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3902340711,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902340711,soft,time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3902340711,soft,research,,,unmatched,0.0,
+3902340711,soft,presentation,prepare presentation material,,semantic,0.7906,http://data.europa.eu/esco/skill/1ba59ce0-7fec-434b-8d5c-9b275250a26c
+3902340711,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3904406917,technical,Deep Learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3904406917,technical,Machine Learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3904406917,technical,Computer Vision,computer vision,,exact,1.0,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3904406917,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904406917,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3904406917,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3904406917,soft,Strong analytical and problem-solving skills,,,unmatched,0.0,
+3904406917,soft,Excellent verbal and written communication skills,,,unmatched,0.0,
+3904406917,soft,Ability to work independently and as part of a team,,,unmatched,0.0,
+3902343179,technical,Agile methodology,Agile development,,semantic,0.8576,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3902343179,technical,SDLC methodology,,,unmatched,0.0,
+3902343179,technical,Requirement Gathering,,,unmatched,0.0,
+3902343179,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3902343179,soft,initiative,show initiative,,semantic,0.8116,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f
+3902343179,soft,analytical skills,,,unmatched,0.0,
+3902343179,soft,business acumen,apply business acumen,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/4ddf5204-95f5-4be2-ad35-571e2f493ae5
+3902343179,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3904957834,soft,communications,communication,,fuzzy_preferred,0.96,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3904957834,soft,coordination,,,unmatched,0.0,
+3904957834,soft,analysis,,,unmatched,0.0,
+3904957834,soft,problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3905213935,technical,Transformers,electrical machines,,alt_label,0.99,http://data.europa.eu/esco/skill/f0ab5d57-4be7-411b-afce-b4a76a142302
+3905213935,technical,Deep Learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3905213935,technical,Natural Language Processing,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3905213935,technical,Large Language Models,,,unmatched,0.0,
+3905213935,tool,Python,Python,Programming Language,technology_dictionary,1.0,
+3905213935,tool,pyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3905213935,tool,Linux,,,unmatched,0.0,
+3905213935,tool,Docker,Docker,DevOps,technology_dictionary,1.0,
+3905213935,tool,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3905213935,tool,Jupyter,,,unmatched,0.0,
+3905213935,tool,Ray,,,unmatched,0.0,
+3905213935,tool,Dask,,,unmatched,0.0,
+3905213935,tool,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3885822305,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3885822305,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3885822305,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3885822305,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3885822305,technical,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3885822305,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3885822305,technical,Kafka,Apache Kafka,Streaming,technology_dictionary,1.0,
+3885822305,technical,Data warehouses,data warehouse,,fuzzy_preferred,0.97,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de
+3885822305,technical,ETL tools,,,unmatched,0.0,
+3885822305,technical,Big data technology,,,unmatched,0.0,
+3885822305,technical,Azure Cloud,,,unmatched,0.0,
+3885822305,tool,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3885822305,tool,Microsoft Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3885822305,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3885822305,soft,Team management,manage a team,,semantic,0.8835,http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b
+3885822305,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3885822305,soft,Influence,,,unmatched,0.0,
+3885822305,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3885822305,soft,Analytical abilities,,,unmatched,0.0,
+3885822305,soft,Financial and business acumen,,,unmatched,0.0,
+3885822305,soft,Customer obsession,,,unmatched,0.0,
+3885822305,soft,Adaptability,,,unmatched,0.0,
+3885822305,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3903846556,technical,ETL,,,unmatched,0.0,
+3903846556,technical,ELT,,,unmatched,0.0,
+3903846556,technical,Data warehousing,implement data warehousing techniques,,semantic,0.9247,http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd
+3903846556,technical,Kimball Methodology,,,unmatched,0.0,
+3903846556,technical,Cloud data infrastructure,information structure,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339
+3903846556,technical,"Columnar, MPP data warehouses",,,unmatched,0.0,
+3903846556,tool,SSIS,SQL Server Integration Services,,alt_label,0.99,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88
+3903846556,tool,DBT,dbt,Data Engineering,technology_dictionary,1.0,
+3903846556,tool,Talend,,,unmatched,0.0,
+3903846556,tool,AWS Redshift,,,unmatched,0.0,
+3903846556,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3903846556,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3903846556,soft,Mentorship,provide mentorship,,semantic,0.9311,http://data.europa.eu/esco/skill/28722c99-68b7-4b7b-808f-53f343299935
+3903846556,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3899522047,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3899522047,technical,C#,C#,,exact,1.0,http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a
+3899522047,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3899522047,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3899522047,technical,ETL/ELT,,,unmatched,0.0,
+3899522047,technical,DWH,,,unmatched,0.0,
+3899522047,technical,Git,Git,Version Control,technology_dictionary,1.0,
+3899522047,technical,Jira,,,unmatched,0.0,
+3899522047,technical,Confluence,use online tools to collaborate,,alt_label,0.99,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f
+3899522047,technical,Jenkins,Jenkins (tools for software configuration management),,alt_label,0.99,http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da
+3899522047,technical,Databricks Delta lake,,,unmatched,0.0,
+3899522047,technical,Delta live tables,,,unmatched,0.0,
+3899522047,technical,PySpark,,,unmatched,0.0,
+3899522047,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3899522047,technical,SSIS,SQL Server Integration Services,,alt_label,0.99,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88
+3899522047,technical,SSRS,,,unmatched,0.0,
+3899522047,tool,Git,Git,Version Control,technology_dictionary,1.0,
+3899522047,tool,Jira,,,unmatched,0.0,
+3899522047,tool,Confluence,use online tools to collaborate,,alt_label,0.99,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f
+3899522047,tool,Jenkins,Jenkins (tools for software configuration management),,alt_label,0.99,http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da
+3899522047,tool,Databricks Delta lake,,,unmatched,0.0,
+3899522047,tool,Delta live tables,,,unmatched,0.0,
+3899522047,tool,PySpark,,,unmatched,0.0,
+3899522047,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3899522047,tool,SSIS,SQL Server Integration Services,,alt_label,0.99,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88
+3899522047,tool,SSRS,,,unmatched,0.0,
+3899522047,soft,Good communication,communication,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3899522047,soft,Good presentation,,,unmatched,0.0,
+3904978968,technical,data cleansing techniques,perform data cleansing,,semantic,0.9621,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8
+3904978968,technical,data manipulation,,,unmatched,0.0,
+3904978968,technical,data transformation,,,unmatched,0.0,
+3904978968,technical,data normalization,normalise data,,semantic,0.91,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc
+3904978968,technical,exploratory data analysis,,,unmatched,0.0,
+3904978968,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904978968,technical,M Language,,,unmatched,0.0,
+3904978968,technical,DAX,,,unmatched,0.0,
+3904978968,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904978968,technical,R,R,Programming Language,technology_dictionary,1.0,
+3904978968,technical,data visualization,data visualisation software,,semantic,0.8764,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3904978968,tool,Power Query,,,unmatched,0.0,
+3904978968,tool,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3904978968,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3904978968,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3904978968,tool,ERP systems,,,unmatched,0.0,
+3904978968,tool,JD Edwards,,,unmatched,0.0,
+3904978968,tool,iSeries IBM,,,unmatched,0.0,
+3904978968,soft,analytical skills,,,unmatched,0.0,
+3904978968,soft,problem-solving skills,solve problems,,semantic,0.7688,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3904978968,soft,attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3904978968,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3904978968,soft,collaboration skills,,,unmatched,0.0,
+3902840602,technical,Salesforce,,,unmatched,0.0,
+3902840602,technical,Marketo,,,unmatched,0.0,
+3902840602,technical,Fivetran,,,unmatched,0.0,
+3902840602,technical,Mulesoft,,,unmatched,0.0,
+3902840602,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3902840602,technical,AWS services,,,unmatched,0.0,
+3902840602,technical,S3,,,unmatched,0.0,
+3902840602,technical,Redshift,,,unmatched,0.0,
+3902840602,technical,Glue,,,unmatched,0.0,
+3902840602,technical,Athena,,,unmatched,0.0,
+3902840602,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3902840602,technical,non-relational databases,,,unmatched,0.0,
+3902840602,tool,Fivetran,,,unmatched,0.0,
+3902840602,tool,Mulesoft,,,unmatched,0.0,
+3902840602,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3902840602,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3902840602,soft,collaboration,,,unmatched,0.0,
+3902840602,soft,attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3902840602,soft,commitment to data quality and integrity,,,unmatched,0.0,
+3903801406,technical,financial analysis,financial analysis,,exact,1.0,http://data.europa.eu/esco/skill/99571e68-801f-49af-a897-5f75996642e1
+3903801406,technical,business analysis,business analysis,,exact,1.0,http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6
+3903801406,technical,data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3903801406,technical,forecasting,financial forecasting,,semantic,0.8026,http://data.europa.eu/esco/skill/4b2db903-cd8e-48ce-97fb-a92db4def54e
+3903801406,soft,consulting,management consulting,,semantic,0.8481,http://data.europa.eu/esco/skill/c2617b44-886a-485e-8393-bc0fc6339539
+3903801406,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903801406,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3901962508,technical,HTML,,,unmatched,0.0,
+3901962508,technical,Javascript,JavaScript,,exact,1.0,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+3901962508,technical,ERP,,,unmatched,0.0,
+3901962508,technical,CPQ,,,unmatched,0.0,
+3901962508,technical,CRM,customer relationship management,,alt_label,0.99,http://data.europa.eu/esco/skill/dc9a236c-c640-43c3-812f-269403591edb
+3901962508,technical,MS Access,Microsoft Access,,alt_label,0.99,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e
+3901962508,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3901962508,technical,Outlook,,,unmatched,0.0,
+3901962508,technical,Word,,,unmatched,0.0,
+3901962508,tool,Configure One (C1),,,unmatched,0.0,
+3901962508,tool,Microsoft Office,use microsoft office,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3901962508,soft,customer service,customer service,,exact,1.0,http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc
+3901962508,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3901962508,soft,collaboration,,,unmatched,0.0,
+3901962508,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3902754992,technical,Broadridge Impact,,,unmatched,0.0,
+3902754992,technical,Bloomberg,,,unmatched,0.0,
+3902754992,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3902754992,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902754992,technical,business intelligence software,business intelligence,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c
+3902754992,tool,Broadridge Impact,,,unmatched,0.0,
+3902754992,tool,Bloomberg,,,unmatched,0.0,
+3902754992,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3902754992,tool,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902754992,tool,business intelligence software,business intelligence,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c
+3902754992,soft,analytical and problem-solving abilities,,,unmatched,0.0,
+3902754992,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902754992,soft,stakeholder management,engage with stakeholders,,semantic,0.776,http://data.europa.eu/esco/skill/99c4c69a-025c-464f-adda-874c7f107a31
+3903813458,technical,PeopleSoft Financials,,,unmatched,0.0,
+3903813458,technical,PeopleSoft FSCM 9.2,,,unmatched,0.0,
+3903813458,technical,PeopleSoft General Ledger,,,unmatched,0.0,
+3903813458,technical,Commitment Accounting,,,unmatched,0.0,
+3903813458,technical,PeopleSoft Approval Workflow Engine (AWE),,,unmatched,0.0,
+3903813458,technical,eProcurement,e-procurement,,fuzzy_preferred,0.96,http://data.europa.eu/esco/skill/378caeec-10a0-4162-b75c-ab374a42e93d
+3903813458,technical,Strategic Sourcing,,,unmatched,0.0,
+3903813458,technical,Supplier Contracts,negotiate supplier arrangements,,semantic,0.801,http://data.europa.eu/esco/skill/c842be42-81b3-40f2-904c-ea8790ac88bd
+3903813458,technical,Microsoft O365,,,unmatched,0.0,
+3903813458,technical,Word,,,unmatched,0.0,
+3903813458,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3903813458,technical,PowerPoint,,,unmatched,0.0,
+3903813458,technical,Visio,Microsoft Visio,,semantic,0.8169,http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6
+3903813458,technical,MS Team,,,unmatched,0.0,
+3903813458,technical,SharePoint,,,unmatched,0.0,
+3903813458,technical,Jira,,,unmatched,0.0,
+3903813458,technical,STAT,,,unmatched,0.0,
+3903813458,tool,Microsoft O365,,,unmatched,0.0,
+3903813458,tool,MS Team,,,unmatched,0.0,
+3903813458,tool,SharePoint,,,unmatched,0.0,
+3903813458,tool,Jira,,,unmatched,0.0,
+3903813458,soft,Collaboration,,,unmatched,0.0,
+3903813458,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903813458,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3903813458,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3889417419,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3889417419,technical,R,R,Programming Language,technology_dictionary,1.0,
+3889417419,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3889417419,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3889417419,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3889417419,technical,Microsoft Office Suite,use microsoft office,,semantic,0.8468,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3889417419,tool,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3889417419,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3889417419,soft,presentation,prepare presentation material,,semantic,0.7906,http://data.europa.eu/esco/skill/1ba59ce0-7fec-434b-8d5c-9b275250a26c
+3887885935,technical,ServiceNow,,,unmatched,0.0,
+3887885935,technical,IT Operations Management,operations management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6
+3887885935,technical,IT Asset Management,asset management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/b02b38c4-d46d-44da-9479-1310060bd74d
+3887885935,technical,Hardware Asset Management,,,unmatched,0.0,
+3887885935,technical,Software Asset Management,asset management,,semantic,0.8185,http://data.europa.eu/esco/skill/b02b38c4-d46d-44da-9479-1310060bd74d
+3887885935,technical,CMDB,,,unmatched,0.0,
+3887885935,technical,Enterprise DevOps,DevOps,,semantic,0.8312,http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4
+3887885935,technical,IaaS,,,unmatched,0.0,
+3887885935,technical,MicroSoft Project,,,unmatched,0.0,
+3887885935,technical,Visio,Microsoft Visio,,semantic,0.8169,http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6
+3887885935,technical,Word,,,unmatched,0.0,
+3887885935,technical,Access,Microsoft Access,,semantic,0.7711,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e
+3887885935,tool,ServiceNow,,,unmatched,0.0,
+3887885935,tool,MicroSoft Project,,,unmatched,0.0,
+3887885935,tool,Visio,Microsoft Visio,,semantic,0.8169,http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6
+3887885935,tool,Word,,,unmatched,0.0,
+3887885935,tool,Access,Microsoft Access,,semantic,0.7711,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e
+3887885935,soft,oral and written communication,discern written communication,,semantic,0.7636,http://data.europa.eu/esco/skill/0e161427-3369-47c0-8669-9e226207f6d0
+3887885935,soft,analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3887885935,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3887885935,soft,negotiation,negotiate compromises,,semantic,0.7721,http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74
+3887885935,soft,task management,manage schedule of tasks,,alt_label,0.99,http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5
+3887885935,soft,project management,project management,,exact,1.0,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3887885935,soft,organizational,organisational structure,,semantic,0.7842,http://data.europa.eu/esco/skill/c4272323-cce6-4535-ac71-4f6841f4f89a
+3887885935,soft,collaboration,,,unmatched,0.0,
+3887885935,certification,ServiceNow Certified in both SAM and HAM,,,unmatched,0.0,
+3894946919,technical,Data Engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3894946919,technical,Cloud,,,unmatched,0.0,
+3894946919,technical,Advanced Analytics,web analytics,,semantic,0.762,http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2
+3894946919,technical,Data Architecture,information architecture,,alt_label,0.99,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4
+3894946919,technical,Data Modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3894946919,technical,ETL,,,unmatched,0.0,
+3894946919,technical,BI,business intelligence,,exact,1.0,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c
+3894946919,technical,Big Data systems,,,unmatched,0.0,
+3894946919,technical,Data pipelines,analyse pipeline database information,,semantic,0.7887,http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552
+3894946919,technical,Data processing,process data,,alt_label,0.99,http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50
+3894946919,technical,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3894946919,technical,Hive,,,unmatched,0.0,
+3894946919,technical,Redshift,,,unmatched,0.0,
+3894946919,technical,Big Query,,,unmatched,0.0,
+3894946919,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3894946919,technical,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3894946919,technical,GCP,Google Cloud Platform,Cloud,technology_dictionary,1.0,
+3894946919,technical,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3894946919,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3894946919,technical,Unix Shell scripting,,,unmatched,0.0,
+3894946919,technical,Dependency driven job schedulers,,,unmatched,0.0,
+3894946919,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3894946919,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3894946919,technical,Looker,,,unmatched,0.0,
+3894946919,technical,API Specs,,,unmatched,0.0,
+3894946919,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3894946919,tool,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3894946919,tool,Hive,,,unmatched,0.0,
+3894946919,tool,Redshift,,,unmatched,0.0,
+3894946919,tool,Big Query,,,unmatched,0.0,
+3894946919,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3894946919,tool,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3894946919,tool,GCP,Google Cloud Platform,Cloud,technology_dictionary,1.0,
+3894946919,tool,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3894946919,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3894946919,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3894946919,tool,Looker,,,unmatched,0.0,
+3894946919,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3894946919,soft,Interpersonal skills,,,unmatched,0.0,
+3894946919,soft,Influence,,,unmatched,0.0,
+3894946919,soft,Strategic thinking,develop strategy to solve problems,,alt_label,0.99,http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800
+3894946919,soft,Analytical mindset,think analytically,,semantic,0.7912,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3894946919,soft,Problem-solving abilities,,,unmatched,0.0,
+3894946919,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3894946919,soft,Organizational skills,,,unmatched,0.0,
+3894946919,soft,Change management,apply change management,,alt_label,0.99,http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca
+3894946919,soft,Flexibility,,,unmatched,0.0,
+3894946919,soft,Collaboration,,,unmatched,0.0,
+3894946919,soft,Innovation,innovation processes,,semantic,0.7867,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68
+3894946919,soft,Negotiation,negotiate compromises,,semantic,0.7721,http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74
+3894946919,soft,Decision-making,make decisions,,semantic,0.8593,http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47
+3903462753,technical,ERP systems,,,unmatched,0.0,
+3903462753,technical,Microsoft D365 platform,,,unmatched,0.0,
+3903462753,technical,cloud solutions,cloud technologies,,semantic,0.7707,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0
+3903462753,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3903462753,soft,interpersonal,,,unmatched,0.0,
+3903462753,soft,collaboration,,,unmatched,0.0,
+3903462753,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903462753,soft,analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3903462753,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3903462753,soft,time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3903462753,soft,organizational,organisational structure,,semantic,0.7842,http://data.europa.eu/esco/skill/c4272323-cce6-4535-ac71-4f6841f4f89a
+3889732556,technical,online research,,,unmatched,0.0,
+3889732556,technical,search engines,search engines,,exact,1.0,http://data.europa.eu/esco/skill/4bf59dde-8a03-483f-976a-45764f1e6d6f
+3889732556,technical,online maps,,,unmatched,0.0,
+3889732556,technical,website information,,,unmatched,0.0,
+3889732556,soft,detail-oriented,,,unmatched,0.0,
+3889732556,soft,good knowledge of national and local geography,,,unmatched,0.0,
+3906249532,technical,Clarity PPM,,,unmatched,0.0,
+3906249532,technical,Business Objects,,,unmatched,0.0,
+3906249532,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3906249532,technical,XML,,,unmatched,0.0,
+3906249532,technical,Javascript,JavaScript,,exact,1.0,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+3906249532,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3906249532,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3906249532,tool,Clarity PPM,,,unmatched,0.0,
+3906249532,tool,Business Objects,,,unmatched,0.0,
+3906249532,tool,SQL,SQL,Database Language,technology_dictionary,1.0,
+3906249532,tool,XML,,,unmatched,0.0,
+3906249532,tool,Javascript,JavaScript,,exact,1.0,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+3906249532,tool,SAS,SAS,Analytics,technology_dictionary,1.0,
+3906249532,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3906249532,soft,Leadership skills,,,unmatched,0.0,
+3906249532,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3906249532,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3906249532,soft,Adaptability,,,unmatched,0.0,
+3906249532,soft,Proactivity,,,unmatched,0.0,
+3906249532,soft,Critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3905333957,technical,Advanced Excel,,,unmatched,0.0,
+3905333957,technical,PowerPoint,,,unmatched,0.0,
+3905333957,technical,R,R,Programming Language,technology_dictionary,1.0,
+3905333957,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3905333957,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3905333957,technical,Alteryx,,,unmatched,0.0,
+3905333957,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905333957,technical,Data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3905333957,technical,Forecasting models,,,unmatched,0.0,
+3905333957,technical,Statistical modeling,statistical modeling techniques,,alt_label,0.99,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22
+3905333957,technical,A/B testing,,,unmatched,0.0,
+3905333957,technical,Cluster analysis,,,unmatched,0.0,
+3905333957,technical,Sample size calculations,,,unmatched,0.0,
+3905333957,technical,Tests of significance,,,unmatched,0.0,
+3905333957,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3905333957,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3905333957,tool,PowerPoint,,,unmatched,0.0,
+3905333957,tool,R,R,Programming Language,technology_dictionary,1.0,
+3905333957,tool,Python,Python,Programming Language,technology_dictionary,1.0,
+3905333957,tool,Alteryx,,,unmatched,0.0,
+3905333957,tool,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905333957,soft,Oral and written communication skills,,,unmatched,0.0,
+3905333957,soft,Presentation skills,,,unmatched,0.0,
+3905333957,soft,Collaboration,,,unmatched,0.0,
+3905333957,soft,Multi-tasking,perform multiple tasks at the same time,,semantic,0.8085,http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604
+3904388641,technical,Advanced SQL,SQL,,semantic,0.8095,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3904388641,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3904388641,technical,data warehouses,data warehouse,,fuzzy_preferred,0.97,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de
+3904388641,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3904388641,technical,Power Query,,,unmatched,0.0,
+3904388641,technical,DAX,,,unmatched,0.0,
+3904388641,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904388641,tool,SQL Server,SQL Server,Database,technology_dictionary,1.0,
+3904388641,tool,Oracle,Oracle Relational Database,,semantic,0.7527,http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655
+3904388641,tool,Postgres,PostgreSQL,,alt_label,0.99,http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996
+3904388641,tool,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3904388641,tool,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3904388641,tool,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3904388641,soft,Strong communication skills,,,unmatched,0.0,
+3904500501,technical,MS SQL,SQL,,semantic,0.9297,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3904500501,technical,Agile,ICT project management methodologies,,alt_label,0.99,http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9
+3904500501,technical,Team Foundation Server (TFS) 2013,,,unmatched,0.0,
+3904500501,technical,Selenium,tools for ICT test automation,,alt_label,0.99,http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f
+3904500501,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904500501,technical,MS Office,use microsoft office,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3904500501,technical,SharePoint,,,unmatched,0.0,
+3904500501,technical,Teams,,,unmatched,0.0,
+3904500501,tool,Microsoft Team Foundation Server (TFS),,,unmatched,0.0,
+3904500501,tool,Microsoft Test Manager,,,unmatched,0.0,
+3904500501,soft,Organizational Skills,,,unmatched,0.0,
+3904500501,soft,Verbal Communication Skills,,,unmatched,0.0,
+3904500501,soft,Written Communication Skills,,,unmatched,0.0,
+3905295211,technical,Microsoft infrastructure engineering,,,unmatched,0.0,
+3905295211,technical,SharePoint,,,unmatched,0.0,
+3905295211,technical,Exchange,,,unmatched,0.0,
+3905295211,technical,Teams,,,unmatched,0.0,
+3905295211,technical,Microsoft 365,,,unmatched,0.0,
+3905295211,technical,AI/ML,,,unmatched,0.0,
+3905295211,technical,Copilot M365,,,unmatched,0.0,
+3905295211,technical,Copilot Studio,,,unmatched,0.0,
+3905295211,technical,Copilot Web,,,unmatched,0.0,
+3905295211,tool,Microsoft 365 platform,,,unmatched,0.0,
+3905295211,tool,OneDrive,manage digital documents,,alt_label,0.99,http://data.europa.eu/esco/skill/b769f524-0f25-44d7-8538-5c46710a040e
+3905295211,soft,mentoring,mentor individuals,,semantic,0.8722,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9
+3905295211,soft,coaching,coaching techniques,,semantic,0.7952,http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0
+3905295211,soft,partnership,,,unmatched,0.0,
+3905295211,soft,ambiguity management,,,unmatched,0.0,
+3905295211,soft,complexity management,design for organisational complexity,,semantic,0.7834,http://data.europa.eu/esco/skill/dfff95c6-9758-4c04-a228-7eaa88dec6cd
+3905295211,soft,result-driven,,,unmatched,0.0,
+3905295211,soft,sound judgement,,,unmatched,0.0,
+3887876187,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3887876187,technical,R,R,Programming Language,technology_dictionary,1.0,
+3887876187,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3887876187,technical,machine learning frameworks and libraries,,,unmatched,0.0,
+3887876187,technical,data analysis and statistical software,statistical analysis system software,,semantic,0.8867,http://data.europa.eu/esco/skill/ad59afe4-6f8a-4bc4-acfd-0f228277508a
+3887876187,technical,data visualization tools,data visualisation software,,semantic,0.9165,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3887876187,soft,Problem-Solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3887876187,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3887876187,soft,strategic and analytical approach,,,unmatched,0.0,
+3901353972,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3901353972,technical,R,R,Programming Language,technology_dictionary,1.0,
+3901353972,technical,VBA,,,unmatched,0.0,
+3901353972,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3901353972,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3901353972,technical,Qlik,,,unmatched,0.0,
+3901353972,technical,PowerBI,Power BI,BI Tool,technology_dictionary,1.0,
+3901353972,technical,d3.js,,,unmatched,0.0,
+3901353972,technical,SQL Server,SQL Server,Database,technology_dictionary,1.0,
+3901353972,technical,Oracle SQL,Oracle SQL,Database,technology_dictionary,1.0,
+3901353972,technical,NoSQL database technologies,NoSQL,,semantic,0.8235,http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c
+3901353972,technical,data extraction,information extraction,,semantic,0.8387,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec
+3901353972,technical,data transformation,,,unmatched,0.0,
+3901353972,technical,data loading,,,unmatched,0.0,
+3901353972,technical,statistics,statistics,,exact,1.0,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3901353972,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3901353972,technical,natural language processing,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3901353972,technical,optimization,,,unmatched,0.0,
+3901353972,technical,simulation,computer simulation,,semantic,0.8666,http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f
+3901353972,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3901353972,tool,Qlik,,,unmatched,0.0,
+3901353972,tool,PowerBI,Power BI,BI Tool,technology_dictionary,1.0,
+3901353972,tool,d3.js,,,unmatched,0.0,
+3901353972,tool,SQL Server,SQL Server,Database,technology_dictionary,1.0,
+3901353972,tool,Oracle SQL,Oracle SQL,Database,technology_dictionary,1.0,
+3901353972,soft,strategic communication,develop communications strategies,,semantic,0.7539,http://data.europa.eu/esco/skill/3c834f6e-523a-49ee-8ed1-e073e28ae6fe
+3901353972,soft,active listening,listen actively,,alt_label,0.99,http://data.europa.eu/esco/skill/a17286c5-238d-4f0b-bc24-29e9121345de
+3901353972,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3901353972,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3901353972,soft,adaptability,,,unmatched,0.0,
+3901353972,soft,time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3901353972,certification,Active TS/SCI Clearance,,,unmatched,0.0,
+3899530442,technical,programming,web programming,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28
+3899530442,technical,data structures,,,unmatched,0.0,
+3899530442,technical,statistics,statistics,,exact,1.0,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3899530442,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3899530442,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3899530442,technical,PowerPoint,,,unmatched,0.0,
+3899530442,technical,VBA,,,unmatched,0.0,
+3899530442,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3899530442,technical,R,R,Programming Language,technology_dictionary,1.0,
+3899530442,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3899530442,tool,Asana,use online tools to collaborate,,alt_label,0.99,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f
+3899530442,soft,relationship building,,,unmatched,0.0,
+3899530442,soft,professionalism,,,unmatched,0.0,
+3899530442,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3899530442,soft,time-management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3899530442,soft,organizational skills,,,unmatched,0.0,
+3899530442,soft,strategic thinking,develop strategy to solve problems,,alt_label,0.99,http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800
+3901938817,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3901938817,technical,NoSQL,NoSQL,Database,technology_dictionary,1.0,
+3901938817,technical,Business Process Reengineering,business processes,,semantic,0.7634,http://data.europa.eu/esco/skill/9e84a506-df06-4be3-874a-fa01293e3dd5
+3901938817,technical,Process Design,design process,,alt_label,0.99,http://data.europa.eu/esco/skill/2c28fc20-8a60-4311-8899-5ef8729c05b3
+3901938817,technical,Requirements Management,collection management,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/6c8ed0d1-4fc9-41a6-9587-6dbc82cabfc3
+3901938817,technical,Project Management,project management,,exact,1.0,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3906224855,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3906224855,technical,R,R,Programming Language,technology_dictionary,1.0,
+3906224855,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3906224855,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3906224855,technical,Teradata,Teradata Database,,alt_label,0.99,http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6
+3906224855,technical,Utilities,,,unmatched,0.0,
+3906224855,technical,Batch tools,,,unmatched,0.0,
+3906224855,technical,Pega Decisioning Platform,,,unmatched,0.0,
+3906224855,technical,Adobe stacks,,,unmatched,0.0,
+3906224855,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3906224855,tool,Teradata,Teradata Database,,alt_label,0.99,http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6
+3906224855,tool,Pega Decisioning Platform,,,unmatched,0.0,
+3906224855,tool,Adobe stacks,,,unmatched,0.0,
+3891091654,technical,Cloud applications,develop with cloud services,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9
+3891091654,technical,system management tools,network management system tools,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae
+3891091654,technical,spreadsheets,use mathematical tools and equipment,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/db77825e-0f3e-47d0-abdb-356794484272
+3891091654,technical,document applications,process applications,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/91d06ad9-245e-4ecb-bd18-624eed884108
+3891091654,technical,communication tools,communication,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3891091654,soft,verbal and written communication skills,,,unmatched,0.0,
+3891091654,soft,analytical skills,,,unmatched,0.0,
+3891091654,soft,presentation skills,,,unmatched,0.0,
+3891091654,soft,organizational skills,,,unmatched,0.0,
+3891091654,soft,problem solving skills,solve problems,,semantic,0.7688,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3891091654,soft,influence,,,unmatched,0.0,
+3891091654,soft,attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3905855625,tool,search engines,search engines,,exact,1.0,http://data.europa.eu/esco/skill/4bf59dde-8a03-483f-976a-45764f1e6d6f
+3905855625,tool,online maps,,,unmatched,0.0,
+3905855625,tool,website information,,,unmatched,0.0,
+3905855625,soft,detail-oriented,,,unmatched,0.0,
+3905855625,soft,research,,,unmatched,0.0,
+3905855625,soft,good knowledge of national and local geography,,,unmatched,0.0,
+3905855625,soft,ability to follow guidelines,,,unmatched,0.0,
+3905855625,soft,willingness to learn and adapt,demonstrate willingness to learn,,semantic,0.8353,http://data.europa.eu/esco/skill/9bf266a6-188b-4d17-a22f-2f266d76832b
+3901938989,technical,MS Office Professional,,,unmatched,0.0,
+3901938989,technical,Internet based applications,,,unmatched,0.0,
+3901938989,technical,Visio,Microsoft Visio,,semantic,0.8169,http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6
+3901938989,technical,FIGMA,,,unmatched,0.0,
+3901938989,tool,Visio,Microsoft Visio,,semantic,0.8169,http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6
+3901938989,tool,FIGMA,,,unmatched,0.0,
+3901938989,tool,JIRA,,,unmatched,0.0,
+3901938989,soft,analytical ability,,,unmatched,0.0,
+3901938989,soft,verbal and written communications skills,,,unmatched,0.0,
+3901938989,soft,organization,represent the organisation,,semantic,0.769,http://data.europa.eu/esco/skill/1a4fdd0e-2cbe-4b77-aa6e-e46efc181b76
+3901938989,soft,attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3901938989,soft,consensus-building,,,unmatched,0.0,
+3901348758,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3901348758,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3901348758,technical,ML models,,,unmatched,0.0,
+3901348758,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3901348758,technical,artificial intelligence,principles of artificial intelligence,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2
+3901348758,technical,statistical modeling,statistical modeling techniques,,alt_label,0.99,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22
+3901348758,technical,data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3901348758,technical,algorithms,algorithms,,exact,1.0,http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38
+3901348758,technical,numerical techniques,,,unmatched,0.0,
+3901348758,technical,PySpark,,,unmatched,0.0,
+3901348758,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3901348758,soft,mentoring,mentor individuals,,semantic,0.8722,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9
+3887701756,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3887701756,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3887701756,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3887701756,technical,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3887701756,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3887701756,technical,Kafka,Apache Kafka,Streaming,technology_dictionary,1.0,
+3887701756,technical,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3887701756,technical,dbt,dbt,Data Engineering,technology_dictionary,1.0,
+3887701756,technical,Google Cloud Services,,,unmatched,0.0,
+3887701756,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3887701756,technical,web3,,,unmatched,0.0,
+3887701756,technical,blockchain protocols,,,unmatched,0.0,
+3887701756,tool,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3887701756,tool,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3887701756,tool,Kafka,Apache Kafka,Streaming,technology_dictionary,1.0,
+3887701756,tool,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3887701756,tool,dbt,dbt,Data Engineering,technology_dictionary,1.0,
+3887701756,tool,Google Cloud Services,,,unmatched,0.0,
+3887701756,tool,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3887701756,soft,analytic skills,,,unmatched,0.0,
+3887701756,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3887701756,soft,collaboration,,,unmatched,0.0,
+3887701756,soft,influence,,,unmatched,0.0,
+3887701756,soft,self-starter,,,unmatched,0.0,
+3903846145,technical,math,mathematics,,semantic,0.9071,http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2
+3903846145,technical,actuarial science,actuarial science,,exact,1.0,http://data.europa.eu/esco/skill/c9f4efcd-e16a-4515-a0cb-60c6c479853d
+3903846145,technical,statistics,statistics,,exact,1.0,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3903846145,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3903846145,technical,artificial intelligence,principles of artificial intelligence,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2
+3903846145,technical,derivatives modeling,,,unmatched,0.0,
+3903846145,technical,liquidity management,liquidity management,,exact,1.0,http://data.europa.eu/esco/skill/781797f4-c2c3-49a4-a80d-eb81eb4f818c
+3884441553,technical,MS Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3884441553,technical,Data Analytics,data analytics,,exact,1.0,http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378
+3884441553,technical,Pivot Tables,,,unmatched,0.0,
+3884441553,technical,VLookup,,,unmatched,0.0,
+3884441553,technical,XLookup,,,unmatched,0.0,
+3884441553,technical,MS Office products,office software,,semantic,0.7915,http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2
+3884441553,soft,attention to details,,,unmatched,0.0,
+3884441553,soft,project management,project management,,exact,1.0,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3884441553,soft,time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3884441553,soft,prioritization,,,unmatched,0.0,
+3884441553,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905391652,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905391652,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3905391652,technical,Looker,,,unmatched,0.0,
+3905391652,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3905391652,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3905391652,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3905391652,tool,Looker,,,unmatched,0.0,
+3905391652,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3905391652,soft,critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3905391652,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905391652,soft,written and verbal skills,,,unmatched,0.0,
+3905391652,soft,detail-oriented,,,unmatched,0.0,
+3906230754,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3906230754,technical,R,R,Programming Language,technology_dictionary,1.0,
+3906230754,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3906230754,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3906230754,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3906230754,technical,QlikView,QlikView Expressor,,semantic,0.7988,http://data.europa.eu/esco/skill/97bdd757-29d4-4126-92a6-07608825aa3b
+3906230754,technical,SPSS,SPSS,Analytics,technology_dictionary,1.0,
+3906230754,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3906230754,technical,Stata,,,unmatched,0.0,
+3906230754,technical,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3906230754,technical,Google Sheets,use spreadsheets software,,alt_label,0.99,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be
+3906230754,technical,MATLAB,MATLAB,,exact,1.0,http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d
+3906230754,tool,BI analytics and reporting tools,,,unmatched,0.0,
+3906230754,soft,Collaboration,,,unmatched,0.0,
+3906230754,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3906230754,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3906230754,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3906230754,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3902352279,technical,UML,unified modelling language,,alt_label,0.99,http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3
+3902352279,technical,Azure DevOps,,,unmatched,0.0,
+3902352279,technical,Design Patterns,use software design patterns,,semantic,0.8448,http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17
+3902352279,technical,XML,,,unmatched,0.0,
+3902352279,technical,Microsoft Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3902352279,technical,Angular,Angular,,exact,1.0,http://data.europa.eu/esco/skill/1ffac4ac-fda7-407d-8ed1-ca8f4a8dc146
+3902352279,technical,.NET,Visual Basic,,alt_label,0.99,http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413
+3902352279,technical,.NET Core,,,unmatched,0.0,
+3902352279,technical,C#,C#,,exact,1.0,http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a
+3902352279,technical,TypeScript,TypeScript,,exact,1.0,http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68
+3902352279,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902352279,technical,NO SQL,SQL,,semantic,0.7569,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3902352279,technical,JSON,,,unmatched,0.0,
+3902352279,technical,JSONB,,,unmatched,0.0,
+3902352279,tool,Microsoft Office Suite,use microsoft office,,semantic,0.8468,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3902352279,tool,Figma,,,unmatched,0.0,
+3902352279,tool,Flow charting software,,,unmatched,0.0,
+3902352279,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902352279,soft,Critical evaluation,,,unmatched,0.0,
+3902352279,soft,Organizing information,organise information,,semantic,0.856,http://data.europa.eu/esco/skill/bf05da8d-772a-4423-adb2-df79672f46f7
+3901987303,technical,MS Office,use microsoft office,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3901987303,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3901987303,soft,interpersonal,,,unmatched,0.0,
+3901987303,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3901987303,soft,problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3901987303,soft,analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3901987303,soft,planning,urban planning,,semantic,0.7856,http://data.europa.eu/esco/skill/7f18039d-dfae-471b-9daa-507f6b2d2842
+3901987303,soft,organizational,organisational structure,,semantic,0.7842,http://data.europa.eu/esco/skill/c4272323-cce6-4535-ac71-4f6841f4f89a
+3894286618,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3894286618,technical,Keras,computer vision,,alt_label,0.99,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3894286618,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3894286618,technical,Scikit-learn,,,unmatched,0.0,
+3894286618,technical,transformers,electrical machines,,alt_label,0.99,http://data.europa.eu/esco/skill/f0ab5d57-4be7-411b-afce-b4a76a142302
+3894286618,technical,deep learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3894286618,technical,natural language processing,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3894286618,technical,recommendation & personalization,,,unmatched,0.0,
+3894286618,technical,open source programming languages,,,unmatched,0.0,
+3894286618,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3894286618,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3894286618,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3894286618,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3894286618,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3894286618,technical,R,R,Programming Language,technology_dictionary,1.0,
+3894286618,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3894286618,soft,interpersonal skills,,,unmatched,0.0,
+3894286618,soft,innovative,think innovatively,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/c2a0c52c-0b4b-4180-a918-92650ea3b458
+3894286618,soft,creative,,,unmatched,0.0,
+3894286618,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3894286618,soft,talent development,talent management strategies,,semantic,0.7593,http://data.europa.eu/esco/skill/f206e732-110c-47ce-a53f-f00c9d97c90d
+3905306415,technical,KNIME,,,unmatched,0.0,
+3905306415,technical,Visual Basic for Applications (VBA),Visual Basic,,semantic,0.9319,http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413
+3905306415,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905306415,technical,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3905306415,technical,Microsoft Access,Microsoft Access,,exact,1.0,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e
+3905306415,technical,Lynx UI,,,unmatched,0.0,
+3905306415,technical,Optima Cognos Reporting Tool,,,unmatched,0.0,
+3905306415,tool,SharePoint,,,unmatched,0.0,
+3905306415,tool,Microsoft Office,use microsoft office,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3905338394,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3905338394,technical,Apache Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3905338394,technical,Presto,,,unmatched,0.0,
+3905338394,technical,HDFS,,,unmatched,0.0,
+3905338394,technical,Apache Kafka,,,unmatched,0.0,
+3905338394,technical,Apache Druid,,,unmatched,0.0,
+3905338394,technical,Redshift,,,unmatched,0.0,
+3905338394,technical,MySQL,MySQL,Database,technology_dictionary,1.0,
+3905338394,technical,MongoDB,,,unmatched,0.0,
+3905338394,technical,ETL tooling,,,unmatched,0.0,
+3905338394,technical,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3905338394,technical,AWS EC2,,,unmatched,0.0,
+3905338394,technical,EMR,,,unmatched,0.0,
+3905338394,technical,Glue,,,unmatched,0.0,
+3905338394,technical,S3,,,unmatched,0.0,
+3905338394,tool,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3905338394,soft,cross-functional skills,,,unmatched,0.0,
+3905338394,soft,interpersonal skills,,,unmatched,0.0,
+3905338394,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3905338394,soft,entrepreneurial skills,,,unmatched,0.0,
+3905887769,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3905887769,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905887769,technical,data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3905887769,technical,predictive analytics,develop predictive models,,semantic,0.7572,http://data.europa.eu/esco/skill/e2887d71-8ff4-4188-9926-22bdaefa7713
+3905887769,technical,statistical techniques,statistical modeling techniques,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22
+3905887769,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3905887769,tool,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905887769,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905887769,soft,interpersonal,,,unmatched,0.0,
+3905887769,soft,management,human resource management,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba
+3905887769,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3905887769,soft,quantitative,mathematics,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2
+3905887769,soft,analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3900983236,technical,Oracle BI Publisher,,,unmatched,0.0,
+3900983236,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3900983236,soft,ability to work independently,work independently,,semantic,0.876,http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730
+3901349539,technical,Azure Data Factory,,,unmatched,0.0,
+3901349539,technical,Azure SQL Data Warehouse,,,unmatched,0.0,
+3901349539,technical,Azure Databricks,,,unmatched,0.0,
+3901349539,technical,Azure Synapse Analytics,,,unmatched,0.0,
+3901349539,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3901349539,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3901349539,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3901349539,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3901349539,technical,SQL Server,SQL Server,Database,technology_dictionary,1.0,
+3901349539,technical,Teradata,Teradata Database,,alt_label,0.99,http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6
+3901349539,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3901349539,technical,Synapse,,,unmatched,0.0,
+3901349539,technical,Git,Git,Version Control,technology_dictionary,1.0,
+3901349539,technical,GitHub,GitHub,Version Control,technology_dictionary,1.0,
+3901349539,tool,Git,Git,Version Control,technology_dictionary,1.0,
+3901349539,tool,GitHub,GitHub,Version Control,technology_dictionary,1.0,
+3901349539,soft,Collaboration,,,unmatched,0.0,
+3901349539,soft,Mentorship,provide mentorship,,semantic,0.9311,http://data.europa.eu/esco/skill/28722c99-68b7-4b7b-808f-53f343299935
+3903806210,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3903806210,technical,Conda,,,unmatched,0.0,
+3903806210,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3903806210,technical,H2O,,,unmatched,0.0,
+3903806210,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3903806210,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3903806210,technical,open-source languages,,,unmatched,0.0,
+3903806210,technical,cloud computing platforms,cloud technologies,,semantic,0.7646,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0
+3903806210,technical,clustering,,,unmatched,0.0,
+3903806210,technical,classification,debt classification,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/5c2a951c-9eb3-45a7-af45-39f3bf3a095d
+3903806210,technical,sentiment analysis,,,unmatched,0.0,
+3903806210,technical,time series,,,unmatched,0.0,
+3903806210,technical,deep learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3903806210,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3903806210,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3903806210,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3903806210,technical,R,R,Programming Language,technology_dictionary,1.0,
+3903806210,tool,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3903806210,tool,H2O,,,unmatched,0.0,
+3903806210,tool,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3903806210,tool,Conda,,,unmatched,0.0,
+3903806210,soft,interpersonal skills,,,unmatched,0.0,
+3903806210,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3903806210,soft,talent development,talent management strategies,,semantic,0.7593,http://data.europa.eu/esco/skill/f206e732-110c-47ce-a53f-f00c9d97c90d
+3894876574,technical,ETL pipeline,,,unmatched,0.0,
+3894876574,technical,Automation,automation technology,,semantic,0.8913,http://data.europa.eu/esco/skill/f4a6e9f7-5cff-46c0-894c-59c20bb78694
+3894876574,technical,Workflow management,manage workflow processes,,semantic,0.8467,http://data.europa.eu/esco/skill/7add3681-17b6-4027-8a9d-ee92d2b96a42
+3894876574,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3894876574,technical,Pythonic design,,,unmatched,0.0,
+3894876574,technical,Object-oriented programming,use object-oriented programming,,semantic,0.9425,http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d
+3894876574,technical,pandas,,,unmatched,0.0,
+3894876574,technical,R,R,Programming Language,technology_dictionary,1.0,
+3894876574,technical,STAR,,,unmatched,0.0,
+3894876574,technical,HISAT2,,,unmatched,0.0,
+3894876574,technical,DESeq2,,,unmatched,0.0,
+3894876574,technical,Seurat,,,unmatched,0.0,
+3894876574,technical,Databricks' Delta Tables,,,unmatched,0.0,
+3894876574,technical,Athena,,,unmatched,0.0,
+3894876574,technical,Glue,,,unmatched,0.0,
+3894876574,technical,Iceberg,,,unmatched,0.0,
+3894876574,technical,Lakehouse,,,unmatched,0.0,
+3894876574,technical,Medallion architecture,,,unmatched,0.0,
+3894876574,technical,Agile,ICT project management methodologies,,alt_label,0.99,http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9
+3894876574,technical,Source control,tools for software configuration management,,alt_label,0.99,http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f
+3894876574,technical,Project management,project management,,exact,1.0,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3894876574,technical,Issue tracking with JIRA,,,unmatched,0.0,
+3894876574,technical,"Container strategies using Docker, Fargate, and ECR",,,unmatched,0.0,
+3894876574,technical,AWS cloud computing services,,,unmatched,0.0,
+3894876574,technical,Lambda functions,,,unmatched,0.0,
+3894876574,technical,ECS,,,unmatched,0.0,
+3894876574,technical,Batch,,,unmatched,0.0,
+3894876574,technical,Elastic Load Balancer,,,unmatched,0.0,
+3894876574,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3894876574,technical,EMR,,,unmatched,0.0,
+3894876574,technical,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3894876574,tool,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3894876574,tool,AWS Glue,,,unmatched,0.0,
+3894876574,tool,Amazon Kinesis,,,unmatched,0.0,
+3894876574,tool,AWS Step Functions,,,unmatched,0.0,
+3894876574,tool,CI/CD,,,unmatched,0.0,
+3894876574,tool,JIRA,,,unmatched,0.0,
+3894876574,tool,Docker,Docker,DevOps,technology_dictionary,1.0,
+3894876574,tool,Fargate,,,unmatched,0.0,
+3894876574,tool,ECR,,,unmatched,0.0,
+3894876574,soft,Collaboration,,,unmatched,0.0,
+3894876574,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3894876574,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3894876574,soft,Innovation,innovation processes,,semantic,0.7867,http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68
+3894876574,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3894876574,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3894876574,soft,Adaptability,,,unmatched,0.0,
+3894876574,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3901673468,technical,MSOffice,,,unmatched,0.0,
+3901673468,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3901673468,technical,Powerpoint,,,unmatched,0.0,
+3901673468,technical,data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3901673468,technical,statistical and quantitative analysis,quantitative analysis,,semantic,0.8456,http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3
+3901673468,technical,Workiva,,,unmatched,0.0,
+3901673468,tool,Workiva,,,unmatched,0.0,
+3901673468,tool,MSOffice,,,unmatched,0.0,
+3901673468,soft,written and verbal communication,discern written communication,,semantic,0.8287,http://data.europa.eu/esco/skill/0e161427-3369-47c0-8669-9e226207f6d0
+3901673468,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3901673468,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3901673468,soft,professionalism,,,unmatched,0.0,
+3901673468,soft,integrity,morality,,alt_label,0.99,http://data.europa.eu/esco/skill/7cf2762d-32e1-4b21-8ef8-574e40310c18
+3901673468,certification,GRI,,,unmatched,0.0,
+3901673468,certification,FSA,,,unmatched,0.0,
+3902357112,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902357112,technical,numpy,,,unmatched,0.0,
+3902357112,technical,scipy,,,unmatched,0.0,
+3902357112,technical,matplotlib,,,unmatched,0.0,
+3902357112,technical,scikit-learn,,,unmatched,0.0,
+3902357112,technical,bash scripting,use scripting programming,,semantic,0.7588,http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333
+3902357112,technical,Linux,,,unmatched,0.0,
+3902357112,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3902357112,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3902357112,technical,OpenCV,computer vision,,alt_label,0.99,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3902357112,technical,CUDA,computer vision,,alt_label,0.99,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3902357112,technical,TensorRT,,,unmatched,0.0,
+3902357112,technical,C/C++,C++,,semantic,0.9742,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3902357112,technical,Git,Git,Version Control,technology_dictionary,1.0,
+3902357112,technical,ANN,artificial neural networks,,alt_label,0.99,http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4
+3902357112,technical,RNN,,,unmatched,0.0,
+3902357112,technical,deep learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3902357112,technical,computer vision,computer vision,,exact,1.0,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3902357112,tool,jupyter notebooks,,,unmatched,0.0,
+3902357112,tool,Jetson/ARM,,,unmatched,0.0,
+3902357112,tool,Nvidia Triton,,,unmatched,0.0,
+3902357112,tool,KubeML,,,unmatched,0.0,
+3902357112,tool,GitLab Jobs,,,unmatched,0.0,
+3902357112,tool,GitHub Actions,,,unmatched,0.0,
+3902357112,tool,Travis,,,unmatched,0.0,
+3902357112,soft,project management,project management,,exact,1.0,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3902357112,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3902357112,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902357112,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3902357112,soft,collaboration,,,unmatched,0.0,
+3902357112,soft,time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3895584708,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3895584708,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3895584708,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3895584708,technical,R,R,Programming Language,technology_dictionary,1.0,
+3895584708,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3895584708,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3895584708,technical,MXNet,,,unmatched,0.0,
+3895584708,technical,MR,,,unmatched,0.0,
+3895584708,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3895584708,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3895584708,technical,deep learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3895584708,technical,causal inference,,,unmatched,0.0,
+3895584708,technical,operational optimization algorithms,,,unmatched,0.0,
+3895584708,technical,data structure,,,unmatched,0.0,
+3895584708,technical,algorithm design,,,unmatched,0.0,
+3886883013,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3886883013,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3886883013,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3886883013,technical,R,R,Programming Language,technology_dictionary,1.0,
+3886883013,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3886883013,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3886883013,technical,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3886883013,technical,data visualization,data visualisation software,,semantic,0.8764,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3886883013,technical,data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3886883013,technical,data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3886883013,technical,statistical concepts,,,unmatched,0.0,
+3886883013,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3886883013,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3886883013,soft,problem-solving skills,solve problems,,semantic,0.7688,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3886883013,soft,attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3886883013,soft,strong verbal and written communication skills,,,unmatched,0.0,
+3886883013,soft,ability to work independently and as part of a team,,,unmatched,0.0,
+3885112244,technical,Agile,ICT project management methodologies,,alt_label,0.99,http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9
+3885112244,technical,Waterfall,Waterfall development,,semantic,0.8201,http://data.europa.eu/esco/skill/6a876489-7ad8-4a13-b09c-c9b8e97a302e
+3885112244,technical,PowerPoint,,,unmatched,0.0,
+3885112244,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3885112244,technical,Microsoft Project,,,unmatched,0.0,
+3885112244,technical,Visio,Microsoft Visio,,semantic,0.8169,http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6
+3885112244,technical,Office tools,office software,,semantic,0.8338,http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2
+3885112244,tool,PowerPoint,,,unmatched,0.0,
+3885112244,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3885112244,tool,Microsoft Project,,,unmatched,0.0,
+3885112244,tool,Visio,Microsoft Visio,,semantic,0.8169,http://data.europa.eu/esco/skill/86f7126d-97fd-4da5-be96-d1cf6ecd54e6
+3885112244,tool,Office tools,office software,,semantic,0.8338,http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2
+3885112244,soft,analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3885112244,soft,planning,urban planning,,semantic,0.7856,http://data.europa.eu/esco/skill/7f18039d-dfae-471b-9daa-507f6b2d2842
+3885112244,soft,organization,represent the organisation,,semantic,0.769,http://data.europa.eu/esco/skill/1a4fdd0e-2cbe-4b77-aa6e-e46efc181b76
+3885112244,soft,time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3885112244,soft,presentation,prepare presentation material,,semantic,0.7906,http://data.europa.eu/esco/skill/1ba59ce0-7fec-434b-8d5c-9b275250a26c
+3885112244,soft,written communication,discern written communication,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/0e161427-3369-47c0-8669-9e226207f6d0
+3902861372,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902861372,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3902861372,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3902861372,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3902861372,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902861372,technical,Scikit-learn,,,unmatched,0.0,
+3902861372,technical,Pandas,,,unmatched,0.0,
+3902861372,technical,Machine Learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3902861372,technical,Data Science,data science,,exact,1.0,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01
+3902861372,technical,AWS Redshift,,,unmatched,0.0,
+3902861372,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3902861372,technical,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3902861372,technical,Docker,Docker,DevOps,technology_dictionary,1.0,
+3902861372,technical,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3902861372,tool,Databases,use databases,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1
+3902861372,tool,Data workflow platforms,,,unmatched,0.0,
+3902861372,tool,Container technologies,,,unmatched,0.0,
+3902861372,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902861372,soft,Troubleshooting,troubleshoot,,alt_label,0.99,http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40
+3902861372,soft,Problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3902861372,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3902861372,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3902861372,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3902861372,soft,Adaptability,,,unmatched,0.0,
+3902861372,soft,Data-driven culture,,,unmatched,0.0,
+3905208418,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905208418,technical,database design,design database scheme,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511
+3905208418,technical,data structures,,,unmatched,0.0,
+3905208418,technical,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3905208418,technical,Microsoft Word,use microsoft office,,semantic,0.7613,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3905208418,technical,Microsoft Power Platform,,,unmatched,0.0,
+3905208418,technical,SharePoint,,,unmatched,0.0,
+3905208418,tool,Microsoft Office,use microsoft office,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3905208418,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905208418,soft,collaboration,,,unmatched,0.0,
+3905208418,soft,delegation,delegate responsibilities,,semantic,0.7659,http://data.europa.eu/esco/skill/b00e948c-19be-4951-8cff-60f88f1046e9
+3905208418,soft,problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3905208418,soft,quantitative and analytical abilities,,,unmatched,0.0,
+3905208418,soft,team leadership,lead a team,,semantic,0.821,http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb
+3905208418,soft,team management,manage a team,,semantic,0.8835,http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b
+3905208418,certification,Tier 3 security clearance,,,unmatched,0.0,
+3906261179,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3906261179,technical,R,R,Programming Language,technology_dictionary,1.0,
+3906261179,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3906261179,technical,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3906261179,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3906261179,technical,SPSS,SPSS,Analytics,technology_dictionary,1.0,
+3906261179,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3906261179,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3906261179,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3906261179,technical,data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3906261179,technical,data auditing,audit techniques,,semantic,0.7807,http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2
+3906261179,technical,aggregation,,,unmatched,0.0,
+3906261179,technical,reconciliation,,,unmatched,0.0,
+3906261179,technical,visualization,,,unmatched,0.0,
+3906261179,technical,data modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3906261179,technical,simulation,computer simulation,,semantic,0.8666,http://data.europa.eu/esco/skill/0823ccef-813f-4f22-afef-ac0d68615e8f
+3906261179,technical,advanced mathematics,mathematics,,semantic,0.8292,http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2
+3906261179,technical,GitHub,GitHub,Version Control,technology_dictionary,1.0,
+3906261179,tool,GitHub,GitHub,Version Control,technology_dictionary,1.0,
+3906261179,soft,effective communication,communication,,semantic,0.8308,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3906261179,soft,analytical skills,,,unmatched,0.0,
+3906261179,soft,leadership qualities,,,unmatched,0.0,
+3906261179,soft,interpersonal skills,,,unmatched,0.0,
+3906261179,soft,research skills,,,unmatched,0.0,
+3906261179,soft,technical writing,write technical reports,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/941364b9-1375-4add-9889-d67bae99bc8c
+3906261179,soft,data storytelling,,,unmatched,0.0,
+3906261179,soft,technical presentation skills,,,unmatched,0.0,
+3906261179,soft,critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3906261179,soft,collaboration,,,unmatched,0.0,
+3906261179,soft,initiative,show initiative,,semantic,0.8116,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f
+3906261179,soft,sound judgement,,,unmatched,0.0,
+3906261179,soft,problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3906261179,soft,independent judgment,,,unmatched,0.0,
+3904942700,technical,search engines,search engines,,exact,1.0,http://data.europa.eu/esco/skill/4bf59dde-8a03-483f-976a-45764f1e6d6f
+3904942700,technical,online maps,,,unmatched,0.0,
+3904942700,technical,website information,,,unmatched,0.0,
+3904942700,soft,detail-oriented,,,unmatched,0.0,
+3904942700,soft,research,,,unmatched,0.0,
+3903444746,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3903444746,technical,Visual Basic,Visual Basic,,exact,1.0,http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413
+3903444746,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3903444746,technical,M/Power Query/DAX,,,unmatched,0.0,
+3903444746,technical,Machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3903444746,tool,PowerBI,Power BI,BI Tool,technology_dictionary,1.0,
+3903444746,tool,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3903444746,tool,SSRS,,,unmatched,0.0,
+3903444746,soft,Trust,build trust,,semantic,0.847,http://data.europa.eu/esco/skill/eade4171-3d57-4fb2-9518-44d5a1da4ff5
+3903444746,soft,Integrity,morality,,alt_label,0.99,http://data.europa.eu/esco/skill/7cf2762d-32e1-4b21-8ef8-574e40310c18
+3903444746,soft,Servant leadership,,,unmatched,0.0,
+3903444746,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3903444746,soft,Collaboration,,,unmatched,0.0,
+3903444746,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903444746,soft,Problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3903444746,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3903444746,soft,Initiative,show initiative,,semantic,0.8116,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f
+3903444746,soft,Sound judgement,,,unmatched,0.0,
+3904933849,technical,MS Office,use microsoft office,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3904933849,technical,AGILE tools,Agile development,,semantic,0.8103,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3904933849,technical,JIRA,,,unmatched,0.0,
+3904933849,technical,MIRO,,,unmatched,0.0,
+3904933849,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904933849,technical,Databases,use databases,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1
+3904933849,technical,PowerBI,Power BI,BI Tool,technology_dictionary,1.0,
+3904933849,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3904933849,tool,JIRA,,,unmatched,0.0,
+3904933849,tool,MIRO,,,unmatched,0.0,
+3904933849,tool,MS Office,use microsoft office,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3904933849,tool,PowerBI,Power BI,BI Tool,technology_dictionary,1.0,
+3904933849,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3904933849,soft,Ability to influence and negotiate,,,unmatched,0.0,
+3904933849,soft,Organized,work in an organised manner,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/1258cc12-37bb-4a12-b219-9c3d6b294533
+3904933849,soft,Detail Oriented,,,unmatched,0.0,
+3904933849,soft,Agile mindset,Agile development,,semantic,0.7556,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3904933849,soft,Data analysis & integration,,,unmatched,0.0,
+3898174047,technical,MS office,use microsoft office,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3898174047,technical,data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3898174047,technical,process mapping,,,unmatched,0.0,
+3898174047,technical,project management,project management,,exact,1.0,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3898174047,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3898174047,soft,analytic skills,,,unmatched,0.0,
+3898174047,soft,critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3898174047,soft,communication management,communication,,semantic,0.7885,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3898174047,soft,people skills,,,unmatched,0.0,
+3898174047,soft,self-starter,,,unmatched,0.0,
+3898174047,soft,collaborative team environment,,,unmatched,0.0,
+3902302203,technical,Salesforce.com,,,unmatched,0.0,
+3902302203,technical,PowerBI,Power BI,BI Tool,technology_dictionary,1.0,
+3902302203,technical,data/analytical skills,,,unmatched,0.0,
+3902302203,tool,CRM system,,,unmatched,0.0,
+3902302203,soft,strategic planning,strategic planning,,exact,1.0,http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2
+3902302203,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3902302203,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3902302203,soft,critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3902302203,soft,leadership/management,,,unmatched,0.0,
+3902356904,technical,Azure Stack,,,unmatched,0.0,
+3902356904,technical,SQL Server,SQL Server,Database,technology_dictionary,1.0,
+3902356904,technical,ETL/ELT,,,unmatched,0.0,
+3902356904,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902356904,technical,R,R,Programming Language,technology_dictionary,1.0,
+3902356904,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3902356904,technical,pandas,,,unmatched,0.0,
+3902356904,technical,Numpy,,,unmatched,0.0,
+3902356904,technical,dplyr,,,unmatched,0.0,
+3902356904,technical,data table,,,unmatched,0.0,
+3902356904,technical,stringr,,,unmatched,0.0,
+3902356904,technical,Slick,,,unmatched,0.0,
+3902356904,technical,Kafka,Apache Kafka,Streaming,technology_dictionary,1.0,
+3902356904,technical,DataRobot,,,unmatched,0.0,
+3902356904,technical,Domino Data Labs,,,unmatched,0.0,
+3902356904,technical,Salesforce MC,,,unmatched,0.0,
+3902356904,technical,Veeva CRM,,,unmatched,0.0,
+3902356904,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3902356904,technical,dbt,dbt,Data Engineering,technology_dictionary,1.0,
+3902356904,technical,Stitch,apply stitching techniques,,semantic,0.7701,http://data.europa.eu/esco/skill/c8d75bf4-ad0d-4f36-8cdc-265a7b044881
+3902356904,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3902356904,technical,Airflow,Apache Airflow,Workflow,technology_dictionary,1.0,
+3902356904,technical,Git,Git,Version Control,technology_dictionary,1.0,
+3902356904,technical,CI/CD,,,unmatched,0.0,
+3902356904,tool,Power BI Services,,,unmatched,0.0,
+3902356904,tool,Azure Data Factory,,,unmatched,0.0,
+3902356904,tool,Databrick,,,unmatched,0.0,
+3902356904,tool,Data Lake,,,unmatched,0.0,
+3902356904,tool,Blob Storage,,,unmatched,0.0,
+3902356904,soft,verbal and written communication skills,,,unmatched,0.0,
+3902356904,soft,agile and lean concepts,,,unmatched,0.0,
+3904986169,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904986169,tool,Jira,,,unmatched,0.0,
+3904986169,soft,Strong Business Analyst Skills,,,unmatched,0.0,
+3904986169,soft,Collaboration,,,unmatched,0.0,
+3904986169,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905283695,technical,text mining,data mining,,semantic,0.7619,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3905283695,technical,data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3905283695,technical,information visualization,visual presentation techniques,,alt_label,0.99,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213
+3905283695,technical,Machine Learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3905283695,technical,Deep Learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3905283695,technical,R,R,Programming Language,technology_dictionary,1.0,
+3905283695,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3905283695,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905283695,technical,AWS platform & services,,,unmatched,0.0,
+3905283695,tool,AWS platform & services,,,unmatched,0.0,
+3905283695,tool,R,R,Programming Language,technology_dictionary,1.0,
+3905283695,tool,Python,Python,Programming Language,technology_dictionary,1.0,
+3905283695,tool,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905283695,soft,organizational,organisational structure,,semantic,0.7842,http://data.europa.eu/esco/skill/c4272323-cce6-4535-ac71-4f6841f4f89a
+3905283695,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905283695,soft,presentation,prepare presentation material,,semantic,0.7906,http://data.europa.eu/esco/skill/1ba59ce0-7fec-434b-8d5c-9b275250a26c
+3904392124,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3904392124,technical,MLOps,,,unmatched,0.0,
+3904392124,technical,data engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3904392124,technical,graph databases,,,unmatched,0.0,
+3904392124,technical,MLFlow,,,unmatched,0.0,
+3904392124,technical,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3904392124,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904392124,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3904392124,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3904392124,technical,Scikit-learn,,,unmatched,0.0,
+3904392124,technical,Git,Git,Version Control,technology_dictionary,1.0,
+3904392124,technical,CI/CD,,,unmatched,0.0,
+3904392124,technical,Docker,Docker,DevOps,technology_dictionary,1.0,
+3904392124,technical,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3904392124,technical,Neo4j,,,unmatched,0.0,
+3904392124,technical,graph algorithms,algorithms,,semantic,0.7537,http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38
+3904392124,technical,data modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3904392124,tool,MLFlow,,,unmatched,0.0,
+3904392124,tool,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3904392124,tool,Git,Git,Version Control,technology_dictionary,1.0,
+3904392124,tool,Docker,Docker,DevOps,technology_dictionary,1.0,
+3904392124,tool,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3904392124,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3904392124,soft,collaboration,,,unmatched,0.0,
+3904392124,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3904392124,soft,mentorship,provide mentorship,,semantic,0.9311,http://data.europa.eu/esco/skill/28722c99-68b7-4b7b-808f-53f343299935
+3902838650,technical,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3902838650,technical,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3902838650,technical,Unity Catalog,,,unmatched,0.0,
+3902838650,technical,ETL/ELT,,,unmatched,0.0,
+3902838650,technical,Data Security,apply information security policies,,alt_label,0.99,http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8
+3902838650,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3902838650,technical,UI/UX,,,unmatched,0.0,
+3902838650,technical,Generative AI,,,unmatched,0.0,
+3902838650,technical,Data Ops,,,unmatched,0.0,
+3902838650,technical,Data Governance,,,unmatched,0.0,
+3902838650,tool,Databricks,Databricks,Big Data,technology_dictionary,1.0,
+3902838650,tool,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3902838650,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3902838650,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3902838650,soft,Mentorship,provide mentorship,,semantic,0.9311,http://data.europa.eu/esco/skill/28722c99-68b7-4b7b-808f-53f343299935
+3902838650,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902838650,soft,Collaboration,,,unmatched,0.0,
+3902838650,soft,Proactivity,,,unmatched,0.0,
+3902838650,soft,Independence,,,unmatched,0.0,
+3902838650,soft,Self-motivation,motivate others,,semantic,0.7575,http://data.europa.eu/esco/skill/e2d44a9b-f28c-489e-9861-b654b5ded507
+3901995691,technical,Artificial Intelligence,principles of artificial intelligence,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2
+3901995691,technical,Machine Learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3901995691,technical,Information Architecture,information architecture,,exact,1.0,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4
+3901995691,technical,Data Engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3901995691,technical,Public Cloud,,,unmatched,0.0,
+3901995691,technical,Data Architecture,information architecture,,alt_label,0.99,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4
+3901995691,technical,Software,R,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b
+3901995691,soft,Collaboration,,,unmatched,0.0,
+3901995691,soft,Project management,project management,,exact,1.0,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3901995691,certification,Certification on Information Architecture,information architecture,,semantic,0.7622,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4
+3898164992,technical,SAP FICO,,,unmatched,0.0,
+3898164992,technical,SAP FICOECC 6 or higher,,,unmatched,0.0,
+3898164992,technical,SAP FICO modules AP/AR/GL/Tax,,,unmatched,0.0,
+3898164992,technical,SAP integrations,SAP Data Services,,semantic,0.7653,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4
+3891075029,technical,AWS (Amazon Web Services),,,unmatched,0.0,
+3891075029,technical,Big Query,,,unmatched,0.0,
+3891075029,technical,Redshift,,,unmatched,0.0,
+3891075029,technical,Vertica,,,unmatched,0.0,
+3891075029,technical,DynamoDB,,,unmatched,0.0,
+3891075029,technical,BigTable,,,unmatched,0.0,
+3891075029,technical,Cosmos DB,,,unmatched,0.0,
+3891075029,technical,SQL Server,SQL Server,Database,technology_dictionary,1.0,
+3891075029,technical,Oracle,Oracle Relational Database,,semantic,0.7527,http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655
+3891075029,technical,MySQL,MySQL,Database,technology_dictionary,1.0,
+3891075029,technical,Glue ETL,,,unmatched,0.0,
+3891075029,technical,Lambda,,,unmatched,0.0,
+3891075029,technical,Google Cloud DataFlow,,,unmatched,0.0,
+3891075029,technical,Azure Data Factory,,,unmatched,0.0,
+3891075029,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3891075029,technical,Spark Streaming,,,unmatched,0.0,
+3891075029,tool,Code repositories,,,unmatched,0.0,
+3891075029,tool,Continuous integration,,,unmatched,0.0,
+3891075029,soft,Good communication,communication,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3891075029,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3891075029,soft,Problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3891075029,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3891075029,soft,Mentorship,provide mentorship,,semantic,0.9311,http://data.europa.eu/esco/skill/28722c99-68b7-4b7b-808f-53f343299935
+3891075029,certification,AWS certifications,,,unmatched,0.0,
+3903807162,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3903807162,technical,Conda,,,unmatched,0.0,
+3903807162,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3903807162,technical,H2O,,,unmatched,0.0,
+3903807162,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3903807162,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3903807162,technical,open-source languages,,,unmatched,0.0,
+3903807162,technical,cloud computing platforms,cloud technologies,,semantic,0.7646,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0
+3903807162,technical,clustering,,,unmatched,0.0,
+3903807162,technical,classification,debt classification,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/5c2a951c-9eb3-45a7-af45-39f3bf3a095d
+3903807162,technical,sentiment analysis,,,unmatched,0.0,
+3903807162,technical,time series,,,unmatched,0.0,
+3903807162,technical,deep learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3903807162,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3903807162,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3903807162,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3903807162,technical,R,R,Programming Language,technology_dictionary,1.0,
+3903807162,tool,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3903807162,tool,H2O,,,unmatched,0.0,
+3903807162,tool,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3903807162,tool,Conda,,,unmatched,0.0,
+3903807162,soft,interpersonal skills,,,unmatched,0.0,
+3903807162,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3903807162,soft,talent development,talent management strategies,,semantic,0.7593,http://data.europa.eu/esco/skill/f206e732-110c-47ce-a53f-f00c9d97c90d
+3903807162,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3887499919,technical,MS Office Suite,use microsoft office,,semantic,0.8059,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3887499919,technical,Advanced Excel,,,unmatched,0.0,
+3887499919,technical,U.S. GAAP accounting,,,unmatched,0.0,
+3887499919,tool,MS Office Suite,use microsoft office,,semantic,0.8059,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3887499919,soft,strong understanding of financial and reporting requirements,,,unmatched,0.0,
+3905395157,technical,system development life cycle methodologies,systems development life-cycle,,semantic,0.9262,http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575
+3905395157,technical,business systems,business ICT systems,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53
+3905395157,technical,process flows,,,unmatched,0.0,
+3905395157,soft,interpersonal skills,,,unmatched,0.0,
+3905395157,soft,collaborative approach,,,unmatched,0.0,
+3905395157,soft,problem solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3905395157,soft,initiative,show initiative,,semantic,0.8116,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f
+3905395157,soft,internal client service,,,unmatched,0.0,
+3894206499,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3894206499,technical,R,R,Programming Language,technology_dictionary,1.0,
+3894206499,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3894206499,technical,HQL,,,unmatched,0.0,
+3894206499,technical,NoSQL,NoSQL,Database,technology_dictionary,1.0,
+3894206499,technical,JSON,,,unmatched,0.0,
+3894206499,technical,XML,,,unmatched,0.0,
+3894206499,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3894206499,technical,statistical analyses,statistics,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3894206499,technical,AI,principles of artificial intelligence,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2
+3894206499,technical,Natural Language Processing (NLP),natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3894206499,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903472486,technical,BWA,,,unmatched,0.0,
+3903472486,technical,GATK,,,unmatched,0.0,
+3903472486,technical,Trinity,,,unmatched,0.0,
+3903472486,technical,Bioconductor,,,unmatched,0.0,
+3903472486,technical,Soap2,,,unmatched,0.0,
+3903472486,technical,Galaxy,,,unmatched,0.0,
+3903472486,technical,BLAST,,,unmatched,0.0,
+3903472486,technical,Perl,Perl,,exact,1.0,http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8
+3903472486,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3903472486,technical,R,R,Programming Language,technology_dictionary,1.0,
+3903472486,technical,bash,computer programming,,alt_label,0.99,http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97
+3903472486,technical,MySQL,MySQL,Database,technology_dictionary,1.0,
+3903472486,technical,MS SQL Server,SQL Server,,alt_label,0.99,http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead
+3903472486,technical,Oracle,Oracle Relational Database,,semantic,0.7527,http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655
+3903472486,technical,Postgres,PostgreSQL,,alt_label,0.99,http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996
+3903472486,technical,Unix/Linux,,,unmatched,0.0,
+3903472486,technical,shell scripting,use scripting programming,,semantic,0.7789,http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333
+3903472486,tool,Next Generation Sequencing,,,unmatched,0.0,
+3903472486,tool,RNASeq,,,unmatched,0.0,
+3903472486,tool,whole genome sequencing,,,unmatched,0.0,
+3903472486,tool,epigenetic analysis,,,unmatched,0.0,
+3903472486,tool,proteomics,proteomics,,exact,1.0,http://data.europa.eu/esco/skill/a0cd5d35-a1f4-48bf-b78f-11faf4f1935f
+3903472486,tool,mass spec,,,unmatched,0.0,
+3903472486,tool,image analysis,study radar images,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/e4d90d50-bd28-4a0c-a3a7-d4963e2a307a
+3903472486,soft,Strong communication skills,,,unmatched,0.0,
+3903472486,soft,Organized,work in an organised manner,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/1258cc12-37bb-4a12-b219-9c3d6b294533
+3904955115,technical,HTML,,,unmatched,0.0,
+3904955115,technical,Data structures,,,unmatched,0.0,
+3904955115,technical,Web applications,,,unmatched,0.0,
+3904955115,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904955115,technical,Database Technologies,database,,semantic,0.8011,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3904955115,technical,Web Services,web services,,exact,1.0,http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c
+3904955115,technical,Web APIs,,,unmatched,0.0,
+3904955115,technical,SOAP,pack soap,,semantic,0.8018,http://data.europa.eu/esco/skill/c1e40767-d00a-4f2f-a04f-c784605dc859
+3904955115,technical,REST,,,unmatched,0.0,
+3904955115,technical,JavaScript,JavaScript,,exact,1.0,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+3904955115,technical,HTTP,,,unmatched,0.0,
+3904955115,technical,Client/Server,,,unmatched,0.0,
+3904955115,tool,MS Word,,,unmatched,0.0,
+3904955115,tool,MS Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3904955115,tool,ServiceNow,,,unmatched,0.0,
+3904955115,tool,Salesforce,,,unmatched,0.0,
+3904955115,tool,SharePoint,,,unmatched,0.0,
+3904955115,soft,Strong communication skills,,,unmatched,0.0,
+3904955115,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3904955115,soft,Decision-making,make decisions,,semantic,0.8593,http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47
+3904955115,soft,Professionalism,,,unmatched,0.0,
+3904955115,soft,Ability to multitask,,,unmatched,0.0,
+3904955115,soft,Ability to work independently,work independently,,semantic,0.876,http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730
+3902781837,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902781837,technical,PySpark,,,unmatched,0.0,
+3902781837,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902781837,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3902781837,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3902781837,technical,scikit-learn,,,unmatched,0.0,
+3902781837,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3902781837,technical,Dask,,,unmatched,0.0,
+3902781837,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3902781837,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3889734996,technical,online research,,,unmatched,0.0,
+3889734996,technical,search engines,search engines,,exact,1.0,http://data.europa.eu/esco/skill/4bf59dde-8a03-483f-976a-45764f1e6d6f
+3889734996,technical,online maps,,,unmatched,0.0,
+3889734996,technical,website information,,,unmatched,0.0,
+3889734996,soft,detail-oriented,,,unmatched,0.0,
+3889734996,soft,good knowledge of national and local geography,,,unmatched,0.0,
+3904950219,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3904950219,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3904950219,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904950219,technical,Pytorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3904950219,technical,Tensorflow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3904950219,technical,MLFlow,,,unmatched,0.0,
+3904950219,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3904950219,technical,natural language processing,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3904950219,technical,graph analysis,,,unmatched,0.0,
+3904950219,soft,Strong communicator,,,unmatched,0.0,
+3904950219,soft,Team player,,,unmatched,0.0,
+3904950219,soft,Cross-functional collaborator,,,unmatched,0.0,
+3891074608,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3891074608,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3891074608,technical,data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3891074608,technical,data visualization,data visualisation software,,semantic,0.8764,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3891074608,technical,data warehouse modeling,data warehouse,,semantic,0.8065,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de
+3891074608,tool,Google Cloud Platform,Google Cloud Platform,Cloud,technology_dictionary,1.0,
+3891074608,tool,BigQuery,,,unmatched,0.0,
+3891074608,tool,Looker Studio,,,unmatched,0.0,
+3891074608,tool,DBT,dbt,Data Engineering,technology_dictionary,1.0,
+3891074608,tool,Fivetran,,,unmatched,0.0,
+3891074608,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3891074608,soft,collaboration,,,unmatched,0.0,
+3904952791,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904952791,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3904952791,soft,Strong analytical and problem-solving skills,,,unmatched,0.0,
+3904952791,soft,Superb communication and interpersonal skills,,,unmatched,0.0,
+3904952791,soft,Strong organizational abilities,,,unmatched,0.0,
+3904952791,certification,Certified Business Analysis Professional,perform business analysis,,semantic,0.7842,http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703
+3904952791,certification,Certification of Competency in Business Analysis,,,unmatched,0.0,
+3904952791,certification,Certified Scrum Master,,,unmatched,0.0,
+3905885197,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3905885197,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3905885197,technical,Adobe Analytics,,,unmatched,0.0,
+3905885197,technical,Adobe Experience Platform,,,unmatched,0.0,
+3905885197,technical,Glue,,,unmatched,0.0,
+3905885197,technical,Lambda,,,unmatched,0.0,
+3905885197,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3905885197,technical,Scala,Scala,,exact,1.0,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6
+3905885197,technical,EMR,,,unmatched,0.0,
+3905885197,technical,Talend,,,unmatched,0.0,
+3905885197,technical,PostgreSQL,PostgreSQL,Database,technology_dictionary,1.0,
+3905885197,technical,Redshift,,,unmatched,0.0,
+3901393644,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3901393644,technical,JavaScript,JavaScript,,exact,1.0,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+3901393644,technical,HTML,,,unmatched,0.0,
+3901393644,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3901393644,technical,C#,C#,,exact,1.0,http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a
+3901393644,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3901393644,soft,Excellent writing and grammar skills,,,unmatched,0.0,
+3901393644,soft,Fluency in English,,,unmatched,0.0,
+3906078059,technical,statistical analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3906078059,technical,data manipulation,,,unmatched,0.0,
+3906078059,technical,programming languages,computer programming,,semantic,0.7775,http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97
+3906078059,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3906078059,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3906078059,technical,R,R,Programming Language,technology_dictionary,1.0,
+3906078059,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3906078059,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3906078059,soft,managerial skills,own management skills,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/677d5144-4c77-4f8d-afc7-116f4bc0e660
+3906078059,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3906078059,soft,presentation,prepare presentation material,,semantic,0.7906,http://data.europa.eu/esco/skill/1ba59ce0-7fec-434b-8d5c-9b275250a26c
+3906078059,soft,strategic thinking,develop strategy to solve problems,,alt_label,0.99,http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800
+3906078059,soft,business acumen,apply business acumen,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/4ddf5204-95f5-4be2-ad35-571e2f493ae5
+3903835855,technical,machine learning algorithms,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3903835855,technical,Natural Language Processing (NLP),natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3903835855,technical,Generative AI,,,unmatched,0.0,
+3903835855,technical,microservices structure,,,unmatched,0.0,
+3903835855,technical,C# .NET,C#,,semantic,0.9346,http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a
+3903835855,technical,SaaS architecture,,,unmatched,0.0,
+3903835855,technical,RESTful APIs,,,unmatched,0.0,
+3903835855,technical,"Cloud platforms (Azure, AWS, GCP)",,,unmatched,0.0,
+3903835855,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3903835855,technical,"big data frameworks (Spark, DataBricks)",,,unmatched,0.0,
+3903835855,soft,analytical skills,,,unmatched,0.0,
+3903835855,soft,problem-solving skills,solve problems,,semantic,0.7688,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3903835855,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3903835855,soft,collaboration skills,,,unmatched,0.0,
+3887104313,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3887104313,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3887104313,technical,ETL,,,unmatched,0.0,
+3887104313,technical,data modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3887104313,technical,data wrangling,,,unmatched,0.0,
+3887104313,technical,data visualizations,data visualisation software,,semantic,0.8803,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3887104313,tool,Azure Synapse,,,unmatched,0.0,
+3901353172,technical,data management,SAS Data Management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47
+3901353172,technical,data analytics,data analytics,,exact,1.0,http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378
+3901353172,technical,data engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3901353172,technical,cloud technologies,cloud technologies,,exact,1.0,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0
+3901353172,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3901353172,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3901353172,technical,APM tools,,,unmatched,0.0,
+3901353172,tool,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3901353172,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3901353172,tool,APM tools,,,unmatched,0.0,
+3901353172,tool,Pager duty,,,unmatched,0.0,
+3901353172,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3901353172,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3901353172,soft,attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3901353172,soft,continuous improvement,continuous improvement philosophies,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/0550431f-9c8b-4204-9c45-59bc5feacf06
+3901353172,soft,accountability,accept own accountability,,semantic,0.8371,http://data.europa.eu/esco/skill/f90d4810-8bac-4e5e-b870-3e35a4138ff7
+3901353172,soft,mentorship,provide mentorship,,semantic,0.9311,http://data.europa.eu/esco/skill/28722c99-68b7-4b7b-808f-53f343299935
+3904955360,technical,ETL/ELT tools,,,unmatched,0.0,
+3904955360,technical,Ab Initio,,,unmatched,0.0,
+3904955360,technical,Informatica,,,unmatched,0.0,
+3904955360,technical,DataStage,,,unmatched,0.0,
+3904955360,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904955360,technical,relational data stores,,,unmatched,0.0,
+3904955360,technical,non-relational data stores,,,unmatched,0.0,
+3904955360,technical,database performance concepts,maintain database performance,,semantic,0.8156,http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47
+3904955360,technical,Shell scripting,use scripting programming,,semantic,0.7789,http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333
+3904955360,technical,Unix environment,,,unmatched,0.0,
+3904955360,tool,Ab Initio,,,unmatched,0.0,
+3904955360,tool,Informatica,,,unmatched,0.0,
+3904955360,tool,DataStage,,,unmatched,0.0,
+3905611091,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3905611091,technical,optimization,,,unmatched,0.0,
+3905611091,technical,computer science,computer science,,exact,1.0,http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787
+3905611091,technical,Application Programming Interfaces (APIs),design application interfaces,,semantic,0.8114,http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968
+3905611091,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3905611091,soft,guidance,,,unmatched,0.0,
+3905611091,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905611091,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3905611091,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3903870462,technical,R,R,Programming Language,technology_dictionary,1.0,
+3903870462,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3903870462,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3903870462,technical,BusinessObjects,,,unmatched,0.0,
+3903870462,technical,MicroStrategy,,,unmatched,0.0,
+3903870462,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3903870462,technical,Tableau Server,,,unmatched,0.0,
+3903870462,technical,Alteryx,,,unmatched,0.0,
+3903870462,technical,SAS Enterprise Guide/Miner,,,unmatched,0.0,
+3903870462,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3903870462,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3903870462,technical,HTML,,,unmatched,0.0,
+3903870462,technical,CSS,CSS,,exact,1.0,http://data.europa.eu/esco/skill/e5d1f825-60ed-4bdd-872a-e748c387f777
+3903870462,technical,Perl,Perl,,exact,1.0,http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8
+3903870462,technical,JavaScript,JavaScript,,exact,1.0,http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7
+3903870462,soft,Communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903870462,soft,Storytelling,,,unmatched,0.0,
+3903870462,soft,Collaboration,,,unmatched,0.0,
+3903870462,soft,Partnership,,,unmatched,0.0,
+3903435357,technical,Agile methodologies,Agile development,,semantic,0.8286,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3903435357,technical,Atlassian Suite,,,unmatched,0.0,
+3903435357,technical,Jira,,,unmatched,0.0,
+3903435357,technical,Confluence,use online tools to collaborate,,alt_label,0.99,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f
+3903435357,tool,Jira,,,unmatched,0.0,
+3903435357,tool,Confluence,use online tools to collaborate,,alt_label,0.99,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f
+3903435357,soft,leader,,,unmatched,0.0,
+3903435357,soft,team contributor,,,unmatched,0.0,
+3904388514,technical,MS Access,Microsoft Access,,alt_label,0.99,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e
+3904388514,technical,MS Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3904388514,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3904388514,technical,statistical software,develop statistical software,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/bb165899-d95f-4433-95f2-173fefd716d2
+3904388514,soft,Verbal and written communications skills,,,unmatched,0.0,
+3904388514,soft,Analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3904388514,soft,organizational,organisational structure,,semantic,0.7842,http://data.europa.eu/esco/skill/c4272323-cce6-4535-ac71-4f6841f4f89a
+3904388514,soft,planning skills,,,unmatched,0.0,
+3894947661,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3894947661,technical,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3894947661,technical,SQL scripting,,,unmatched,0.0,
+3894947661,technical,data manipulation,,,unmatched,0.0,
+3894947661,technical,data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3894947661,technical,data modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3894947661,technical,statistical modeling,statistical modeling techniques,,alt_label,0.99,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22
+3894947661,technical,Data Mining & Visualization,,,unmatched,0.0,
+3894947661,tool,Project Management tools,project management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3894947661,soft,strong sales and general business acumen,,,unmatched,0.0,
+3894947661,soft,verbal and written communication skills,,,unmatched,0.0,
+3894947661,soft,interpersonal and communication skills,,,unmatched,0.0,
+3894947661,soft,analytical skills,,,unmatched,0.0,
+3902351966,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902351966,technical,statistical modelling,statistical modeling techniques,,fuzzy_alt,0.98,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22
+3902351966,technical,predictive analysis,develop predictive models,,semantic,0.7572,http://data.europa.eu/esco/skill/e2887d71-8ff4-4188-9926-22bdaefa7713
+3902351966,technical,data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3902351966,technical,IT/Systems/Database,database management systems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f
+3902351966,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3902351966,technical,Business Objects,,,unmatched,0.0,
+3902351966,technical,Cognos,,,unmatched,0.0,
+3902351966,tool,Microsoft Office Suite,use microsoft office,,semantic,0.8468,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3902351966,soft,analytical skills,,,unmatched,0.0,
+3902351966,soft,self-organizing skills,,,unmatched,0.0,
+3902351966,soft,interpersonal skills,,,unmatched,0.0,
+3902351966,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3887490958,soft,attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3887490958,soft,positive attitude,approach challenges positively,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/469748ce-051a-407e-9099-0c9415ac2705
+3887490958,soft,strong sense of ownership,,,unmatched,0.0,
+3887490958,soft,ability to drive tasks through to completion,,,unmatched,0.0,
+3887490958,soft,"ability to provide information and ideas in a clear, comprehensive, concise, and organized manner",,,unmatched,0.0,
+3887490958,soft,analytical and problem-solving skills,,,unmatched,0.0,
+3904948162,technical,Azure cloud,,,unmatched,0.0,
+3904948162,technical,ADLS,,,unmatched,0.0,
+3904948162,technical,ADF,,,unmatched,0.0,
+3904948162,technical,Synapse,,,unmatched,0.0,
+3904948162,technical,Logic Apps,,,unmatched,0.0,
+3904948162,technical,Event Hub,,,unmatched,0.0,
+3904948162,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904948162,technical,Pyspark,,,unmatched,0.0,
+3904948162,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904948162,soft,analytic,,,unmatched,0.0,
+3904948162,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3904944214,technical,search engines,search engines,,exact,1.0,http://data.europa.eu/esco/skill/4bf59dde-8a03-483f-976a-45764f1e6d6f
+3904944214,technical,online maps,,,unmatched,0.0,
+3904944214,technical,website information,,,unmatched,0.0,
+3904944214,soft,detail-oriented,,,unmatched,0.0,
+3904944214,soft,research,,,unmatched,0.0,
+3904570046,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3904570046,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904570046,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3904570046,technical,PowerBi,Power BI,BI Tool,technology_dictionary,1.0,
+3904570046,technical,Metabase,,,unmatched,0.0,
+3904570046,technical,Looker,,,unmatched,0.0,
+3904570046,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3904570046,soft,comunicação,,,unmatched,0.0,
+3904570046,soft,empatia,,,unmatched,0.0,
+3887716629,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3887716629,technical,data engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3887716629,technical,ML algorithms,algorithms,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/54924a2c-daca-40d3-9716-4b38ceb04f38
+3887716629,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3887716629,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3887716629,technical,ML/Ops,,,unmatched,0.0,
+3887716629,technical,Graph Theory,,,unmatched,0.0,
+3887716629,tool,Python,Python,Programming Language,technology_dictionary,1.0,
+3887716629,tool,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3887716629,soft,strong analytical skills,,,unmatched,0.0,
+3887716629,soft,ability to communicate effectively,,,unmatched,0.0,
+3900967072,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3900967072,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3900967072,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3900967072,technical,Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3900967072,technical,DAX,,,unmatched,0.0,
+3900967072,technical,Data modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3900967072,technical,Data visualization,data visualisation software,,semantic,0.8764,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3900967072,tool,Power BI Desktop,Power BI,BI Tool,technology_dictionary,1.0,
+3900967072,soft,Analytical skills,,,unmatched,0.0,
+3900967072,soft,Problem-solving skills,solve problems,,semantic,0.7688,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3900967072,soft,Communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3900967072,soft,Collaboration skills,,,unmatched,0.0,
+3900967072,soft,Attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3900967072,certification,Microsoft Certified: Data Analyst Associate,,,unmatched,0.0,
+3891072371,technical,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3891072371,technical,Data manipulation,,,unmatched,0.0,
+3891072371,technical,Business Objects,,,unmatched,0.0,
+3891072371,soft,Good Verbal and Communication skills,,,unmatched,0.0,
+3891072371,soft,High-level attention to detail,,,unmatched,0.0,
+3901694555,technical,Talend,,,unmatched,0.0,
+3901694555,technical,Collibra,,,unmatched,0.0,
+3901694555,technical,Oracle DRM,,,unmatched,0.0,
+3901694555,technical,SAP MDM,,,unmatched,0.0,
+3901694555,technical,Informatica,,,unmatched,0.0,
+3901694555,technical,Hyperion,,,unmatched,0.0,
+3901694555,technical,Essbase,,,unmatched,0.0,
+3901694555,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3901694555,soft,Fostering relationships,,,unmatched,0.0,
+3901694555,soft,Delivering quality client services,,,unmatched,0.0,
+3901694555,soft,Driving high-quality work products,,,unmatched,0.0,
+3901694555,soft,Managing risk,risk management,,semantic,0.9327,http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0
+3901694555,soft,Effectively managing and motivating client engagement teams,,,unmatched,0.0,
+3901694555,soft,Providing constructive on-the-job feedback/coaching,give constructive feedback,,semantic,0.7549,http://data.europa.eu/esco/skill/b9bb1f03-15e2-4079-943e-7e483b21725b
+3901694555,soft,Fostering an innovative and inclusive team-oriented work environment,,,unmatched,0.0,
+3901694555,soft,Counselling and mentoring junior consultants,,,unmatched,0.0,
+3901694555,soft,Strong analytical and problem-solving skills,,,unmatched,0.0,
+3901694555,soft,Excellent oral and written communication skills,,,unmatched,0.0,
+3905869890,technical,AI applications,,,unmatched,0.0,
+3905869890,technical,machine learning algorithms,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3905869890,technical,neural networks,artificial neural networks,,alt_label,0.99,http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4
+3905869890,technical,deep learning frameworks,,,unmatched,0.0,
+3905869890,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3905869890,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3905869890,technical,PyTorch,PyTorch,Machine Learning,technology_dictionary,1.0,
+3905869890,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3905869890,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3905869890,technical,reinforcement learning,,,unmatched,0.0,
+3905869890,technical,generative AI (LLM) models,,,unmatched,0.0,
+3905869890,technical,natural language processing (NLP),natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3905869890,technical,AI Computer Vision,computer vision,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3905869890,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3905869890,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3905869890,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3905869890,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3905869890,soft,analytical skills,,,unmatched,0.0,
+3905361950,technical,JIRA,,,unmatched,0.0,
+3905361950,technical,Confluence,use online tools to collaborate,,alt_label,0.99,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f
+3905361950,technical,Agile,ICT project management methodologies,,alt_label,0.99,http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9
+3905361950,tool,JIRA,,,unmatched,0.0,
+3905361950,tool,Confluence,use online tools to collaborate,,alt_label,0.99,http://data.europa.eu/esco/skill/580660a6-5d3a-421d-a54f-d85b706c2b2f
+3905361950,soft,Analytical,think analytically,,semantic,0.7528,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3905361950,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3905361950,soft,Oral and written communication,discern written communication,,semantic,0.7636,http://data.europa.eu/esco/skill/0e161427-3369-47c0-8669-9e226207f6d0
+3902360711,technical,Oracle Business Intelligence,business intelligence,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c
+3902360711,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3902360711,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3902360711,technical,Oracle Analytics Cloud,,,unmatched,0.0,
+3902360711,technical,Data Warehouse,data warehouse,,exact,1.0,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de
+3902360711,technical,ODI,Oracle Data Integrator,,alt_label,0.99,http://data.europa.eu/esco/skill/3af687cb-8c7a-46ea-a730-32dbaed040c6
+3902360711,technical,Informatica ETL,,,unmatched,0.0,
+3902360711,technical,OBIEE,,,unmatched,0.0,
+3902360711,technical,AI/ML,,,unmatched,0.0,
+3902360711,technical,Natural language processing,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3902360711,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902360711,technical,Docker,Docker,DevOps,technology_dictionary,1.0,
+3902360711,technical,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3902360711,technical,Linux OS,,,unmatched,0.0,
+3902360711,technical,Cloud platforms,,,unmatched,0.0,
+3902360711,technical,OCI,,,unmatched,0.0,
+3902360711,technical,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3902360711,technical,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3902360711,technical,DevOps,DevOps,,exact,1.0,http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4
+3902360711,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3902360711,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3902360711,tool,ODI,Oracle Data Integrator,,alt_label,0.99,http://data.europa.eu/esco/skill/3af687cb-8c7a-46ea-a730-32dbaed040c6
+3902360711,tool,Informatica ETL,,,unmatched,0.0,
+3902360711,tool,OBIEE,,,unmatched,0.0,
+3902360711,soft,Analytical skills,,,unmatched,0.0,
+3902360711,soft,Critical thinking,think critically,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/7dd94ad3-13d6-43fe-8b94-51fcbf67ced9
+3902360711,soft,Communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3902360711,soft,Interpersonal skills,,,unmatched,0.0,
+3902360711,soft,Problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3902360711,soft,Time management,manage time,,semantic,0.8936,http://data.europa.eu/esco/skill/d9013e0e-e937-43d5-ab71-0e917ee882b8
+3902360711,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3902360711,soft,Teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3902360711,soft,Mentoring,mentor individuals,,semantic,0.8722,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9
+3902360711,soft,Professionalism,,,unmatched,0.0,
+3902360711,soft,Work ethic,,,unmatched,0.0,
+3902360711,certification,Oracle Cloud Infra,,,unmatched,0.0,
+3902360711,certification,Oracle SIEBEL,,,unmatched,0.0,
+3902360711,certification,OBIEE,,,unmatched,0.0,
+3902783695,technical,Oracle e-Business Suite Release 12.1.3,,,unmatched,0.0,
+3902783695,technical,Oracle ERP Financials,,,unmatched,0.0,
+3902783695,technical,Oracle ERP Supply chain Management,supply chain management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f929c89e-c363-4132-a918-e021d57b307c
+3902783695,tool,Oracle ERP,,,unmatched,0.0,
+3902783695,soft,Good communication,communication,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3902783695,soft,Quick learning,,,unmatched,0.0,
+3891079268,technical,SAP S4,SAP R3,,semantic,0.7695,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3891079268,technical,SAP FI,SAP R3,,semantic,0.7619,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3891079268,technical,SAP CO,SAP R3,,semantic,0.7701,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3891079268,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3891079268,technical,SAC Analytics,,,unmatched,0.0,
+3891079268,technical,SAC Planning,,,unmatched,0.0,
+3891079268,technical,ERP applications,,,unmatched,0.0,
+3891079268,tool,SAP tools,SAP Data Services,,semantic,0.7534,http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4
+3891079268,tool,SQL queries,SQL,,semantic,0.8519,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3891079268,tool,Project management tools,project management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3891079268,soft,Excellent communication and presentation skills,,,unmatched,0.0,
+3891079268,soft,Strong interpersonal skills,,,unmatched,0.0,
+3891079268,soft,Ability to multi-task,,,unmatched,0.0,
+3891079268,soft,Strong analytical and problem-solving skills,,,unmatched,0.0,
+3891079268,soft,Strong planning and organization skills,,,unmatched,0.0,
+3891079268,soft,Passion for customer service,,,unmatched,0.0,
+3884823184,technical,SAP ECC,,,unmatched,0.0,
+3884823184,technical,SAP S4 Hana,SAP R3,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426
+3884823184,technical,ETL,,,unmatched,0.0,
+3884823184,technical,Data Engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3884823184,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3884823184,technical,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3884823184,technical,IBM DataStage,IBM InfoSphere DataStage,,semantic,0.8528,http://data.europa.eu/esco/skill/14fdac88-6d4a-4e47-9df5-02c6d1e86fdd
+3884823184,technical,Fivetran,,,unmatched,0.0,
+3884823184,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3884823184,tool,IBM DataStage,IBM InfoSphere DataStage,,semantic,0.8528,http://data.europa.eu/esco/skill/14fdac88-6d4a-4e47-9df5-02c6d1e86fdd
+3884823184,tool,Fivetran,,,unmatched,0.0,
+3905821286,technical,predictive modeling,develop predictive models,,semantic,0.8702,http://data.europa.eu/esco/skill/e2887d71-8ff4-4188-9926-22bdaefa7713
+3905821286,technical,data mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3905821286,technical,Non-Linear Regression Analysis,,,unmatched,0.0,
+3905821286,technical,Multivariate Analysis,,,unmatched,0.0,
+3905821286,technical,Bayesian Methods,,,unmatched,0.0,
+3905821286,technical,Generalized Linear Models,,,unmatched,0.0,
+3905821286,technical,Decision Trees,,,unmatched,0.0,
+3905821286,technical,Non Parametric estimations,,,unmatched,0.0,
+3905821286,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3905821286,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3905821286,technical,R,R,Programming Language,technology_dictionary,1.0,
+3905821286,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3905821286,soft,written and oral communication,discern written communication,,semantic,0.7538,http://data.europa.eu/esco/skill/0e161427-3369-47c0-8669-9e226207f6d0
+3905821286,soft,presentation skills,,,unmatched,0.0,
+3905821286,soft,influence and guide across departmental boundaries,,,unmatched,0.0,
+3905821286,soft,organizational and project management,project management,,semantic,0.8918,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3905821286,soft,mentoring,mentor individuals,,semantic,0.8722,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9
+3902864219,technical,Agile/Scrum development methodology,Agile development,,semantic,0.8214,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3902864219,technical,electronic trading systems,electronics,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/95c35c3a-035f-47c2-90cf-7e934d20fc08
+3902864219,soft,problem-solving mindset,,,unmatched,0.0,
+3902864219,soft,excellent communication,,,unmatched,0.0,
+3902864219,soft,excellent collaboration,,,unmatched,0.0,
+3902864219,soft,excellent interpersonal skills,,,unmatched,0.0,
+3902864219,soft,project management skills,project management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3901678622,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3901678622,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3901678622,technical,data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3901678622,tool,Google Analytics,web analytics,,semantic,0.8571,http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2
+3901678622,tool,Adobe Analytics,,,unmatched,0.0,
+3901678622,tool,AWS QuickSight,,,unmatched,0.0,
+3901678622,soft,analytical skills,,,unmatched,0.0,
+3901678622,soft,communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3901678622,soft,interpersonal skills,,,unmatched,0.0,
+3889756865,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3889756865,technical,RDBMS,,,unmatched,0.0,
+3889756865,technical,Hadoop,Apache Hadoop,Big Data,technology_dictionary,1.0,
+3906226767,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3906226767,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3906226767,technical,logical data modeling development tools,,,unmatched,0.0,
+3906226767,technical,visualization tools,data visualisation software,,semantic,0.8089,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3906226767,technical,database management,database management systems,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f
+3906226767,technical,API integration,,,unmatched,0.0,
+3906226767,technical,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3906226767,technical,Alteryx,,,unmatched,0.0,
+3906226767,technical,data processing programs,develop data processing applications,,semantic,0.8298,http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab
+3906226767,technical,Agile methodologies,Agile development,,semantic,0.8286,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221
+3906226767,technical,Google Suite,,,unmatched,0.0,
+3906226767,technical,Microsoft Office,use microsoft office,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3906226767,tool,Tableau,Tableau,BI Tool,technology_dictionary,1.0,
+3906226767,tool,Alteryx,,,unmatched,0.0,
+3906226767,tool,Google Suite,,,unmatched,0.0,
+3906226767,tool,Microsoft Office,use microsoft office,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3906226767,soft,analytical capability,,,unmatched,0.0,
+3906226767,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3906226767,soft,written and verbal communication skills,,,unmatched,0.0,
+3906226767,soft,effective communication skills,,,unmatched,0.0,
+3906226767,soft,influencing skills,,,unmatched,0.0,
+3906226767,soft,project management skills,project management,,fuzzy_preferred,0.95,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388
+3906226767,soft,process management skills,,,unmatched,0.0,
+3906226767,soft,time management skills,manage time in tourism,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/86ffa56b-12f5-4dcd-8afd-9251fbb6b496
+3906226767,soft,prioritization skills,,,unmatched,0.0,
+3887840211,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3887840211,technical,R,R,Programming Language,technology_dictionary,1.0,
+3887840211,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3887840211,technical,Java,Java (computer programming),,alt_label,0.99,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389
+3887840211,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3887840211,technical,Perl,Perl,,exact,1.0,http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8
+3887840211,technical,data visualization,data visualisation software,,semantic,0.8764,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3887840211,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3887840211,technical,Spotfire,,,unmatched,0.0,
+3887840211,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3887840211,technical,RDBMS,,,unmatched,0.0,
+3887840211,technical,Cloud DevOps,DevOps,,semantic,0.8258,http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4
+3887840211,technical,Infrastructure as Code (IaC),,,unmatched,0.0,
+3887840211,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3887840211,tool,Oracle,Oracle Relational Database,,semantic,0.7527,http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655
+3887840211,tool,Teradata,Teradata Database,,alt_label,0.99,http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6
+3887840211,tool,MS SQL,SQL,,semantic,0.9297,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3887840211,tool,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3887840211,tool,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3887840211,tool,Cloud Formation,,,unmatched,0.0,
+3887840211,tool,Terraform,,,unmatched,0.0,
+3887840211,soft,verbal and written presentation skills,,,unmatched,0.0,
+3887840211,soft,interpersonal skills,,,unmatched,0.0,
+3887840211,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c
+3887840211,soft,communications,communication,,fuzzy_preferred,0.96,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3887840211,soft,open attitude towards new technologies and standards,,,unmatched,0.0,
+3885101852,technical,Cloud computing,cloud technologies,,alt_label,0.99,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0
+3885101852,technical,Data engineering,data engineering,,exact,1.0,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639
+3885101852,technical,Image data handling,,,unmatched,0.0,
+3885101852,technical,Data pipeline development,analyse pipeline database information,,semantic,0.7675,http://data.europa.eu/esco/skill/484d048c-a5d1-46a5-b57f-45b69c0ac552
+3885101852,technical,Data architecture,information architecture,,alt_label,0.99,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4
+3885101852,technical,Edge device integration,,,unmatched,0.0,
+3885101852,technical,Data quality and governance,data quality assessment,,semantic,0.7688,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700
+3885101852,technical,Performance optimization,,,unmatched,0.0,
+3885101852,technical,Data modeling,data models,,fuzzy_alt,0.96,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5
+3885101852,technical,Schema design,,,unmatched,0.0,
+3885101852,technical,Database technologies,database,,semantic,0.8011,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3885101852,technical,DevOps practices,DevOps,,semantic,0.8329,http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4
+3885101852,technical,CI/CD pipelines,,,unmatched,0.0,
+3885101852,technical,Containerization technologies,,,unmatched,0.0,
+3885101852,tool,DataBrick,,,unmatched,0.0,
+3885101852,tool,Snowflake,Snowflake,Cloud Data Warehouse,technology_dictionary,1.0,
+3885101852,tool,Glue,,,unmatched,0.0,
+3885101852,tool,S3,,,unmatched,0.0,
+3885101852,tool,EC2,,,unmatched,0.0,
+3885101852,tool,Lambda,,,unmatched,0.0,
+3885101852,tool,Kubernetes,Kubernetes,DevOps,technology_dictionary,1.0,
+3885101852,tool,Docker,Docker,DevOps,technology_dictionary,1.0,
+3885101852,tool,Apache Spark,Apache Spark,Big Data,technology_dictionary,1.0,
+3885101852,tool,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3885101852,tool,OpenCV,computer vision,,alt_label,0.99,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3885101852,soft,Problem-solving skills,solve problems,,semantic,0.7688,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3885101852,soft,Analytical thinking,think analytically,,alt_label,0.99,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137
+3885101852,soft,Attention to detail,attend to detail,,semantic,0.7608,http://data.europa.eu/esco/skill/83e6510b-ffeb-4aec-959c-4265fd0ff7b7
+3885101852,soft,Communication skills,teach communication methods,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/f5122357-c3f7-4f3e-b0cc-25173199d554
+3885101852,soft,Collaboration skills,,,unmatched,0.0,
+3887920166,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3887920166,technical,SAS,SAS,Analytics,technology_dictionary,1.0,
+3887920166,technical,BI tools,,,unmatched,0.0,
+3887920166,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3887920166,technical,Neural Networks,artificial neural networks,,alt_label,0.99,http://data.europa.eu/esco/skill/5608d5a0-6d5e-43b7-be37-616501729bb4
+3887920166,technical,Data Mining,data mining,,exact,1.0,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180
+3887920166,technical,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3887920166,technical,Data analysis,statistics,,alt_label,0.99,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3887920166,technical,Data visualization,data visualisation software,,semantic,0.8764,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1
+3887920166,tool,SQL,SQL,Database Language,technology_dictionary,1.0,
+3887920166,tool,SAS,SAS,Analytics,technology_dictionary,1.0,
+3887920166,tool,BI tools,,,unmatched,0.0,
+3887920166,tool,Microsoft Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3887920166,soft,Strong communication skills,,,unmatched,0.0,
+3887920166,soft,Leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3887920166,soft,Team management,manage a team,,semantic,0.8835,http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b
+3887920166,soft,Mentorship,provide mentorship,,semantic,0.9311,http://data.europa.eu/esco/skill/28722c99-68b7-4b7b-808f-53f343299935
+3902872004,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3902872004,technical,SQL Query,SQL,,semantic,0.8468,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742
+3902872004,technical,SSIS,SQL Server Integration Services,,alt_label,0.99,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88
+3902872004,technical,DAX,,,unmatched,0.0,
+3902872004,technical,Minitab,,,unmatched,0.0,
+3902872004,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3902872004,technical,Power Automate,,,unmatched,0.0,
+3902872004,technical,Power Apps,,,unmatched,0.0,
+3902872004,technical,Dataflows,,,unmatched,0.0,
+3902872004,technical,SQL Server,SQL Server,Database,technology_dictionary,1.0,
+3902872004,technical,Oracle,Oracle Relational Database,,semantic,0.7527,http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655
+3902872004,technical,Azure SQL,,,unmatched,0.0,
+3902872004,technical,Excel,Microsoft Excel,Spreadsheet,technology_dictionary,1.0,
+3902872004,technical,Azure data factory,,,unmatched,0.0,
+3902872004,technical,MS Office Suite,use microsoft office,,semantic,0.8059,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535
+3902872004,tool,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3902872004,tool,SSIS,SQL Server Integration Services,,alt_label,0.99,http://data.europa.eu/esco/skill/6f7512ab-d46d-402a-8c30-a8878d7c1f88
+3902872004,tool,Azure data factory,,,unmatched,0.0,
+3902872004,soft,Strong ability to manage and deal with different cultures and nationalities,,,unmatched,0.0,
+3899544343,technical,Workday,,,unmatched,0.0,
+3899544343,technical,Power BI,Power BI,BI Tool,technology_dictionary,1.0,
+3899544343,soft,Detail-oriented,,,unmatched,0.0,
+3904092271,technical,statistics,statistics,,exact,1.0,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833
+3904092271,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3904092271,technical,artificial intelligence,principles of artificial intelligence,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2
+3904092271,technical,math,mathematics,,semantic,0.9071,http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2
+3904092271,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3904092271,technical,C++,C++,,exact,1.0,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f
+3887489778,technical,deep learning,deep learning,,exact,1.0,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080
+3887489778,technical,neuro-linguistic programming,,,unmatched,0.0,
+3887489778,technical,computer vision,computer vision,,exact,1.0,http://data.europa.eu/esco/skill/7b0d5000-00da-4864-b776-6de49a87a669
+3887489778,technical,chatbots,,,unmatched,0.0,
+3887489778,technical,model fine-tuning,,,unmatched,0.0,
+3887489778,technical,retrieval augmented generation,,,unmatched,0.0,
+3887489778,technical,machine learning (ML),machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3887489778,technical,TensorFlow,TensorFlow,Machine Learning,technology_dictionary,1.0,
+3887489778,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3887489778,technical,NLP,natural language processing,,exact,1.0,http://data.europa.eu/esco/skill/fff0e2cd-d0bd-4b02-9daf-158b79d9688a
+3887489778,technical,REST API development,,,unmatched,0.0,
+3887489778,technical,NoSQL database design,NoSQL,,semantic,0.7874,http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c
+3887489778,technical,RDBMS design and optimization,,,unmatched,0.0,
+3887489778,tool,Azure,Microsoft Azure,Cloud,technology_dictionary,1.0,
+3887489778,tool,AWS,Amazon Web Services,Cloud,technology_dictionary,1.0,
+3887489778,tool,GCP,Google Cloud Platform,Cloud,technology_dictionary,1.0,
+3903442651,technical,Python,Python,Programming Language,technology_dictionary,1.0,
+3903442651,technical,SQL,SQL,Database Language,technology_dictionary,1.0,
+3903442651,technical,git,Git,Version Control,technology_dictionary,1.0,
+3903442651,technical,notebooks,,,unmatched,0.0,
+3903442651,technical,testing,,,unmatched,0.0,
+3903442651,technical,relational databases,database,,fuzzy_alt,0.97,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576
+3903442651,technical,machine learning,machine learning,,exact,1.0,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43
+3903442651,technical,statistical models,statistical modeling techniques,,semantic,0.8322,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22
+3903442651,technical,data structures,,,unmatched,0.0,
+3903442651,technical,distributed ledger technologies,distributed ledger technology,,semantic,0.9855,http://data.europa.eu/esco/skill/3be79ccc-a455-49b9-8c65-55c50071ba5b
+3903442651,technical,cryptographic protocols,,,unmatched,0.0,
+3903442651,tool,Slack,,,unmatched,0.0,
+3903442651,tool,Notion,,,unmatched,0.0,
+3903442651,tool,Loom,,,unmatched,0.0,
+3903442651,soft,communication,communication,,exact,1.0,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7
+3903442651,soft,influencing decisions,,,unmatched,0.0,
+3903442651,soft,leadership,leadership principles,,semantic,0.77,http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86
+3903442651,soft,problem-solving,solve problems,,fuzzy_alt,0.95,http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869
+3903442651,soft,adaptability,,,unmatched,0.0,
+3903442651,soft,humility,,,unmatched,0.0,
+3903442651,soft,candor,,,unmatched,0.0,
+3903442651,soft,teamwork,manage teamwork,,semantic,0.8047,http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c

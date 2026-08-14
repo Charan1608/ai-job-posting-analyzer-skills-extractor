@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 3,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "cleaned_postings",
+          "nodeLineageTag": "92b79925-ec13-48c9-b425-c871c4d341fb",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 306,
+            "y": 226
+          },
+          "nodeIndex": "normalized_jobs",
+          "nodeLineageTag": "e0db9a9f-39d8-4165-b30c-7f6ac912ffb5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 568,
+            "y": 14
+          },
+          "nodeIndex": "normalized_skills_long",
+          "nodeLineageTag": "fd662cbe-88b1-48b5-8cae-add1d4e2aaa8",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 852,
+            "y": 163
+          },
+          "nodeIndex": "Table",
+          "nodeLineageTag": "34d330a6-c681-41e8-b841-03c5806ec6ac",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1136,
+            "y": 0
+          },
+          "nodeIndex": "normalized_jobs (2)",
+          "nodeLineageTag": "352ff743-f657-4b13-b41d-0d65dd50265b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

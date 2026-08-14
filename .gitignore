@@ -1,0 +1,160 @@
+# ============================================================
+# AI Job Posting Analyzer
+# Git Ignore
+# ============================================================
+
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# -----------------------------
+# Secrets / environment
+# -----------------------------
+.env
+.env.*
+!.env.example
+
+.streamlit/secrets.toml
+
+# -----------------------------
+# IDE
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# OS
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Logs / temporary files
+# -----------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# -----------------------------
+# Python build
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Local caches
+# -----------------------------
+*.cache
+data/cache/
+src/ai/cache/
+
+# -----------------------------
+# RAW DATA
+# Original LinkedIn dataset is ~493 MB
+# -----------------------------
+data/raw/
+
+# -----------------------------
+# INTERMEDIATE DATA
+# -----------------------------
+data/interim/
+
+# -----------------------------
+# LOCAL DATABASES
+# -----------------------------
+*.db
+*.sqlite
+*.sqlite3
+*.duckdb
+
+# -----------------------------
+# MODEL BINARIES
+# -----------------------------
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.onnx
+*.npy
+
+models/
+storage/
+
+# -----------------------------
+# POWER BI BINARY FILES
+# Keep PBIP source-controlled files
+# -----------------------------
+*.pbix
+*.pbit
+
+# -----------------------------
+# GENERATED PROCESSED DATA
+# -----------------------------
+data/processed/*.csv
+
+# Keep important reproducible/evaluation outputs
+!data/processed/evaluation_summary.csv
+!data/processed/evaluation_per_job.csv
+!data/processed/normalization_quality.csv
+!data/processed/normalization_summary.csv
+!data/processed/final_ml_dataset_v2.csv
+!data/processed/ground_truth_normalized_skills_long.csv
+!data/processed/skill_frequency.csv
+!data/processed/skill_pairs.csv
+!data/processed/company_skill_frequency.csv
+!data/processed/location_skill_frequency.csv
+!data/processed/role_title_mapping_audit.csv
+!data/processed/role_class_distribution_audit.csv
+!data/processed/top_false_negatives.csv
+!data/processed/top_false_positives.csv
+!data/processed/unmatched_skills.csv
+!data/processed/possible_multi_role_titles.csv
+
+# Keep the processed directory itself
+!data/
+!data/processed/
+
+# Database inside processed must remain ignored
+data/processed/*.db
+
+# -----------------------------
+# Generated outputs
+# -----------------------------
+# Keep reports and audit evidence.
+# Don't ignore reports/ or audit/
+# -----------------------------
+
+# -----------------------------
+# Old / duplicate development files
+# -----------------------------
+* old.py
+*old.py
+* - Copy.*
+*- Copy.*
+
+# -----------------------------
+# Misc generated files
+# -----------------------------
+*.pickle

@@ -1,0 +1,293 @@
+skill,count
+communication,48
+statistics,46
+business analysis,33
+solve problems,28
+analyse business requirements,25
+leadership principles,24
+ICT project management methodologies,24
+think analytically,23
+engage with stakeholders,22
+project management,20
+attend to detail,19
+interact with users to gather requirements,19
+business intelligence,19
+data visualisation software,18
+mentor individuals,14
+analyse pipeline database information,14
+machine learning,12
+data models,12
+apply change management,11
+work independently,11
+manage teamwork,11
+use microsoft office,11
+data quality assessment,11
+discern written communication,10
+use presentation software,10
+principles of artificial intelligence,10
+cloud technologies,10
+data engineering,10
+make decisions,10
+urban planning,10
+implement data warehousing techniques,10
+develop reporting software,9
+identify process improvements,9
+Microsoft Excel,9
+web analytics,9
+perform data cleansing,9
+represent the organisation,8
+improve business processes,8
+data science,8
+develop predictive models,8
+data analytics,8
+database management systems,8
+operate automated process control,8
+manage time,8
+motivate others,7
+develop business case,7
+prepare presentation material,7
+innovation processes,7
+execute integration testing,7
+root cause analysis,6
+information architecture,6
+troubleshoot,6
+Python,6
+quality assurance procedures,6
+think critically,6
+plan software testing,6
+SAS Data Management,5
+perform system analysis,5
+apply business acumen,5
+liaise with quality assurance,5
+data mining,5
+develop strategy to solve problems,5
+report analysis results,5
+Microsoft Azure,5
+information extraction,5
+SQL,5
+risk management,5
+create model,4
+build recommender systems,4
+apply information security policies,4
+database,4
+track key performance indicators,4
+documentation types,4
+system design,4
+customer relationship management,4
+ICT system integration,4
+audit techniques,4
+Power BI,4
+plan product management,4
+process data,4
+morality,3
+natural language processing,3
+Amazon Web Services,3
+quantitative analysis,3
+program management,3
+manage backlogs,3
+distributed computing,3
+document management,3
+Tableau,3
+Snowflake,3
+computer vision,3
+negotiate compromises,3
+task algorithmisation,3
+design user interface,3
+DevOps,3
+show initiative,3
+comply with regulations,3
+marketing analytics,3
+business process modelling,3
+manage system testing,3
+automation technology,3
+communicate with stakeholders,3
+customer service,3
+manage content metadata,3
+web programming,3
+business processes,3
+customer segmentation,3
+financial forecasting,3
+management consulting,3
+provide technical documentation,3
+data protection,2
+evaluate project plans,2
+manage standard enterprise resource planning system,2
+research website users,2
+manage resources,2
+financial management,2
+interpret seismic data,2
+cyber security,2
+develop automated software tests,2
+Hadoop,2
+Groovy,2
+information governance compliance,2
+statistical modeling techniques,2
+demonstrate curiosity,2
+design database scheme,2
+NoSQL,2
+decision support systems,2
+operate open source software,2
+computer engineering,2
+stimulate creative processes,2
+PyTorch,2
+design management,2
+continuous improvement philosophies,2
+survey techniques,2
+SQL Server,2
+social development,2
+debt classification,2
+algorithms,2
+design enterprise architecture,2
+market pricing,2
+Databricks,2
+R,2
+sales strategies,2
+Microsoft Visio,2
+Apache Airflow,2
+Waterfall development,2
+perform software unit testing,2
+Agile development,2
+manage standards for data exchange,2
+data storage,2
+systems development life-cycle,2
+coordinate oil well operations,2
+accept own accountability,2
+C#,1
+C++,1
+grammar,1
+provide cost benefit analysis reports,1
+create business process models,1
+JavaScript,1
+energy market,1
+ensure compliance with policies,1
+talent management strategies,1
+design thinking,1
+manage major incidents,1
+information structure,1
+electronic communication,1
+draft procurement technical specifications,1
+use scripting programming,1
+perform failure analysis of production process,1
+portfolio management in textile manufacturing,1
+healthcare analytics,1
+perform sample testing,1
+quote prices,1
+follow written instructions,1
+evaluate spatial information,1
+procurement legislation,1
+perform contract compliance audits,1
+maintain database performance,1
+leather products maintenance,1
+project configuration management,1
+geographic information systems,1
+business valuation techniques,1
+manage software releases,1
+trade future commodities,1
+identify processes for re-engineering,1
+pricing strategies,1
+business strategy concepts,1
+define software architecture,1
+Apache Spark,1
+analyse software specifications,1
+assess reliability of data,1
+manage budgets,1
+XGBoost,1
+mathematics,1
+create a financial report,1
+supervise data entry,1
+manage difficult clients,1
+instrumentation engineering,1
+good governance,1
+demonstrate awareness of health risks,1
+asset management,1
+adhere to Standard Operating Procedures,1
+proteomics,1
+provide self management support,1
+manage quality,1
+GitHub,1
+lead the sustainability reporting process,1
+supplier management,1
+database development tools,1
+Python (computer programming),1
+genomics,1
+analyse test data,1
+computer programming,1
+building automation,1
+digital image processing,1
+search engine optimisation,1
+control grape quality,1
+demonstrate willingness to learn,1
+use spreadsheets software,1
+normalise data,1
+draft design specifications,1
+business ICT systems,1
+operational research,1
+interpret technical requirements,1
+performance diagnosis,1
+observe confidentiality,1
+software metrics,1
+manage processes,1
+create training materials,1
+apply conflict management,1
+tools for software configuration management,1
+manage administrative systems,1
+manage stress in the work place,1
+web based collaborative platforms,1
+check correctness of information,1
+apply digital mapping,1
+develop account strategy,1
+manage production systems,1
+build trust,1
+sales activities,1
+market analysis,1
+forecast sales over periods of time,1
+carry out sales analysis,1
+business analytics,1
+TensorFlow,1
+make data-driven decisions,1
+perform dimensionality reduction,1
+deep learning,1
+upsell products,1
+utilise cross-selling,1
+collect mapping data,1
+electrical machines,1
+design metal components,1
+design process,1
+PostgreSQL,1
+coaching techniques,1
+identify skills gaps,1
+lead a team,1
+knowledge management,1
+apply territory planning,1
+test safety strategies,1
+prepare orders,1
+manage visual communications,1
+use content management system software,1
+tools for ICT test automation,1
+collection management,1
+Prototyping development,1
+unified modelling language,1
+migrate existing data,1
+Microsoft Access,1
+manage the general ledger,1
+follow up accounts receivables,1
+manage workflow processes,1
+write specifications,1
+dairy manufacturing specifications,1
+financial capability,1
+strategic planning,1
+plan marketing strategy,1
+SAP Data Services,1
+Apache Kafka,1
+perform quality audits,1
+real-time computing,1
+analyse own performance,1
+business requirements techniques,1
+give constructive feedback,1
+plan resource allocation,1
+team building,1
+use dictionaries,1
+perform risk analysis,1
+writing techniques,1
+assessment processes,1
+conduct literature research,1

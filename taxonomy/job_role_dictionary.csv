@@ -1,0 +1,61 @@
+input,normalized_role
+
+business analyst,Business Analyst
+senior business analyst,Business Analyst
+lead business analyst,Business Analyst
+principal business analyst,Business Analyst
+business systems analyst,Business Analyst
+business data analyst,Business Analyst
+
+data analyst,Data Analyst
+senior data analyst,Data Analyst
+lead data analyst,Data Analyst
+principal data analyst,Data Analyst
+staff data analyst,Data Analyst
+online data analyst,Data Analyst
+marketing data analyst,Data Analyst
+financial data analyst,Data Analyst
+product data analyst,Data Analyst
+
+data scientist,Data Scientist
+senior data scientist,Data Scientist
+lead data scientist,Data Scientist
+staff data scientist,Data Scientist
+principal data scientist,Data Scientist
+machine learning scientist,Data Scientist
+
+data engineer,Data Engineer
+senior data engineer,Data Engineer
+lead data engineer,Data Engineer
+staff data engineer,Data Engineer
+principal data engineer,Data Engineer
+analytics engineer,Data Engineer
+
+machine learning engineer,Machine Learning Engineer
+ml engineer,Machine Learning Engineer
+ai engineer,Machine Learning Engineer
+deep learning engineer,Machine Learning Engineer
+
+bi developer,BI Developer
+business intelligence developer,BI Developer
+
+bi analyst,Business Intelligence Analyst
+business intelligence analyst,Business Intelligence Analyst
+
+power bi developer,Power BI Developer
+tableau developer,Tableau Developer
+
+analytics manager,Analytics Manager
+analytics consultant,Analytics Consultant
+
+data architect,Data Architect
+
+database administrator,Database Administrator
+
+data governance analyst,Data Governance
+
+data quality analyst,Data Quality
+
+data visualization specialist,Data Visualization
+
+statistician,Statistician

@@ -1,0 +1,1846 @@
+location,skill,frequency
+United States,SQL,10
+United States,Python,10
+"Atlanta, GA",R,7
+United States,statistics,7
+United States,Microsoft Excel,6
+"Cincinnati, OH",SAP Data Services,6
+"New York, NY",SQL,6
+United States,R,5
+"Princeton, NJ",R,5
+"Tampa, FL",database,5
+"Tampa, FL",computer programming,5
+"McLean, VA",ski,5
+"Ocala, FL",solar energy,5
+"Tampa, FL",statistics,5
+United States,Tableau,4
+United States,Power BI,4
+United States,natural language processing,4
+United States,database,4
+"Auburn Hills, MI",Microsoft Excel,4
+"McLean, VA",machine learning,4
+"Newark, NJ",statistics,4
+United States,machine learning,4
+United States,computer programming,4
+"Los Angeles, CA",computer programming,4
+"Los Angeles, CA",statistics,4
+"McLean, VA",computer programming,4
+"Tampa, FL",integrated circuits,4
+"Centennial, CO",statistics,4
+"Tampa, FL",natural gas,4
+"New York, NY",R,4
+"Durham, NC",SQL,3
+"Durham, NC",R,3
+"McLean, VA",Scala,3
+"Atlanta, GA",SQL,3
+"Seattle, WA",R,3
+"Austin, TX",database management systems,3
+"Triangle, NC",asset management,3
+United States,Amazon Web Services,3
+"San Francisco, CA",R,3
+"Tulsa, OK",computer vision,3
+United States,integrated circuits,3
+United States,Scala,3
+United States,data science,3
+"Los Angeles, CA",business analysis,3
+United States,business intelligence,3
+"Houston, TX",business processes,3
+"McLean, VA",natural gas,3
+"Tampa, FL",radiotherapy,3
+"San Antonio, TX",statistics,3
+"McLean, VA",statistics,3
+"Tampa, FL",semiconductors,3
+"Tampa, FL",risk management,3
+"Houston, TX",solar energy,3
+"Auburn, AL",use computer telephony integration,3
+Dallas-Fort Worth Metroplex,R,3
+"Anchorage, AK",R,3
+"Cincinnati, OH",semiconductors,2
+"Cincinnati, OH",plan,2
+"Cincinnati, OH",SQL,2
+"Los Angeles, CA",database,2
+"Los Angeles, CA",data models,2
+"Charlotte, NC",R,2
+"Durham, NC",Python,2
+"McLean, VA",Python,2
+"McLean, VA",R,2
+"McLean, VA",SQL,2
+"McLean, VA",Scikit-learn,2
+"McLean, VA",PyTorch,2
+"McLean, VA",TensorFlow,2
+"Omaha, NE",ICT project management methodologies,2
+"Atlanta, GA",SQL Server,2
+"Princeton, NJ",machine learning,2
+United States,deep learning,2
+United States,Large Language Models,2
+"Bethesda, MD",R,2
+Kansas City Metropolitan Area,radiotherapy,2
+New York City Metropolitan Area,Databricks,2
+"Seattle, WA",database,2
+"New York, NY",Microsoft Excel,2
+"Austin, TX",Microsoft Excel,2
+"Illinois, United States",business intelligence,2
+"Illinois, United States",R,2
+"Plano, TX",R,2
+"Columbia, SC",SQL,2
+"Irvine, CA",integrated circuits,2
+"Irvine, CA",Microsoft Copilot,2
+"Basking Ridge, NJ",SQL,2
+"Basking Ridge, NJ",R,2
+"Basking Ridge, NJ",Python,2
+"Basking Ridge, NJ",Tableau,2
+United States,Apache Spark,2
+United States,Apache Airflow,2
+"Austin, TX",Python,2
+"San Francisco, CA",Python,2
+"San Francisco, CA",natural gas,2
+"Chicago, IL",SQL,2
+"Princeton, NJ",Python,2
+"Princeton, NJ",Databricks,2
+"Newark, NJ",R,2
+"Tulsa, OK",R,2
+"San Jose, CA",R,2
+"San Jose, CA",algorithms,2
+United States,ICT project management methodologies,2
+United States,Docker,2
+United States,Kubernetes,2
+United States,blockchain consensus mechanisms,2
+"Newark, NJ",SQL,2
+"Milwaukee, WI",plan,2
+"Milwaukee, WI",semiconductors,2
+"Bentonville, AR",machine learning,2
+"Houston, TX",machine learning,2
+"Houston, TX",computer programming,2
+"Houston, TX",natural gas,2
+"Los Angeles, CA",troubleshoot,2
+"Los Angeles, CA",learning management systems,2
+"Los Angeles, CA",use computer telephony integration,2
+United States,use computer telephony integration,2
+United States,principles of artificial intelligence,2
+"Wayzata, MN",business intelligence,2
+"Wayzata, MN",computer programming,2
+"Wayzata, MN",statistics,2
+United States,computer vision,2
+United States,perform software unit testing,2
+United States,execute integration testing,2
+United States,data analytics,2
+"New York, NY",computer programming,2
+"Dallas, TX",statistics,2
+"Dallas, TX",data models,2
+"Dallas, TX",information architecture,2
+"Dallas, TX",analyse pipeline database information,2
+"Dallas, TX",computer programming,2
+"Clearwater, FL",radiotherapy,2
+"Clearwater, FL",statistics,2
+"Houston, TX",R,2
+"Houston, TX",apply change management,2
+"Los Angeles, CA",Financial Modeling,2
+"Houston, TX",business analysis,2
+"Houston, TX",liaise with quality assurance,2
+"Chesterfield, VA",statistics,2
+"Los Angeles, CA",financial analysis,2
+"New York, United States",plan,2
+"McLean, VA",ICT project management methodologies,2
+"McLean, VA",cloud technologies,2
+"McLean, VA",Data Governance,2
+"McLean, VA",learning management systems,2
+"Baltimore, MD",statistics,2
+"Baltimore, MD",sing,2
+"Baltimore, MD",R,2
+"Tampa, FL",define data quality criteria,2
+"Tampa, FL",IBM InfoSphere DataStage,2
+"Tampa, FL",data warehouse,2
+"Tampa, FL",identify process improvements,2
+"Tampa, FL",data storage,2
+"New York, NY",cloud technologies,2
+"New York, NY",statistics,2
+"New York, NY",machine learning,2
+"New York, NY",solar energy,2
+"New York, NY",ICT project management methodologies,2
+"McLean, VA",semiconductors,2
+"McLean, VA",business intelligence,2
+"Tampa, FL",Data Governance,2
+"Tampa, FL",communication,2
+United States,statistical modeling techniques,2
+United States,data visualisation software,2
+United States,solve problems,2
+"Houston, TX",Microsoft SharePoint,2
+"Houston, TX",plan,2
+United States,quantitative analysis,2
+United States,identify process improvements,2
+"Tampa, FL",cloud technologies,2
+"Tampa, FL",data models,2
+"Middletown, PA",use computer telephony integration,2
+"Auburn, AL",solar energy,2
+"Auburn, AL",business analysis,2
+"Truckee, CA",computer programming,2
+"Truckee, CA",statistics,2
+"Tampa, FL",CI/CD,2
+"Warrendale, PA",ML (computer programming),2
+"Houston, TX",information architecture,2
+"Houston, TX",integrated circuits,2
+"Milwaukee, WI",SAP FICO,2
+"Atlanta, GA",Amazon Web Services,2
+"Atlanta, GA",business intelligence,2
+"New York, NY",Python,2
+"New York, NY",Apache Spark,2
+"New York, NY",Scala,2
+"Madison, WI",R,2
+"Atlanta, GA",computer programming,2
+United States,data warehouse,2
+United States,semiconductors,2
+"Columbus, OH",R,2
+"Irvine, CA",SQL,2
+"Irvine, CA",Power BI,2
+"Irvine, CA",blockchain consensus mechanisms,2
+United States,Microsoft Office,1
+United States,Azure DevOps,1
+United States,Jira,1
+United States,Figma,1
+United States,Adobe XD,1
+United States,Agile development,1
+United States,information structure,1
+United States,hardware platforms,1
+United States,Backend Development,1
+United States,data engineering,1
+"Wilmington, DE",Amazon Web Services,1
+"Wilmington, DE",Python,1
+New York City Metropolitan Area,computer programming,1
+New York City Metropolitan Area,use computer telephony integration,1
+"Cincinnati, OH",SAP FICO,1
+"Cincinnati, OH",interpreting modes,1
+"Los Angeles, CA",Python,1
+"Los Angeles, CA",SQL,1
+"Los Angeles, CA","data extraction, transformation and loading tools",1
+"Charlotte, NC",CAM software,1
+"Charlotte, NC",service-oriented modelling,1
+"Durham, NC",database,1
+"Durham, NC",Amazon DynamoDB,1
+"Durham, NC",reverse engineering,1
+"Durham, NC",Oracle Warehouse Builder,1
+"Durham, NC",analyse pipeline database information,1
+"Durham, NC",manage workflow processes,1
+"Durham, NC",Amazon EC2,1
+"Durham, NC",Amazon S3,1
+"Durham, NC",digital identity management,1
+"Durham, NC",CI/CD,1
+"Durham, NC",Jenkins (tools for software configuration management),1
+"Durham, NC",Full Stack Development,1
+"Durham, NC",distributed computing,1
+"Durham, NC",Software Development Life Cycle,1
+"McLean, VA",Java (computer programming),1
+"McLean, VA",Dask,1
+"McLean, VA",Apache Spark,1
+Atlanta Metropolitan Area,JavaScript,1
+Atlanta Metropolitan Area,XML,1
+Atlanta Metropolitan Area,XML Schema,1
+Atlanta Metropolitan Area,data models,1
+Atlanta Metropolitan Area,service-oriented modelling,1
+Atlanta Metropolitan Area,database,1
+"Clearwater, FL",perform failure analysis of production process,1
+"Clearwater, FL",root cause analysis,1
+"Clearwater, FL",data analytics,1
+"Omaha, NE",reverse engineering,1
+"Omaha, NE",Kanban,1
+"Omaha, NE",Azure DevOps,1
+"Omaha, NE",Jira,1
+"Omaha, NE",R,1
+"Omaha, NE",Cloud Native,1
+"Omaha, NE",Amazon Web Services,1
+"Omaha, NE",Google Cloud Platform,1
+"Atlanta, GA",Power BI,1
+"Atlanta, GA",SQL Server Integration Services,1
+"Atlanta, GA",data models,1
+"Atlanta, GA",mathematics,1
+"Princeton, NJ",public relations,1
+"Princeton, NJ",marketing analytics,1
+"Princeton, NJ",ski,1
+"Princeton, NJ",Microsoft Excel,1
+"Princeton, NJ",use presentation software,1
+"Princeton, NJ",graphic design,1
+"Princeton, NJ",keywords in digital content,1
+"Princeton, NJ",natural language processing,1
+Charlotte Metro,interpreting modes,1
+Charlotte Metro,radiotherapy,1
+Charlotte Metro,Pentaho Data Integration,1
+Charlotte Metro,use microsoft office,1
+Charlotte Metro,Microsoft Excel,1
+Charlotte Metro,IFS ERP,1
+Charlotte Metro,SAP Data Services,1
+Charlotte Metro,reverse engineering,1
+"Durham, NC",radiotherapy,1
+"Durham, NC",learning management systems,1
+"Durham, NC",logic,1
+United States,electrical machines,1
+"Bethesda, MD",machine learning,1
+"Bethesda, MD",Apache Airflow,1
+"Bethesda, MD",Apache Spark,1
+"Bethesda, MD",Kubernetes,1
+"Bethesda, MD",Amazon SageMaker,1
+"Bethesda, MD",Amazon Web Services,1
+"Bethesda, MD",PyTorch,1
+"Bethesda, MD",Python,1
+"Bethesda, MD",crimping,1
+"Bethesda, MD",CI/CD,1
+"Bethesda, MD",business intelligence,1
+"Bethesda, MD",Amazon Athena,1
+"Atlanta, GA",Microsoft Excel,1
+"Atlanta, GA",use microsoft office,1
+"Atlanta, GA",Coupa,1
+"San Diego, CA",deep learning,1
+"San Diego, CA",machine learning,1
+"San Diego, CA",computer vision,1
+"San Diego, CA",Python,1
+"San Diego, CA",PyTorch,1
+"San Diego, CA",TensorFlow,1
+"Illinois, United States",ICT project management methodologies,1
+"Illinois, United States",Software Development Life Cycle,1
+"Illinois, United States",Requirements Gathering,1
+"Johnston, IA",electrical machines,1
+"Johnston, IA",deep learning,1
+"Johnston, IA",natural language processing,1
+"Johnston, IA",Large Language Models,1
+"Oshkosh, WI",Python,1
+"Oshkosh, WI",Java (computer programming),1
+"Oshkosh, WI",Scala,1
+"Oshkosh, WI",SQL,1
+"Oshkosh, WI",Apache Hadoop,1
+"Oshkosh, WI",Apache Spark,1
+"Oshkosh, WI",Apache Kafka,1
+"Oshkosh, WI",data warehouse,1
+"Oshkosh, WI","data extraction, transformation and loading tools",1
+"Oshkosh, WI",types of tidal stream generators,1
+"Oshkosh, WI",reverse engineering,1
+Kansas City Metropolitan Area,sing,1
+Kansas City Metropolitan Area,Kimball Methodology,1
+Kansas City Metropolitan Area,information structure,1
+Kansas City Metropolitan Area,data warehouse,1
+New York City Metropolitan Area,Python,1
+New York City Metropolitan Area,C#,1
+New York City Metropolitan Area,Java (computer programming),1
+New York City Metropolitan Area,SQL,1
+New York City Metropolitan Area,"data extraction, transformation and loading tools",1
+New York City Metropolitan Area,Data Warehouse,1
+New York City Metropolitan Area,Git,1
+New York City Metropolitan Area,Jira,1
+New York City Metropolitan Area,use online tools to collaborate,1
+New York City Metropolitan Area,Jenkins (tools for software configuration management),1
+New York City Metropolitan Area,R,1
+New York City Metropolitan Area,Snowflake,1
+New York City Metropolitan Area,SQL Server Integration Services,1
+New York City Metropolitan Area,SQL Server Reporting Services,1
+"Kearney, MO",sing,1
+"Kearney, MO",Data Manipulation,1
+"Kearney, MO",manage standards for data exchange,1
+"Kearney, MO",normalise data,1
+"Kearney, MO",statistics,1
+"Kearney, MO",SQL,1
+"Kearney, MO",natural gas,1
+"Kearney, MO",DAX,1
+"Kearney, MO",Python,1
+"Kearney, MO",R,1
+"Kearney, MO",data visualisation software,1
+"Seattle, WA",Salesforce,1
+"Seattle, WA",MuleSoft,1
+"Seattle, WA",Snowflake,1
+"Seattle, WA",integrated circuits,1
+"Seattle, WA",Amazon S3,1
+"Seattle, WA",glue film reels,1
+"Seattle, WA",Amazon Athena,1
+"Denver, CO",financial analysis,1
+"Denver, CO",business analysis,1
+"Denver, CO",statistics,1
+"Denver, CO",use specialised computer models for weather forecasting,1
+"Anderson, SC",manage athletes,1
+"Anderson, SC",JavaScript,1
+"Anderson, SC",interpreting modes,1
+"Anderson, SC",Configure Price Quote,1
+"Anderson, SC",customer relationship management,1
+"Anderson, SC",Microsoft Access,1
+"Anderson, SC",Microsoft Excel,1
+"Anderson, SC",design the physical outlook of games,1
+"Anderson, SC",keywords in digital content,1
+"New York, NY",international carriage of dangerous goods by road,1
+"New York, NY",Bloomberg,1
+"New York, NY",business intelligence,1
+"Austin, TX",economics,1
+"Austin, TX",accounting,1
+"Austin, TX",e-procurement,1
+"Austin, TX",negotiate supplier arrangements,1
+"Austin, TX",integrated circuits,1
+"Austin, TX",keywords in digital content,1
+"Austin, TX",use presentation software,1
+"Austin, TX",fit low vision aids,1
+"Austin, TX",Microsoft SharePoint,1
+"Austin, TX",Jira,1
+"Austin, TX",maintain statutory books,1
+United States,SAS,1
+United States,use microsoft office,1
+"Triangle, NC",integrated circuits,1
+"Triangle, NC",operations management,1
+"Triangle, NC",Configuration Management Database,1
+"Triangle, NC",DevOps,1
+"Triangle, NC",Infrastructure as a Service,1
+"Triangle, NC",Microsoft Project,1
+"Triangle, NC",fit low vision aids,1
+"Triangle, NC",keywords in digital content,1
+"Triangle, NC",ensure infrastructure accessibility,1
+"Illinois, United States",data engineering,1
+"Illinois, United States",plan migration to cloud,1
+"Illinois, United States",semiconductors,1
+"Illinois, United States",information architecture,1
+"Illinois, United States",data models,1
+"Illinois, United States",radiotherapy,1
+"Illinois, United States",solar energy,1
+"Illinois, United States",analyse pipeline database information,1
+"Illinois, United States",process data,1
+"Illinois, United States",Apache Hadoop,1
+"Illinois, United States",archive scientific documentation,1
+"Illinois, United States",Snowflake,1
+"Illinois, United States",Databricks,1
+"Illinois, United States",Google Cloud Platform,1
+"Illinois, United States",Microsoft Azure,1
+"Illinois, United States",Python,1
+"Illinois, United States",Bash,1
+"Illinois, United States",manage time,1
+"Illinois, United States",Power BI,1
+"Illinois, United States",Tableau,1
+"Illinois, United States",integrated development environment software,1
+"Illinois, United States",SQL,1
+"Glenview, IL",solar energy,1
+"Glenview, IL",computer programming,1
+"Corpus Christi, TX",reverse engineering,1
+"Corpus Christi, TX",search engines,1
+"Orlando, FL",augmented reality,1
+"Orlando, FL",computer programming,1
+"Orlando, FL",SQL,1
+"Orlando, FL",XML,1
+"Orlando, FL",JavaScript,1
+"Orlando, FL",SAS,1
+"Orlando, FL",Microsoft Excel,1
+"Plano, TX",Microsoft Excel,1
+"Plano, TX",use presentation software,1
+"Plano, TX",Tableau,1
+"Plano, TX",Python,1
+"Plano, TX",SQL,1
+"Plano, TX",data mining,1
+"Plano, TX",types of metal manufacturing processes,1
+"Plano, TX",statistical modeling techniques,1
+"Plano, TX",natural gas,1
+"Plano, TX",solar energy,1
+"Plano, TX",mathematics,1
+"Florida, United States",SQL,1
+"Florida, United States",database,1
+"Florida, United States",data warehouse,1
+"Florida, United States",Power BI,1
+"Florida, United States",Microsoft Excel,1
+"Florida, United States",DAX,1
+"Florida, United States",Python,1
+"Columbia, SC",ICT project management methodologies,1
+"Columbia, SC",tools for ICT test automation,1
+"Columbia, SC",Microsoft Office,1
+"Columbia, SC",Microsoft SharePoint,1
+"Columbia, SC",manage sales teams,1
+"Irvine, CA",Microsoft SharePoint,1
+"Irvine, CA",manage currency exchange risk mitigation techniques,1
+"Irvine, CA",manage sales teams,1
+"Irvine, CA",ML (computer programming),1
+"Irvine, CA",computer programming,1
+"Spokane, WA",Python,1
+"Spokane, WA",R,1
+"Spokane, WA",SQL,1
+"Spokane, WA",machine learning,1
+"Spokane, WA",statistics,1
+"Spokane, WA",data visualisation software,1
+"Arlington, Virginia, United States",Python,1
+"Arlington, Virginia, United States",R,1
+"Arlington, Virginia, United States",Visual Basic,1
+"Arlington, Virginia, United States",SQL,1
+"Arlington, Virginia, United States",Tableau,1
+"Arlington, Virginia, United States",QlikView Expressor,1
+"Arlington, Virginia, United States",Power BI,1
+"Arlington, Virginia, United States",D3.js,1
+"Arlington, Virginia, United States",SQL Server,1
+"Arlington, Virginia, United States",Oracle SQL,1
+"Arlington, Virginia, United States",database,1
+"Arlington, Virginia, United States","data extraction, transformation and loading tools",1
+"Arlington, Virginia, United States",manage standards for data exchange,1
+"Arlington, Virginia, United States",natural gas,1
+"Arlington, Virginia, United States",statistics,1
+"Arlington, Virginia, United States",machine learning,1
+"Arlington, Virginia, United States",natural language processing,1
+"Arlington, Virginia, United States",lead process optimisation,1
+"Arlington, Virginia, United States",computer simulation,1
+"Washington, DC",web programming,1
+"Washington, DC",computer programming,1
+"Washington, DC",statistics,1
+"Washington, DC",Python,1
+"Washington, DC",Microsoft Excel,1
+"Washington, DC",use presentation software,1
+"Washington, DC",Visual Basic,1
+"Washington, DC",Tableau,1
+"Washington, DC",R,1
+"Washington, DC",SQL,1
+"Texas, United States",SQL,1
+"Texas, United States",NoSQL,1
+"Texas, United States",business processes,1
+"Texas, United States",design process,1
+"Texas, United States",collection management,1
+"Texas, United States",project management,1
+"Basking Ridge, NJ",Teradata Database,1
+"Basking Ridge, NJ",scaffolding components,1
+"Basking Ridge, NJ",learning management systems,1
+"Basking Ridge, NJ",Adobe Experience Cloud,1
+"St Paul, MN",develop with cloud services,1
+"St Paul, MN",network management system tools,1
+"St Paul, MN",use mathematical tools and equipment,1
+"St Paul, MN",process applications,1
+"St Paul, MN",communication,1
+"Brighton, MI",fit low vision aids,1
+"Brighton, MI",Figma,1
+"Virginia Beach, VA",Python,1
+"Virginia Beach, VA",SQL,1
+"Virginia Beach, VA",ML (computer programming),1
+"Virginia Beach, VA",machine learning,1
+"Virginia Beach, VA",principles of artificial intelligence,1
+"Virginia Beach, VA",statistical modeling techniques,1
+"Virginia Beach, VA",data mining,1
+"Virginia Beach, VA",algorithms,1
+"Virginia Beach, VA",types of tidal stream generators,1
+"Virginia Beach, VA",R,1
+United States,Apache Hadoop,1
+United States,Apache Kafka,1
+United States,dbt,1
+United States,Google Cloud Platform,1
+United States,Web3,1
+United States,blockchain,1
+"Cedar Rapids, IA",mathematical modelling,1
+"Cedar Rapids, IA",actuarial science,1
+"Cedar Rapids, IA",statistics,1
+"Cedar Rapids, IA",machine learning,1
+"Cedar Rapids, IA",principles of artificial intelligence,1
+"Cedar Rapids, IA",Derivatives Modeling,1
+"Cedar Rapids, IA",liquidity management,1
+"Auburn Hills, MI",data analytics,1
+"Auburn Hills, MI",office software,1
+"Austin, TX",SQL,1
+"Austin, TX",Tableau,1
+"Austin, TX",R,1
+"Austin, TX",Power BI,1
+"West Chester, PA",Python,1
+"West Chester, PA",R,1
+"West Chester, PA",SQL,1
+"West Chester, PA",Tableau,1
+"West Chester, PA",Power BI,1
+"West Chester, PA",QlikView Expressor,1
+"West Chester, PA",SPSS,1
+"West Chester, PA",SAS,1
+"West Chester, PA",Stata,1
+"West Chester, PA",Microsoft Excel,1
+"West Chester, PA",use spreadsheets software,1
+"West Chester, PA",MATLAB,1
+"Atlanta, GA",unified modelling language,1
+"Atlanta, GA",Azure DevOps,1
+"Atlanta, GA",software UI design patterns,1
+"Atlanta, GA",XML,1
+"Atlanta, GA",Microsoft Azure,1
+"Atlanta, GA",Angular,1
+"Atlanta, GA",network engineering,1
+"Atlanta, GA",C#,1
+"Atlanta, GA",TypeScript,1
+"Atlanta, GA",NoSQL,1
+"Atlanta, GA",JSON,1
+"Atlanta, GA",JSONB,1
+"Wisconsin, United States",Microsoft Office,1
+"Wisconsin, United States",database,1
+"McLean, VA",computer vision,1
+"McLean, VA",electrical machines,1
+"McLean, VA",deep learning,1
+"McLean, VA",natural language processing,1
+"McLean, VA",Recommendation Systems,1
+"McLean, VA",Source (digital game creation systems),1
+"McLean, VA",database,1
+"McLean, VA",Amazon Web Services,1
+"Tampa, FL",KNIME,1
+"Tampa, FL",Visual Basic,1
+"Tampa, FL",SQL,1
+"Tampa, FL",Microsoft Excel,1
+"Tampa, FL",Microsoft Access,1
+"Tampa, FL",report facts,1
+"San Francisco, CA",Apache Spark,1
+"San Francisco, CA",HDFS,1
+"San Francisco, CA",Apache Kafka,1
+"San Francisco, CA",Apache Druid,1
+"San Francisco, CA",MySQL,1
+"San Francisco, CA",Apache Airflow,1
+"San Francisco, CA",Amazon EC2,1
+"San Francisco, CA",glue film reels,1
+"San Francisco, CA",Amazon S3,1
+"Cedar Knolls, NJ",Tableau,1
+"Cedar Knolls, NJ",SQL,1
+"Cedar Knolls, NJ",data mining,1
+"Cedar Knolls, NJ",use computer telephony integration,1
+"Cedar Knolls, NJ",statistical modeling techniques,1
+"Chicago, IL",Oracle BI Publisher,1
+"Georgia, United States",Azure Data Factory,1
+"Georgia, United States",data warehouse,1
+"Georgia, United States",integrated circuits,1
+"Georgia, United States",semiconductors,1
+"Georgia, United States",Apache Spark,1
+"Georgia, United States",Python,1
+"Georgia, United States",Scala,1
+"Georgia, United States",SQL,1
+"Georgia, United States",SQL Server,1
+"Georgia, United States",Teradata Database,1
+"Georgia, United States",Snowflake,1
+"Georgia, United States",Azure Synapse,1
+"Georgia, United States",Git,1
+"Georgia, United States",GitHub,1
+"Richmond, VA",Python,1
+"Richmond, VA",teach secondary education class content,1
+"Richmond, VA",Amazon Web Services,1
+"Richmond, VA",H2O.ai,1
+"Richmond, VA",Apache Spark,1
+"Richmond, VA",machine learning,1
+"Richmond, VA",Source (digital game creation systems),1
+"Richmond, VA",cloud technologies,1
+"Richmond, VA",solar energy,1
+"Richmond, VA",debt classification,1
+"Richmond, VA",Sentiment Analysis,1
+"Richmond, VA",Time Series Analysis,1
+"Richmond, VA",deep learning,1
+"Richmond, VA",database,1
+"Richmond, VA",SQL,1
+"Richmond, VA",Scala,1
+"Richmond, VA",R,1
+"Princeton, NJ","data extraction, transformation and loading tools",1
+"Princeton, NJ",building automation,1
+"Princeton, NJ",manage workflow processes,1
+"Princeton, NJ",integrated circuits,1
+"Princeton, NJ",use object-oriented programming,1
+"Princeton, NJ",Pandas,1
+"Princeton, NJ",start up chocolate moulding line,1
+"Princeton, NJ",HISAT2,1
+"Princeton, NJ",DESeq2,1
+"Princeton, NJ",Amazon Athena,1
+"Princeton, NJ",glue film reels,1
+"Princeton, NJ",Lakehouse,1
+"Princeton, NJ",types of tidal stream generators,1
+"Princeton, NJ",ICT project management methodologies,1
+"Princeton, NJ",tools for software configuration management,1
+"Princeton, NJ",project management,1
+"Princeton, NJ",Jira,1
+"Princeton, NJ",cloud technologies,1
+"Princeton, NJ",computer programming,1
+"Princeton, NJ",Amazon ECS,1
+"Princeton, NJ",dump batches,1
+"Princeton, NJ",Elastic Load Balancer,1
+"Princeton, NJ",Apache Spark,1
+"Newark, NJ",integrated circuits,1
+"Newark, NJ",Microsoft Excel,1
+"Newark, NJ",use presentation software,1
+"Newark, NJ",quantitative analysis,1
+"Tulsa, OK",Python,1
+"Tulsa, OK",NumPy,1
+"Tulsa, OK",SciPy,1
+"Tulsa, OK",Matplotlib,1
+"Tulsa, OK",Scikit-learn,1
+"Tulsa, OK",computer programming,1
+"Tulsa, OK",Kali Linux,1
+"Tulsa, OK",PyTorch,1
+"Tulsa, OK",TensorFlow,1
+"Tulsa, OK",C++,1
+"Tulsa, OK",Git,1
+"Tulsa, OK",artificial neural networks,1
+"Tulsa, OK",deep learning,1
+"San Jose, CA",Python,1
+"San Jose, CA",Java (computer programming),1
+"San Jose, CA",C++,1
+"San Jose, CA",TensorFlow,1
+"San Jose, CA",PyTorch,1
+"San Jose, CA",MXNet,1
+"San Jose, CA",Apache Spark,1
+"San Jose, CA",machine learning,1
+"San Jose, CA",deep learning,1
+"San Jose, CA",reverse engineering,1
+"San Jose, CA",computer programming,1
+Buffalo-Niagara Falls Area,SQL,1
+Buffalo-Niagara Falls Area,SAS,1
+Buffalo-Niagara Falls Area,Python,1
+Buffalo-Niagara Falls Area,R,1
+Buffalo-Niagara Falls Area,Tableau,1
+Buffalo-Niagara Falls Area,Power BI,1
+Buffalo-Niagara Falls Area,Apache Hadoop,1
+Buffalo-Niagara Falls Area,data visualisation software,1
+Buffalo-Niagara Falls Area,statistics,1
+Buffalo-Niagara Falls Area,data mining,1
+United States,Waterfall development,1
+United States,use presentation software,1
+United States,Microsoft Project,1
+United States,fit low vision aids,1
+United States,C++,1
+United States,Java (computer programming),1
+United States,Scikit-learn,1
+United States,Pandas,1
+United States,reverse engineering,1
+United States,Snowflake,1
+United States,design database scheme,1
+United States,Microsoft SharePoint,1
+"Vienna, VA",SQL,1
+"Vienna, VA",R,1
+"Vienna, VA",Python,1
+"Vienna, VA",Apache Hadoop,1
+"Vienna, VA",SAS,1
+"Vienna, VA",SPSS,1
+"Vienna, VA",Scala,1
+"Vienna, VA",Amazon Web Services,1
+"Vienna, VA",machine learning,1
+"Vienna, VA",data mining,1
+"Vienna, VA",natural gas,1
+"Vienna, VA",computer programming,1
+"Vienna, VA",perform fuel reconciliation,1
+"Vienna, VA",arrange surgery operating site,1
+"Vienna, VA",data models,1
+"Vienna, VA",computer simulation,1
+"Vienna, VA",mathematics,1
+"Vienna, VA",GitHub,1
+"Manchester, VT",search engines,1
+"Tucker, GA",Microsoft Excel,1
+"Tucker, GA",Visual Basic,1
+"Tucker, GA",Power BI,1
+"Tucker, GA",blockchain consensus mechanisms,1
+"Tucker, GA",machine learning,1
+"Newark, NJ",Microsoft Office,1
+"Newark, NJ",ICT project management methodologies,1
+"Newark, NJ",Jira,1
+"Newark, NJ",use databases,1
+"Newark, NJ",Power BI,1
+"Newark, NJ",Tableau,1
+"Brentwood, MO",Microsoft Office,1
+"Brentwood, MO",statistics,1
+"Brentwood, MO",public relations,1
+"Brentwood, MO",project management,1
+"Deerfield, IL",Salesforce,1
+"Deerfield, IL",Power BI,1
+"Deerfield, IL",ski,1
+"Milwaukee, WI",make data-driven decisions,1
+"Milwaukee, WI",demonstrate leadership in social service cases,1
+"Milwaukee, WI",team building,1
+"Milwaukee, WI",lead others,1
+"Milwaukee, WI",social innovation,1
+"Milwaukee, WI",types of metal manufacturing processes,1
+"Milwaukee, WI",ski,1
+"Milwaukee, WI",data analytics,1
+"Milwaukee, WI",data visualisation software,1
+"Milwaukee, WI",use computer telephony integration,1
+"Milwaukee, WI",reverse engineering,1
+"Milwaukee, WI",think creatively,1
+"Milwaukee, WI",apply change management,1
+"Bentonville, AR",deep learning,1
+"Bentonville, AR",process data,1
+"Bentonville, AR",perform dimensionality reduction,1
+"Bentonville, AR",Model Deployment,1
+"Bentonville, AR",ML (computer programming),1
+"Bentonville, AR",perform cleaning duties,1
+"Bentonville, AR",computer programming,1
+"Bentonville, AR",debt classification,1
+"Bentonville, AR",solve problems,1
+"Bentonville, AR",ski,1
+"Bentonville, AR",algorithms,1
+"Bentonville, AR",natural gas,1
+"Bentonville, AR",Model Management,1
+"Bentonville, AR",statistics,1
+"Bentonville, AR",sing,1
+"Bentonville, AR",R,1
+"Bentonville, AR",database,1
+"Bentonville, AR",SQL,1
+"Bentonville, AR",data engineering,1
+"Bentonville, AR",Workflow Orchestration,1
+"Bentonville, AR",learning management systems,1
+"Bentonville, AR",reverse engineering,1
+"Bentonville, AR",supervision of persons,1
+"Irving, TX",business analysis,1
+"Irving, TX",business process modelling,1
+"Irving, TX",building information modelling,1
+"Irving, TX",analyse blockchain use cases,1
+"Irving, TX",User Stories,1
+"Irving, TX",computer programming,1
+"Irving, TX",design metal components,1
+"Irving, TX",statistics,1
+"Irving, TX",data models,1
+"Irving, TX",Data Flow Diagram,1
+"Irving, TX",Process Flowchart,1
+"Irving, TX",interact with users to gather requirements,1
+"Irving, TX",Requirements Engineering,1
+"Irving, TX",Agile development,1
+"Irving, TX",create prototype of user experience solutions,1
+"Irving, TX",customer relationship management,1
+"Irving, TX",computer technology,1
+"Irving, TX",augmented reality,1
+"Irving, TX",Software Delivery,1
+"Newark, NJ",Agile development,1
+"Newark, NJ",Test-Driven Development,1
+"Newark, NJ",project management,1
+"Newark, NJ",plan product management,1
+"Newark, NJ",business analysis,1
+"Newark, NJ",business processes,1
+"Newark, NJ",make decisions,1
+"Newark, NJ",think critically,1
+"Newark, NJ",apply business acumen,1
+"Newark, NJ",financial capability,1
+"Newark, NJ",think analytically,1
+"Newark, NJ",solve problems,1
+"Newark, NJ",interact with users to gather requirements,1
+"Newark, NJ",engage with stakeholders,1
+"Newark, NJ",public relations,1
+"Newark, NJ",write technical reports,1
+"Newark, NJ",communication,1
+"Newark, NJ",human-robot collaboration,1
+"Newark, NJ",demonstrate leadership in social service cases,1
+"Newark, NJ",assess your competences for artistic coaching,1
+"Newark, NJ",supervision of persons,1
+"North Carlton, MN",customer relationship management,1
+"North Carlton, MN",business analysis,1
+"North Carlton, MN",public relations,1
+"North Carlton, MN",collection management,1
+"North Carlton, MN",ICT project management methodologies,1
+"North Carlton, MN",create prototype of user experience solutions,1
+"North Carlton, MN",natural gas,1
+"North Carlton, MN",DevOps,1
+"North Carlton, MN",CI/CD,1
+"Arizona, United States",statistics,1
+"Arizona, United States",business analysis,1
+"Arizona, United States",User Acceptance Testing,1
+"Arizona, United States",identify process improvements,1
+"Arizona, United States",project management,1
+"Arizona, United States",Oracle Data Integrator,1
+"Arizona, United States",morality,1
+"Arizona, United States",migration,1
+"Arizona, United States",ICT project management methodologies,1
+"Arizona, United States",Pentaho Data Integration,1
+"Arizona, United States",iron textiles,1
+"Arizona, United States",claims procedures,1
+"Houston, TX",ML (computer programming),1
+"Houston, TX",create data sets,1
+"Houston, TX",SDK Development,1
+"Houston, TX",API Development,1
+"Houston, TX",modern portfolio theory,1
+"Houston, TX",database,1
+"Houston, TX",Generative AI,1
+"Houston, TX",MLOps,1
+"Los Angeles, CA",semiconductors,1
+"Los Angeles, CA",think creatively,1
+"Los Angeles, CA",natural gas,1
+"Los Angeles, CA",execute feasibility study,1
+"Los Angeles, CA",business requirements techniques,1
+"Los Angeles, CA",analyse business requirements,1
+"Los Angeles, CA",create project specifications,1
+"Los Angeles, CA",perform software unit testing,1
+"Los Angeles, CA",ICT system integration,1
+"Los Angeles, CA",identify process improvements,1
+"Los Angeles, CA",translate artistic concepts to technical designs,1
+"Los Angeles, CA",Process Flow Analysis,1
+"Washington, United States",business analysis,1
+"Washington, United States",Requirements Gathering,1
+"Washington, United States",ICT project management methodologies,1
+"Washington, United States",Software Development Life Cycle,1
+"Washington, United States",system design,1
+"Washington, United States",use computer telephony integration,1
+"Washington, United States",demonstrate leadership in social service cases,1
+"Washington, United States",ski,1
+"Washington, United States",apply business acumen,1
+"Washington, United States",conduct patch testing,1
+"Washington, United States",execute integration testing,1
+"Washington, United States",User Acceptance Testing,1
+United States,develop business case,1
+United States,prepare sales checks,1
+United States,marketing mix,1
+"Wayzata, MN",Data Governance,1
+"Wayzata, MN",think creatively,1
+"Wayzata, MN",hardware testing methods,1
+"Wayzata, MN",audit techniques,1
+"Wayzata, MN",perform quality audits,1
+"Wayzata, MN",Data Lineage,1
+"Wayzata, MN",natural gas,1
+"Wayzata, MN",risk management,1
+"Wayzata, MN",manage ICT data classification,1
+"Wayzata, MN",apply information security policies,1
+"Wayzata, MN",data protection,1
+"Wayzata, MN",supervise waste disposal,1
+"Wayzata, MN",document management,1
+"Wayzata, MN",ICT project management methodologies,1
+"Wayzata, MN",DevOps,1
+"Wayzata, MN",project management,1
+"Wayzata, MN",sing,1
+"Wayzata, MN",database,1
+"Wayzata, MN",knowledge management,1
+"Wayzata, MN",solar energy,1
+"Wayzata, MN",reverse engineering,1
+"Wayzata, MN",develop with cloud services,1
+"Wayzata, MN",Real-Time Data Processing,1
+"Wayzata, MN",data warehouse,1
+"Wayzata, MN",SQL,1
+"Wayzata, MN","data extraction, transformation and loading tools",1
+"Wayzata, MN",perform data cleansing,1
+"Wayzata, MN",data models,1
+"Wayzata, MN",track key performance indicators,1
+"Wayzata, MN",R,1
+"Wayzata, MN",data analytics,1
+"Wayzata, MN",decision support systems,1
+United States,Groovy,1
+United States,utilise computer-aided software engineering tools,1
+United States,types of tidal stream generators,1
+United States,supervision of persons,1
+United States,human-robot collaboration,1
+United States,satisfy technical requirements,1
+United States,liaise with quality assurance,1
+United States,cyber security,1
+United States,develop automated software tests,1
+United States,natural gas,1
+United States,monitor drilling fluid,1
+United States,monitor international market performance,1
+United States,meet commitments,1
+United States,health care system,1
+United States,report analysis results,1
+"San Diego, CA",statistics,1
+"San Diego, CA",data visualisation software,1
+"San Diego, CA",root cause analysis,1
+"San Diego, CA",solve problems,1
+"San Diego, CA",supervision of persons,1
+"San Diego, CA",talent management strategies,1
+"San Diego, CA",natural gas,1
+"San Diego, CA",lead process optimisation,1
+"San Diego, CA",analyse pipeline database information,1
+"San Diego, CA",data models,1
+"San Diego, CA",semiconductors,1
+"New York, NY",business analysis,1
+"New York, NY",identify process improvements,1
+"Dallas, TX",natural gas,1
+"Dallas, TX",Pentaho Data Integration,1
+"Dallas, TX",business intelligence,1
+"Dallas, TX",web analytics,1
+"Dallas, TX",semiconductors,1
+"Dallas, TX",troubleshoot,1
+"Dallas, TX",define data quality criteria,1
+"Dallas, TX",data visualisation software,1
+"Dallas, TX",solve problems,1
+"Dallas, TX",data mining,1
+"Dallas, TX",use computer telephony integration,1
+"Dallas, TX",Data Governance,1
+"Dallas, TX",sing,1
+"Dallas, TX",radiotherapy,1
+"Dallas, TX",perform data cleansing,1
+"Dallas, TX",public relations,1
+"Dallas, TX",Data Lineage,1
+"Clearwater, FL",perform contract reporting and evaluation,1
+"Clearwater, FL",web analytics,1
+"Clearwater, FL",plan rig operations,1
+"Clearwater, FL",control compliance of railway vehicles regulations,1
+"Clearwater, FL",morality,1
+"Clearwater, FL",audit contractors,1
+"Clearwater, FL",manage system testing,1
+"Clearwater, FL",identify process improvements,1
+"Clearwater, FL",semiconductors,1
+"Clearwater, FL",data mining,1
+"Clearwater, FL","data extraction, transformation and loading tools",1
+"Clearwater, FL",data visualisation software,1
+"Clearwater, FL",Christianity,1
+"Clearwater, FL",launch lifeboats,1
+"Clearwater, FL",undertake employee screening,1
+"Clearwater, FL",perform drug investigations,1
+"Clearwater, FL",advise on eligibility of expenditures,1
+"Clearwater, FL",natural gas,1
+"Clearwater, FL",internal auditing,1
+"Clearwater, FL",computer technology,1
+"Clearwater, FL",business intelligence,1
+"Clearwater, FL",project management,1
+"Houston, TX",trade future commodities,1
+"Houston, TX",energy market,1
+"Houston, TX",market analysis,1
+"Houston, TX",maintain pricing database,1
+"Houston, TX",conduct training on monitoring and evaluation frameworks,1
+"Houston, TX",radiotherapy,1
+"Houston, TX",manage software releases,1
+"Los Angeles, CA",interact with users to gather requirements,1
+"Los Angeles, CA",documentation types,1
+"Los Angeles, CA",develop business case,1
+"Los Angeles, CA",social development,1
+"Los Angeles, CA",identify processes for re-engineering,1
+"Los Angeles, CA",keep up with digital transformation of industrial processes,1
+"Los Angeles, CA",design enterprise architecture,1
+"Los Angeles, CA",types of tidal stream generators,1
+"Los Angeles, CA",business strategy concepts,1
+"Los Angeles, CA",computer technology,1
+"Los Angeles, CA",business intelligence,1
+"Los Angeles, CA",information architecture,1
+"Los Angeles, CA",Pentaho Data Integration,1
+"Los Angeles, CA",define software architecture,1
+"Los Angeles, CA",risk management,1
+"Los Angeles, CA",engage with stakeholders,1
+"Los Angeles, CA",demonstrate leadership in social service cases,1
+"Los Angeles, CA",manage drilling team,1
+"Los Angeles, CA",pricing strategies,1
+"Los Angeles, CA",sales department processes,1
+"Los Angeles, CA",manage agricultural staff,1
+"Los Angeles, CA",supervision of persons,1
+"Los Angeles, CA",assess your competences for artistic coaching,1
+"Houston, TX",interact with users to gather requirements,1
+"Houston, TX",engage with stakeholders,1
+"Houston, TX",public relations,1
+"Houston, TX",use computer telephony integration,1
+"Houston, TX",write technical reports,1
+"Houston, TX",systems development life-cycle,1
+"Houston, TX",business process modelling,1
+"Houston, TX",Requirements Engineering,1
+"Houston, TX",analyse business requirements,1
+"Houston, TX",provide technical documentation,1
+"Houston, TX",Test Case Design,1
+"Bellevue, WA",data engineering,1
+"Bellevue, WA",analyse pipeline database information,1
+"Bellevue, WA",information architecture,1
+"Bellevue, WA",apply information security policies,1
+"Bellevue, WA",define data quality criteria,1
+"Bellevue, WA",solar energy,1
+"Bellevue, WA",Scala,1
+"Bellevue, WA",statistics,1
+"Bellevue, WA",data analytics,1
+"Bellevue, WA",natural gas,1
+"Bellevue, WA",supervision of persons,1
+"Bellevue, WA",types of tidal stream generators,1
+"Bellevue, WA",social innovation,1
+"Chesterfield, VA",data models,1
+"Chesterfield, VA",design database scheme,1
+"Chesterfield, VA",data mining,1
+"Chesterfield, VA",Data Segmentation,1
+"Chesterfield, VA",radiotherapy,1
+"Chesterfield, VA",R,1
+"Chesterfield, VA",data visualisation software,1
+Greater Tampa Bay Area,statistics,1
+Greater Tampa Bay Area,implement ICT coding conventions,1
+Greater Tampa Bay Area,solve problems,1
+Greater Tampa Bay Area,computer programming,1
+"Old Westbury, NY",statistics,1
+"Old Westbury, NY",process data,1
+"Old Westbury, NY",computer programming,1
+"Old Westbury, NY",conduct literature research,1
+"Old Westbury, NY",hardware testing methods,1
+"Old Westbury, NY",semiconductors,1
+"Old Westbury, NY",manage documentation of prior learning assessments,1
+"Old Westbury, NY",use clinical assessment techniques,1
+"Old Westbury, NY",attend to detail in casting processes,1
+"Old Westbury, NY",supervise work on design planning,1
+"Old Westbury, NY",use personal organization software,1
+"Old Westbury, NY",simplify communication in maritime management,1
+Los Angeles Metropolitan Area,statistics,1
+Los Angeles Metropolitan Area,Microsoft Excel,1
+Los Angeles Metropolitan Area,use presentation software,1
+Los Angeles Metropolitan Area,integrated circuits,1
+Los Angeles Metropolitan Area,solve problems,1
+Los Angeles Metropolitan Area,project management,1
+Los Angeles Metropolitan Area,manage company transport strategy,1
+"Los Angeles, CA",plan,1
+"Los Angeles, CA",Financial Planning and Analysis,1
+"Los Angeles, CA",financial forecasting,1
+"Los Angeles, CA",make decisions,1
+"Los Angeles, CA",solve problems,1
+"Los Angeles, CA",support development of annual budget,1
+"Los Angeles, CA",use specialised computer models for weather forecasting,1
+"Springdale, AR",statistics,1
+"Springdale, AR",report analysis results,1
+"Springdale, AR",communication,1
+"Springdale, AR",Dashboard Development,1
+"Springdale, AR",make data-driven decisions,1
+"Springdale, AR",project management,1
+"Cincinnati, OH",business analysis,1
+"Cincinnati, OH",project management,1
+"Cincinnati, OH",statistics,1
+"Cincinnati, OH",solve problems,1
+"Cincinnati, OH",use microsoft office,1
+"Cincinnati, OH",ICT project management methodologies,1
+"Cincinnati, OH",human factors regarding safety,1
+"New York, United States",business analysis,1
+"New York, United States",Requirements Gathering,1
+"New York, United States",ICT project management methodologies,1
+"New York, United States",Software Development Life Cycle,1
+"New York, United States",system design,1
+"New York, United States",use computer telephony integration,1
+"New York, United States",User Stories,1
+"New York, United States",manage system testing,1
+"New York, United States",execute integration testing,1
+"New York, United States",User Acceptance Testing,1
+"New York, United States",reverse engineering,1
+"San Francisco, CA",beer downstream processing,1
+"San Francisco, CA",sing,1
+"San Francisco, CA",DevOps,1
+"San Francisco, CA",manage ICT virtualisation environments,1
+"San Francisco, CA",solve problems,1
+"San Francisco, CA",think critically,1
+"San Francisco, CA",Scala,1
+"San Francisco, CA",types of tidal stream generators,1
+"McLean, VA",create model,1
+"McLean, VA",model mineral deposits,1
+"McLean, VA",Model Deployment,1
+"McLean, VA",maintain moulds,1
+"McLean, VA",data engineering,1
+"McLean, VA",analyse pipeline database information,1
+"McLean, VA",distributed computing,1
+"McLean, VA",reverse engineering,1
+"McLean, VA",Explainable AI,1
+"McLean, VA",Jenkins (tools for software configuration management),1
+"McLean, VA",CI/CD,1
+"McLean, VA",tools for ICT test automation,1
+"McLean, VA",perform dimensionality reduction,1
+"McLean, VA",Bias-Variance Tradeoff,1
+"McLean, VA",validation of learning acquired through volunteering,1
+"McLean, VA",gather data,1
+"McLean, VA",Data Pipeline Optimization,1
+"McLean, VA",Performance Optimization,1
+"Minneapolis, MN",Rapid application development,1
+"Minneapolis, MN",ICT project management methodologies,1
+"Minneapolis, MN",User Stories,1
+"Minneapolis, MN",business processes,1
+"Minneapolis, MN",types of tidal stream generators,1
+"Minneapolis, MN",ICT debugging tools,1
+"Minneapolis, MN",liaise with quality assurance,1
+"Minneapolis, MN",write technical reports,1
+"Minneapolis, MN",hardware testing methods,1
+"Minneapolis, MN",computer programming,1
+"Minneapolis, MN",penetration testing tool,1
+"Newark, NJ",Data Manipulation,1
+"Newark, NJ",data engineering,1
+"Newark, NJ",machine learning,1
+"Newark, NJ",Automation,1
+"Newark, NJ",use computer telephony integration,1
+"Newark, NJ",data visualisation software,1
+"Newark, NJ",report analysis results,1
+"Newark, NJ",develop campaigns,1
+"Newark, NJ",analyse pipeline database information,1
+"Newark, NJ",define data quality criteria,1
+"Newark, NJ",Data Governance,1
+"Newark, NJ",data mining,1
+"Newark, NJ",business intelligence,1
+"Newark, NJ",Data Storytelling,1
+"Baltimore, MD",data engineering,1
+"Baltimore, MD",define data quality criteria,1
+"Baltimore, MD",analyse pipeline database information,1
+"Baltimore, MD",radiotherapy,1
+"Baltimore, MD",Data Cube,1
+"Baltimore, MD",business intelligence,1
+"Baltimore, MD",asset management,1
+"Baltimore, MD",financial markets,1
+"Baltimore, MD",data science,1
+"Baltimore, MD",Modern Data Stack,1
+"Baltimore, MD",SAP Data Services,1
+"Baltimore, MD",cloud technologies,1
+"Baltimore, MD",Scala,1
+"Baltimore, MD",develop efficiency plans for maritime shipping,1
+"Baltimore, MD",SPARK,1
+"Baltimore, MD",dbt,1
+"Baltimore, MD",Apache Airflow,1
+"Baltimore, MD",Apache Spark,1
+"Baltimore, MD",integrated circuits,1
+"Juno Beach, FL",statistics,1
+"Juno Beach, FL",morality,1
+"Juno Beach, FL",Data Governance,1
+"Juno Beach, FL",perform data cleansing,1
+"Juno Beach, FL",task algorithmisation,1
+"Juno Beach, FL",solar energy,1
+"Juno Beach, FL",SAS Data Management,1
+"Tampa, FL",SAS Data Management,1
+"Tampa, FL",building automation,1
+"Tampa, FL",manage standards for data exchange,1
+"Tampa, FL",seismic measurement techniques,1
+"Tampa, FL",maintain database performance,1
+"Tampa, FL",customer segmentation,1
+"Tampa, FL",prepare financial projections,1
+"San Antonio, TX",financial analysis,1
+"San Antonio, TX",identify process improvements,1
+"San Antonio, TX",radiotherapy,1
+"San Antonio, TX",computer programming,1
+"San Antonio, TX",comply with agricultural code of practice,1
+"San Antonio, TX",interact with users to gather requirements,1
+"San Antonio, TX",data mining,1
+"San Antonio, TX",data models,1
+"San Antonio, TX",Data Governance,1
+"San Antonio, TX",define data quality criteria,1
+"San Antonio, TX",accounting,1
+"San Antonio, TX",explain financial jargon,1
+"San Antonio, TX",manage workflow processes,1
+"San Antonio, TX",semiconductors,1
+"San Antonio, TX",data science,1
+"Brighton, MI",business analysis,1
+"Brighton, MI",computer programming,1
+"Brighton, MI",business requirements techniques,1
+"Brighton, MI",use computer telephony integration,1
+"Brighton, MI",business processes,1
+"Brighton, MI",blockchain consensus mechanisms,1
+"Brighton, MI",learning management systems,1
+"Brighton, MI",create prototype of user experience solutions,1
+"Brighton, MI",Agile development,1
+"New York, NY",data engineering,1
+"New York, NY",cost management,1
+"New York, NY",data storage,1
+"New York, NY",information confidentiality,1
+"New York, NY",data analytics,1
+"New York, NY",Microservices,1
+"New York, NY",conduct research on flora,1
+"New York, NY",types of tidal stream generators,1
+"New York, NY",advise on architectural matters,1
+"Centennial, CO",think creatively,1
+"Centennial, CO",data mining,1
+"Centennial, CO",data models,1
+"Centennial, CO",develop health and safety strategies in mining,1
+"Centennial, CO",portfolio management in textile manufacturing,1
+"Centennial, CO",risk management,1
+"Centennial, CO",financial analysis,1
+"Centennial, CO",reverse engineering,1
+"Centennial, CO",assist in developing marketing campaigns,1
+"Centennial, CO",project management,1
+"Centennial, CO",geographic information systems,1
+"Centennial, CO",supervision of persons,1
+"Centennial, CO",rhetoric,1
+"Centennial, CO",engage with stakeholders,1
+"Centennial, CO",communication,1
+"Centennial, CO",government representation,1
+"Centennial, CO",perform contract reporting and evaluation,1
+"Centennial, CO",data visualisation software,1
+"Centennial, CO","data extraction, transformation and loading tools",1
+"Centennial, CO",interpret seismic data,1
+"Centennial, CO",SQL,1
+"Centennial, CO",SAS language,1
+"Centennial, CO",database management systems,1
+"Centennial, CO",data warehouse,1
+"Centennial, CO",Data Governance,1
+"Centennial, CO",business intelligence,1
+"Stamford, CT",business analysis,1
+"Stamford, CT",business processes,1
+"Stamford, CT",statistics,1
+"Stamford, CT",interpret seismic data,1
+"Stamford, CT",public relations,1
+"Stamford, CT",interact with users to gather requirements,1
+"Stamford, CT",engage with stakeholders,1
+"Stamford, CT",write technical reports,1
+"McLean, VA",business analysis,1
+"McLean, VA",lead others,1
+"McLean, VA",data models,1
+"McLean, VA",risk management,1
+"McLean, VA",marketing analytics,1
+"McLean, VA",develop tourism products,1
+"McLean, VA",pricing strategies,1
+"McLean, VA",database management systems,1
+"McLean, VA",define data quality criteria,1
+"McLean, VA",data visualisation software,1
+"McLean, VA",use computer telephony integration,1
+"McLean, VA",make decisions,1
+"McLean, VA",solve problems,1
+"McLean, VA",think holistically,1
+"McLean, VA",demonstrate leadership in social service cases,1
+"McLean, VA",communication,1
+"McLean, VA",simplify communication in maritime management,1
+"McLean, VA",supervise work on design planning,1
+"McLean, VA",use personal organization software,1
+"McLean, VA",social innovation,1
+"McLean, VA",show initiative,1
+"McLean, VA",provide self management support,1
+"McLean, VA",accept own accountability,1
+"McLean, VA",mergers and acquisitions,1
+"McLean, VA",demonstrate professional Pilates attitude,1
+"McLean, VA",ensure client orientation,1
+"McLean, VA",teach communication to clients,1
+"McLean, VA",conflict management,1
+"McLean, VA",have emotional intelligence,1
+"McLean, VA",listen actively,1
+"McLean, VA",ICT networking hardware,1
+"McLean, VA",write technical reports,1
+"McLean, VA",radiotherapy,1
+"Mountain View, CA",Groovy,1
+"Mountain View, CA",think creatively,1
+"Mountain View, CA",deploy cloud resource,1
+"Mountain View, CA",human-robot collaboration,1
+"Mountain View, CA",principles of artificial intelligence,1
+"Mountain View, CA",machine learning,1
+"Mountain View, CA",Distributed Systems,1
+"Mountain View, CA",High Performance Computing,1
+"Mountain View, CA",cloud technologies,1
+"Mountain View, CA",manage ICT virtualisation environments,1
+"Mountain View, CA",Microservices,1
+"Mountain View, CA",Scala,1
+"Mountain View, CA",Fault Tolerance,1
+"Mountain View, CA",Code Optimization,1
+"Mountain View, CA",Performance Optimization,1
+"Tampa, FL",project management,1
+"Tampa, FL",design management,1
+"Tampa, FL",solve problems,1
+"Tampa, FL",control compliance of railway vehicles regulations,1
+"Tampa, FL",evaluate project plans,1
+"Tampa, FL",engage with stakeholders,1
+"Tampa, FL",show diplomacy,1
+"Tampa, FL",demonstrate leadership in social service cases,1
+"Tampa, FL",manage drilling team,1
+"Tampa, FL",liaise with quality assurance,1
+"Tampa, FL",augmented reality,1
+"Tampa, FL",solar energy,1
+"Tampa, FL",policy analysis,1
+"Tampa, FL",integrated development environment software,1
+"Tampa, FL",metrology,1
+"Tampa, FL",rhetoric,1
+"Tampa, FL",plan resource allocation,1
+"Tampa, FL",make decisions,1
+"Tampa, FL",reputation management,1
+"Tampa, FL",security of assets legislation,1
+"Tampa, FL",ensure compliance with policies,1
+"Tampa, FL",accept own accountability,1
+"Chicago, IL",statistics,1
+"Chicago, IL",Dataset Manipulation,1
+"Chicago, IL",data visualisation software,1
+"Chicago, IL",Microsoft Excel,1
+"Chicago, IL",business analysis,1
+"Chicago, IL",management consulting,1
+"Chicago, IL",offer financial services,1
+"Chicago, IL",analyse own performance,1
+"Chicago, IL",operational research,1
+"Chicago, IL",identify process improvements,1
+"Chicago, IL",engage with stakeholders,1
+"Chicago, IL",communication,1
+"Chicago, IL",human-robot collaboration,1
+"Chicago, IL",solve problems,1
+"Chicago, IL",develop strategy to solve problems,1
+"Chicago, IL",make data-driven decisions,1
+United States,process data,1
+United States,think critically,1
+"Houston, TX",think creatively,1
+"Houston, TX",hardware testing methods,1
+"Houston, TX",business requirements techniques,1
+"Houston, TX",system design,1
+"Houston, TX",manage system testing,1
+"Houston, TX",project management,1
+"Houston, TX",data models,1
+"Houston, TX",provide user documentation,1
+"Houston, TX",System Integration,1
+"Houston, TX",continuous improvement philosophies,1
+"Houston, TX",lean manufacturing,1
+"Ocala, FL",Microsoft Dynamics 365 Finance and Operations,1
+"Ocala, FL",create business process models,1
+"Ocala, FL",integrate system components,1
+"Ocala, FL",manage system testing,1
+"Ocala, FL",geographic information systems,1
+"Ocala, FL",business analysis,1
+"Ocala, FL",interact with users to gather requirements,1
+"Ocala, FL",tools for software configuration management,1
+"Ocala, FL",project management,1
+"Ocala, FL",ICT software specifications,1
+"Ocala, FL",implement corporate governance,1
+"Ocala, FL",comply with legal regulations,1
+"Ocala, FL",statistics,1
+"Ocala, FL",apply basic programming skills,1
+"Ocala, FL",Network Operations,1
+"Ocala, FL",computer programming,1
+"Ocala, FL",maintain information network hardware,1
+"Ocala, FL",R,1
+"Ocala, FL",IPC standards,1
+United States,business knowledge,1
+United States,data mining,1
+United States,root cause analysis,1
+United States,develop campaigns,1
+United States,make decisions,1
+United States,Workflow Management,1
+"Tampa, FL",principles of artificial intelligence,1
+"Tampa, FL",machine learning,1
+"Tampa, FL",computer simulation,1
+"Tampa, FL",lead process optimisation,1
+"Tampa, FL",database management systems,1
+"Tampa, FL",web programming,1
+"Tampa, FL",use computer telephony integration,1
+"Tampa, FL",data science,1
+"Tampa, FL",natural language processing,1
+"Tampa, FL",Unsupervised Learning,1
+United States,business analysis,1
+United States,seismic measurement techniques,1
+United States,ski,1
+United States,simplify communication in maritime management,1
+"Middletown, PA",framework for a safety management system,1
+"Middletown, PA",Requirements Elicitation,1
+"Middletown, PA",develop business case,1
+"Middletown, PA",social development,1
+"Middletown, PA",ICT project management methodologies,1
+"Middletown, PA",plan,1
+"Middletown, PA",risk management,1
+"Middletown, PA",manage currency exchange risk mitigation techniques,1
+"Middletown, PA",business analysis,1
+"Middletown, PA",interact with users to gather requirements,1
+"Middletown, PA",liaise with quality assurance,1
+"Auburn, AL",integrated development environment software,1
+"Auburn, AL",types of tidal stream generators,1
+"Auburn, AL",transportation software related to an ERP system,1
+"Auburn, AL",System Performance Optimization,1
+"Auburn, AL",advise on efficiency improvements,1
+"Auburn, AL",ICT project management,1
+"Auburn, AL",interact with users to gather requirements,1
+"Auburn, AL",plan,1
+"Auburn, AL",verify feasibility,1
+"Auburn, AL",conduct patch testing,1
+"Auburn, AL",documentation types,1
+"Addison, TX",business analysis,1
+"Addison, TX",interact with users to gather requirements,1
+"Addison, TX",use computer telephony integration,1
+"Addison, TX",validation of learning acquired through volunteering,1
+"Addison, TX",project management,1
+"Addison, TX",risk management,1
+"Addison, TX",engage with stakeholders,1
+"Addison, TX",rhetoric,1
+"Addison, TX",ICT project management methodologies,1
+"Foster City, CA",business analysis,1
+"Foster City, CA",cost management,1
+"Foster City, CA",statistics,1
+"Foster City, CA",natural gas,1
+"Foster City, CA",Source (digital game creation systems),1
+"Foster City, CA",cloud technologies,1
+"Foster City, CA",IT Service Management,1
+"Centreville, VA",statistics,1
+"Centreville, VA",recommend product improvements,1
+"Centreville, VA",analyse business requirements,1
+"Centreville, VA",identify process improvements,1
+"Centreville, VA",project management,1
+"Centreville, VA",engage with stakeholders,1
+"Centreville, VA",data mining,1
+"Centreville, VA",interpret seismic data,1
+"Centreville, VA",estimate repair priority,1
+"Centreville, VA",Requirements Elicitation,1
+"Centreville, VA",Agile development,1
+"Centreville, VA",marketing mix,1
+"St Petersburg, FL",statistics,1
+"St Petersburg, FL",SAS Data Management,1
+"St Petersburg, FL",process data,1
+"St Petersburg, FL",data visualisation software,1
+"St Petersburg, FL",semiconductors,1
+"St Petersburg, FL",human resource management,1
+"St Petersburg, FL",manage truck drivers,1
+"St Petersburg, FL",talent management strategies,1
+"St Petersburg, FL",assess your competences for artistic coaching,1
+"St Petersburg, FL",supervision of persons,1
+"St Petersburg, FL",project management,1
+"St Petersburg, FL",grading systems,1
+"St Petersburg, FL",monitor curriculum implementation,1
+"St Petersburg, FL",Data Governance,1
+"St Petersburg, FL",business intelligence,1
+"Alameda, CA",data models,1
+"Alameda, CA",data engineering,1
+"Alameda, CA",manage standards for data exchange,1
+"Alameda, CA",statistics,1
+"Alameda, CA",sing,1
+"Alameda, CA",natural gas,1
+"Alameda, CA",use computer telephony integration,1
+"Alameda, CA",data visualisation software,1
+"Alameda, CA",principles of artificial intelligence,1
+"Alameda, CA",machine learning,1
+"Alameda, CA",Generative AI,1
+"Alameda, CA",radiotherapy,1
+"Alameda, CA",Data Standardization,1
+"Alameda, CA",identify process improvements,1
+"Alameda, CA",building automation,1
+"Alameda, CA",Data Governance,1
+"Alameda, CA",Data Lineage,1
+"Alameda, CA",solar energy,1
+"Alameda, CA",mobile operating systems,1
+"Alameda, CA",project management,1
+"Alameda, CA",supply chain management,1
+"Alameda, CA",operations management,1
+"Merrimack, NH",business analysis,1
+"Merrimack, NH",statistics,1
+"Merrimack, NH",improve rail service delivery,1
+"Merrimack, NH",IT Service Management,1
+"Merrimack, NH",project management,1
+"Merrimack, NH",define data quality criteria,1
+"Merrimack, NH",computer programming,1
+"Truckee, CA",machine learning,1
+"Truckee, CA",principles of artificial intelligence,1
+"Truckee, CA",data engineering,1
+"Truckee, CA",natural gas,1
+"Truckee, CA",information architecture,1
+"Truckee, CA",radiotherapy,1
+"Truckee, CA",SQL,1
+"Truckee, CA",database,1
+"Truckee, CA",conduct patch testing,1
+"Truckee, CA",CI/CD,1
+"Truckee, CA",conduct ICT code review,1
+"Truckee, CA",ICT project management methodologies,1
+"Truckee, CA",rhetoric,1
+"Truckee, CA",process data,1
+"Truckee, CA",AI Model Development,1
+"Truckee, CA",AI Model Deployment,1
+"Truckee, CA",AI Performance Optimization,1
+"Truckee, CA",Scala,1
+"Tampa, FL",analyse pipeline database information,1
+"Tampa, FL",Data Flow Automation,1
+"Tampa, FL",Infrastructure as a Service,1
+"Tampa, FL",Platform as a Service,1
+"Tampa, FL",SQL Server,1
+"Tampa, FL",database development tools,1
+"Tampa, FL",manage data,1
+"Tampa, FL",assess reliability of data,1
+"Tampa, FL",apply information security policies,1
+"Tampa, FL",reverse engineering,1
+"Tampa, FL",Jenkins (tools for software configuration management),1
+Dallas-Fort Worth Metroplex,reverse engineering,1
+Dallas-Fort Worth Metroplex,SQL Server,1
+Dallas-Fort Worth Metroplex,"data extraction, transformation and loading tools",1
+Dallas-Fort Worth Metroplex,Python,1
+Dallas-Fort Worth Metroplex,Scala,1
+Dallas-Fort Worth Metroplex,Pandas,1
+Dallas-Fort Worth Metroplex,NumPy,1
+Dallas-Fort Worth Metroplex,integrated circuits,1
+Dallas-Fort Worth Metroplex,Apache Kafka,1
+Dallas-Fort Worth Metroplex,augmented reality,1
+Dallas-Fort Worth Metroplex,Domino Data Lab,1
+Dallas-Fort Worth Metroplex,Salesforce Marketing Cloud,1
+Dallas-Fort Worth Metroplex,customer relationship management,1
+Dallas-Fort Worth Metroplex,Snowflake,1
+Dallas-Fort Worth Metroplex,dbt,1
+Dallas-Fort Worth Metroplex,stitch paper materials,1
+Dallas-Fort Worth Metroplex,Tableau,1
+Dallas-Fort Worth Metroplex,Apache Airflow,1
+Dallas-Fort Worth Metroplex,Git,1
+Dallas-Fort Worth Metroplex,CI/CD,1
+"Brentwood, TN",SQL,1
+"Princeton, NJ",natural gas,1
+"Princeton, NJ",data mining,1
+"Princeton, NJ",visual presentation techniques,1
+"Princeton, NJ",deep learning,1
+"Princeton, NJ",SQL,1
+"Princeton, NJ",Amazon Web Services,1
+"Warrendale, PA",machine learning,1
+"Warrendale, PA",data engineering,1
+"Warrendale, PA",database,1
+"Warrendale, PA",Databricks,1
+"Warrendale, PA",Python,1
+"Warrendale, PA",TensorFlow,1
+"Warrendale, PA",PyTorch,1
+"Warrendale, PA",Scikit-learn,1
+"Warrendale, PA",Git,1
+"Warrendale, PA",CI/CD,1
+"Warrendale, PA",Docker,1
+"Warrendale, PA",Kubernetes,1
+"Warrendale, PA",Neo4j,1
+"Warrendale, PA",algorithms,1
+"Warrendale, PA",data models,1
+"Philadelphia, PA",Databricks,1
+"Philadelphia, PA",Microsoft Azure,1
+"Philadelphia, PA",Unity (digital game creation systems),1
+"Philadelphia, PA","data extraction, transformation and loading tools",1
+"Philadelphia, PA",apply information security policies,1
+"Philadelphia, PA",Power BI,1
+"Philadelphia, PA",create prototype of user experience solutions,1
+"Philadelphia, PA",Generative AI,1
+"Philadelphia, PA",DataOps,1
+"Philadelphia, PA",Data Governance,1
+"Houston, TX",principles of artificial intelligence,1
+"Houston, TX",data engineering,1
+"Milwaukee, WI",SAP Data Services,1
+"Milwaukee, WI",computer programming,1
+"Atlanta, GA",Amazon DynamoDB,1
+"Atlanta, GA",Azure Cosmos DB,1
+"Atlanta, GA",Oracle Warehouse Builder,1
+"Atlanta, GA",MySQL,1
+"Atlanta, GA","data extraction, transformation and loading tools",1
+"Atlanta, GA",AWS Lambda,1
+"Atlanta, GA",Google Cloud Dataflow,1
+"Atlanta, GA",Azure Data Factory,1
+"Atlanta, GA",Apache Spark,1
+"Atlanta, GA",SPARK,1
+"New York, NY",teach secondary education class content,1
+"New York, NY",Amazon Web Services,1
+"New York, NY",H2O.ai,1
+"New York, NY",Source (digital game creation systems),1
+"New York, NY",debt classification,1
+"New York, NY",Sentiment Analysis,1
+"New York, NY",Time Series Analysis,1
+"New York, NY",deep learning,1
+"New York, NY",database,1
+"Houston, TX",Microsoft Excel,1
+"Houston, TX",accounting,1
+Greater Chicago Area,systems development life-cycle,1
+Greater Chicago Area,business ICT systems,1
+Greater Chicago Area,public relations,1
+"Colorado Springs, CO",Python,1
+"Colorado Springs, CO",R,1
+"Colorado Springs, CO",SQL,1
+"Colorado Springs, CO",HiveQL,1
+"Colorado Springs, CO",NoSQL,1
+"Colorado Springs, CO",JSON,1
+"Colorado Springs, CO",XML,1
+"Colorado Springs, CO",machine learning,1
+"Colorado Springs, CO",statistics,1
+"Colorado Springs, CO",principles of artificial intelligence,1
+"Colorado Springs, CO",natural language processing,1
+"Madison, WI",GATK,1
+"Madison, WI",business intelligence,1
+"Madison, WI",SOAP,1
+"Madison, WI",Galaxy,1
+"Madison, WI",sand blasting machine parts,1
+"Madison, WI",Perl,1
+"Madison, WI",Python,1
+"Madison, WI",computer programming,1
+"Madison, WI",MySQL,1
+"Madison, WI",SQL Server,1
+"Madison, WI",Oracle Warehouse Builder,1
+"Madison, WI",PostgreSQL,1
+"Madison, WI",create prototype of user experience solutions,1
+"Madison, WI",natural gas,1
+"Atlanta, GA",manage athletes,1
+"Atlanta, GA",database,1
+"Atlanta, GA",web services,1
+"Atlanta, GA",Web API,1
+"Atlanta, GA",select soap shaping plate,1
+"Atlanta, GA",JavaScript,1
+"Atlanta, GA",HTTP,1
+"Atlanta, GA",Client-Server Architecture,1
+"New York, NY",Java (computer programming),1
+"New York, NY",Scikit-learn,1
+"New York, NY",PyTorch,1
+"New York, NY",Dask,1
+"New York, NY",TensorFlow,1
+"Frisco, TX",reverse engineering,1
+"Frisco, TX",search engines,1
+"San Francisco, CA",Java (computer programming),1
+"San Francisco, CA",C++,1
+"San Francisco, CA",PyTorch,1
+"San Francisco, CA",TensorFlow,1
+"San Francisco, CA",ML (computer programming),1
+"San Francisco, CA",machine learning,1
+"San Francisco, CA",natural language processing,1
+"San Francisco, CA",Graph Analytics,1
+"Denver, CO",SQL,1
+"Denver, CO",Microsoft Excel,1
+United States,Adobe Experience Platform,1
+United States,glue film reels,1
+United States,AWS Lambda,1
+United States,"data extraction, transformation and loading tools",1
+United States,PostgreSQL,1
+"Santa Clara, CA",Python,1
+"Santa Clara, CA",JavaScript,1
+"Santa Clara, CA",manage athletes,1
+"Santa Clara, CA",C++,1
+"Santa Clara, CA",C#,1
+"Santa Clara, CA",SQL,1
+"Downers Grove, IL",business analysis,1
+"Downers Grove, IL",interact with users to gather requirements,1
+"Downers Grove, IL",write specifications,1
+"Downers Grove, IL",plan,1
+"Downers Grove, IL",Workflow Analysis,1
+"Downers Grove, IL",computer programming,1
+"Downers Grove, IL",statistics,1
+"Downers Grove, IL",business processes,1
+"Downers Grove, IL",project management,1
+"Durham, NC",statistics,1
+"Durham, NC",Data Manipulation,1
+"Durham, NC",smart contract programming languages,1
+"Durham, NC",SAS,1
+"North Carolina, United States",machine learning,1
+"North Carolina, United States",natural language processing,1
+"North Carolina, United States",Generative AI,1
+"North Carolina, United States",Microservices,1
+"North Carolina, United States",C#,1
+"North Carolina, United States",types of tidal stream generators,1
+"North Carolina, United States",reverse engineering,1
+"North Carolina, United States",Cloud Platform,1
+"North Carolina, United States",Python,1
+"North Carolina, United States",statistics,1
+"Boston, MA",Python,1
+"Boston, MA",SQL,1
+"Boston, MA",radiotherapy,1
+"Boston, MA",data models,1
+"Boston, MA",natural gas,1
+"Boston, MA",data visualisation software,1
+"Atlanta, GA",SAS Data Management,1
+"Atlanta, GA",data analytics,1
+"Atlanta, GA",data engineering,1
+"Atlanta, GA",cloud technologies,1
+"Atlanta, GA",Snowflake,1
+"Atlanta, GA",Application Performance Monitoring,1
+"Tampa, FL","data extraction, transformation and loading tools",1
+"Tampa, FL",learning management systems,1
+"Tampa, FL",Python,1
+"Tampa, FL",Relational Database,1
+"Tampa, FL",NoSQL Database,1
+"Tampa, FL",iron textiles,1
+"Reston, VA",machine learning,1
+"Reston, VA",lead process optimisation,1
+"Reston, VA",computer science,1
+"Reston, VA",design application interfaces,1
+"Columbus, OH",Python,1
+"Columbus, OH",SAS,1
+"Columbus, OH",computer programming,1
+"Columbus, OH",integrated circuits,1
+"Columbus, OH",Tableau,1
+"Columbus, OH",Tableau Server,1
+"Columbus, OH",SAS Enterprise Guide,1
+"Columbus, OH",Java (computer programming),1
+"Columbus, OH",C++,1
+"Columbus, OH",manage athletes,1
+"Columbus, OH",CSS,1
+"Columbus, OH",Perl,1
+"Columbus, OH",JavaScript,1
+"Des Moines, IA",ICT project management methodologies,1
+"Des Moines, IA",computer technology,1
+"Des Moines, IA",Jira,1
+"Des Moines, IA",use online tools to collaborate,1
+"Richardson, TX",Microsoft Access,1
+"Richardson, TX",Microsoft Excel,1
+"Richardson, TX",Power BI,1
+"Richardson, TX",develop statistical software,1
+"New York, NY",Data Manipulation,1
+"New York, NY",data models,1
+"New York, NY",statistical modeling techniques,1
+"New York, NY",data mining,1
+"Auburn Hills, MI",Python,1
+"Auburn Hills, MI",statistical modeling techniques,1
+"Auburn Hills, MI",use computer telephony integration,1
+"Auburn Hills, MI",data mining,1
+"Auburn Hills, MI",database management systems,1
+"Auburn Hills, MI",SQL,1
+"Auburn Hills, MI",computer programming,1
+"Auburn Hills, MI",pharmacognosy,1
+"San Antonio, TX",reverse engineering,1
+"San Antonio, TX",Azure Data Lake Storage,1
+"San Antonio, TX",Oracle Application Development Framework,1
+"San Antonio, TX",Azure Synapse,1
+"San Antonio, TX",logic,1
+"San Antonio, TX",Azure Event Hub,1
+"San Antonio, TX",Python,1
+"San Antonio, TX",R,1
+"San Antonio, TX",SQL,1
+"Brownsville, TX",search engines,1
+United States,Metabase,1
+"Austin, TX",machine learning,1
+"Austin, TX",data engineering,1
+"Austin, TX",algorithms,1
+"Austin, TX",Apache Spark,1
+"Austin, TX",ML (computer programming),1
+"Austin, TX",Graph Theory,1
+"Florham Park, NJ",Power BI,1
+"Florham Park, NJ",SQL,1
+"Florham Park, NJ",Python,1
+"Florham Park, NJ",Apache Spark,1
+"Florham Park, NJ",DAX,1
+"Florham Park, NJ",data models,1
+"Florham Park, NJ",data visualisation software,1
+"Austin, TX",Data Manipulation,1
+"Austin, TX",computer programming,1
+"New York, NY","data extraction, transformation and loading tools",1
+"New York, NY",Oracle DRM,1
+"New York, NY",SAP Data Services,1
+"New York, NY",learning management systems,1
+"New York, NY",Oracle Essbase,1
+"California, United States",computer programming,1
+"California, United States",machine learning,1
+"California, United States",artificial neural networks,1
+"California, United States",deep learning,1
+"California, United States",Python,1
+"California, United States",TensorFlow,1
+"California, United States",PyTorch,1
+"California, United States",Java (computer programming),1
+"California, United States",C++,1
+"California, United States",learning management systems,1
+"California, United States",natural language processing,1
+"California, United States",computer vision,1
+"Fairfax, VA",Jira,1
+"Fairfax, VA",use online tools to collaborate,1
+"Fairfax, VA",ICT project management methodologies,1
+United States,Oracle Data Integrator,1
+United States,ML (computer programming),1
+United States,create prototype of user experience solutions,1
+United States,Cloud Platform,1
+United States,social work theory,1
+United States,Microsoft Azure,1
+United States,DevOps,1
+"Milpitas, CA",Oracle E-Business Suite,1
+"Milpitas, CA",economics,1
+"Milpitas, CA",supply chain management,1
+"Cincinnati, OH",computer programming,1
+"Charlotte, NC",SAP Data Services,1
+"Charlotte, NC",SAP R3,1
+"Charlotte, NC",radiotherapy,1
+"Charlotte, NC",data engineering,1
+"Charlotte, NC",SQL,1
+"Charlotte, NC",Snowflake,1
+"Charlotte, NC",IBM InfoSphere DataStage,1
+"Woodbridge, NJ",use computer telephony integration,1
+"Woodbridge, NJ",data mining,1
+"Woodbridge, NJ",Nonlinear Regression,1
+"Woodbridge, NJ",Multivariate Analysis,1
+"Woodbridge, NJ",Bayesian Statistics,1
+"Woodbridge, NJ",Generalized Linear Models,1
+"Woodbridge, NJ",computer programming,1
+"Woodbridge, NJ",SAS,1
+"Woodbridge, NJ",SQL,1
+"Woodbridge, NJ",R,1
+"Woodbridge, NJ",Python,1
+"New York, NY",electronics,1
+"New Jersey, United States",SQL,1
+"New Jersey, United States",R,1
+"New Jersey, United States",Apache Hadoop,1
+"Basking Ridge, NJ",logic,1
+"Basking Ridge, NJ",data visualisation software,1
+"Basking Ridge, NJ",database management systems,1
+"Basking Ridge, NJ",computer programming,1
+"Basking Ridge, NJ",sing,1
+"Basking Ridge, NJ",ICT project management methodologies,1
+"Basking Ridge, NJ",computer technology,1
+"Basking Ridge, NJ",Microsoft Office,1
+"Anchorage, AK",Python,1
+"Anchorage, AK",C++,1
+"Anchorage, AK",Java (computer programming),1
+"Anchorage, AK",SQL,1
+"Anchorage, AK",Perl,1
+"Anchorage, AK",data visualisation software,1
+"Anchorage, AK",Microsoft Excel,1
+"Anchorage, AK",Power BI,1
+"Anchorage, AK",DevOps,1
+"Anchorage, AK",Infrastructure as Code,1
+"Dallas, TX",cloud technologies,1
+"Dallas, TX",data engineering,1
+"Dallas, TX",Image Processing,1
+"Dallas, TX",Edge Computing,1
+"Dallas, TX",data quality assessment,1
+"Dallas, TX",Performance Optimization,1
+"Dallas, TX",think creatively,1
+"Dallas, TX",database,1
+"Dallas, TX",DevOps,1
+"Dallas, TX",CI/CD,1
+"Dallas, TX",Docker,1
+"Phoenix, AZ",SQL,1
+"Phoenix, AZ",SAS,1
+"Phoenix, AZ",business intelligence,1
+"Phoenix, AZ",Python,1
+"Phoenix, AZ",artificial neural networks,1
+"Phoenix, AZ",data mining,1
+"Phoenix, AZ",Microsoft Excel,1
+"Phoenix, AZ",statistics,1
+"Phoenix, AZ",data visualisation software,1
+"Irvine, CA",Python,1
+"Irvine, CA",SQL Server Integration Services,1
+"Irvine, CA",DAX,1
+"Irvine, CA",apply statistical analysis techniques,1
+"Irvine, CA",SQL Server,1
+"Irvine, CA",Oracle Warehouse Builder,1
+"Irvine, CA",Microsoft Excel,1
+"Irvine, CA",Azure Data Factory,1
+"Memphis, TN",R,1
+"Memphis, TN",Power BI,1
+Greater Chicago Area,statistics,1
+Greater Chicago Area,machine learning,1
+Greater Chicago Area,principles of artificial intelligence,1
+Greater Chicago Area,mathematical modelling,1
+Greater Chicago Area,Python,1
+Greater Chicago Area,C++,1
+United States,Chatbots,1
+United States,learning management systems,1
+United States,Retrieval-Augmented Generation,1
+United States,TensorFlow,1
+United States,REST API,1
+United States,database management systems,1
+United States,Git,1
+United States,Jupyter Notebook,1
+United States,conduct patch testing,1
+United States,distributed ledger technology,1
+United States,cryptocurrency,1
