@@ -53,7 +53,7 @@ ANNOTATOR = "Charan N"
 # LLM Configuration
 # -------------------------------------------------------
 
-MODEL_NAME = "llama-3.1-8b-instant"
+MODEL_NAME = "llama-3.3-70b-versatile"
 
 TEMPERATURE = 0
 
