@@ -53,7 +53,7 @@ ANNOTATOR = "Charan N"
 # LLM Configuration
 # -------------------------------------------------------
 
-MODEL_NAME = "llama-3.3-70b-versatile"
+MODEL_NAME = MODEL_NAME = "openai/gpt-oss-120b"git add src/config/settings.py
 
 TEMPERATURE = 0
 
