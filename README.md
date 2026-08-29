@@ -43,7 +43,7 @@ The overall objective is to bridge the gap between **unstructured recruitment da
 
 ---
 
-# 🎯 Problem Statement
+#  Problem Statement
 
 Modern job postings contain valuable information about job roles, responsibilities, qualifications, experience, technologies, tools, certifications, and required skills.
 
@@ -81,7 +81,7 @@ Machine Learning
 Evaluation & Explainability
           ↓
 Business Intelligence
-🎯 Project Objectives
+ Project Objectives
 
 The project is designed to:
 
