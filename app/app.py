@@ -11,6 +11,7 @@ PGDBA Capstone Project
 
 import sys
 import json
+import hashlib
 from pathlib import Path
 
 # --------------------------------------------------------
@@ -38,9 +39,6 @@ from src.ml.predict_job_role import JobRolePredictor
 from src.career.skill_gap import SkillGapEngine
 from database.db import DatabaseManager
 
-import database.db
-
-
 # --------------------------------------------------------
 # Components
 # --------------------------------------------------------
@@ -57,9 +55,10 @@ from components.explainable_ai import render_explainable_ai
 from components.dashboard import render_dashboard
 from components.history import render_history
 
-# --------------------------------------------------------
-# Page Configuration
-# --------------------------------------------------------
+
+# ========================================================
+# PAGE CONFIGURATION
+# ========================================================
 
 st.set_page_config(
     page_title="AI Job Posting Analyzer",
@@ -68,9 +67,10 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# --------------------------------------------------------
-# Load Backend
-# --------------------------------------------------------
+
+# ========================================================
+# LOAD BACKEND
+# ========================================================
 
 @st.cache_resource
 def load_backend():
@@ -96,8 +96,9 @@ def load_backend():
 
 extractor, normalizer, predictor, skill_gap, database = load_backend()
 
+
 # ========================================================
-# UI
+# USER INTERFACE
 # ========================================================
 
 render_sidebar()
@@ -111,141 +112,272 @@ render_header()
 
 analyze_button, job_description = render_input_panel()
 
+
 # ========================================================
-# AI Pipeline
+# AI PIPELINE
 # ========================================================
 
 if analyze_button:
 
+    # ----------------------------------------------------
+    # Validate Input
+    # ----------------------------------------------------
+
     if not job_description.strip():
 
-        st.warning("Please paste a job description.")
+        st.warning(
+            "Please paste a job description."
+        )
 
     else:
 
-        with st.spinner("Analyzing Job Description..."):
+        try:
 
-            # ------------------------------------------------
-            # AI Skill Extraction
-            # ------------------------------------------------
+            with st.spinner(
+                "Analyzing Job Description..."
+            ):
 
-            extracted = extractor.extract(
-                job_id="streamlit_demo",
-                description=job_description
+                # =================================================
+                # 1. AI SKILL EXTRACTION
+                # =================================================
+
+                # Create a unique job ID from the actual
+                # job description.
+                #
+                # This prevents an old cached
+                # "streamlit_demo" result from being reused.
+
+                analysis_job_id = (
+                    "streamlit_demo_"
+                    + hashlib.sha256(
+                        job_description.encode("utf-8")
+                    ).hexdigest()[:12]
+                )
+
+                extracted = extractor.extract(
+                    job_id=analysis_job_id,
+                    description=job_description
+                )
+
+
+                # -------------------------------------------------
+                # DEBUG 1
+                # -------------------------------------------------
+
+                if developer_mode:
+
+                    st.subheader(
+                        "DEBUG 1 - Raw Extractor Output"
+                    )
+
+                    st.json(extracted)
+
+
+                # =================================================
+                # 2. CHECK EXTRACTION
+                # =================================================
+
+                extracted_skill_count = (
+                    len(
+                        extracted.get(
+                            "technical_skills",
+                            []
+                        )
+                    )
+                    +
+                    len(
+                        extracted.get(
+                            "tools",
+                            []
+                        )
+                    )
+                    +
+                    len(
+                        extracted.get(
+                            "soft_skills",
+                            []
+                        )
+                    )
+                    +
+                    len(
+                        extracted.get(
+                            "certifications",
+                            []
+                        )
+                    )
+                )
+
+
+                if extracted_skill_count == 0:
+
+                    st.error(
+                        "The AI extraction returned no skills. "
+                        "Please check the Groq API/model configuration."
+                    )
+
+                    if developer_mode:
+
+                        st.warning(
+                            "DEBUG: Extraction completed, "
+                            "but all skill lists are empty."
+                        )
+
+                    st.stop()
+
+
+                # =================================================
+                # 3. SKILL NORMALIZATION
+                # =================================================
+
+                normalized = normalizer.normalize_job(
+                    extracted
+                )
+
+
+                # -------------------------------------------------
+                # DEBUG 2
+                # -------------------------------------------------
+
+                if developer_mode:
+
+                    st.subheader(
+                        "DEBUG 2 - Normalized Output"
+                    )
+
+                    st.json(normalized)
+
+
+                # =================================================
+                # 4. COMBINE TECHNICAL + TOOLS
+                # =================================================
+
+                technical_skills = normalized.get(
+                    "technical_skills",
+                    []
+                )
+
+                tools_normalized = normalized.get(
+                    "tools_normalized",
+                    []
+                )
+
+                all_skills = (
+                    technical_skills
+                    + tools_normalized
+                )
+
+
+                # -------------------------------------------------
+                # DEBUG 3
+                # -------------------------------------------------
+
+                if developer_mode:
+
+                    st.subheader(
+                        "DEBUG 3 - Skills Sent to ML"
+                    )
+
+                    st.json(all_skills)
+
+
+                # =================================================
+                # 5. MACHINE LEARNING PREDICTION
+                # =================================================
+
+                prediction = predictor.predict(
+                    all_skills
+                )
+
+
+                # =================================================
+                # 6. TOP PREDICTIONS
+                # =================================================
+
+                top_predictions = (
+                    predictor.predict_top_n(
+                        all_skills
+                    )
+                )
+
+
+                # =================================================
+                # 7. SKILL GAP ANALYSIS
+                # =================================================
+
+                skill_gap_result = skill_gap.analyze(
+                    prediction["predicted_role"],
+                    all_skills
+                )
+
+
+            # =====================================================
+            # DISPLAY SUCCESS
+            # =====================================================
+
+            st.success(
+                "Analysis Completed Successfully!"
             )
 
-            # ------------------------------------------------
-            # DEBUG 1
-            # ------------------------------------------------
 
-            if developer_mode:
-
-             st.subheader("DEBUG 1 - Raw Extractor Output")
-             st.json(extracted)
-
-            # ------------------------------------------------
-            # Skill Normalization
-            # ------------------------------------------------
-
-            normalized = normalizer.normalize_job(
-                extracted
-            )
-
-            # ------------------------------------------------
-            # DEBUG 2
-            # ------------------------------------------------
-
-            if developer_mode:
-
-             st.subheader("DEBUG 2 - Normalized Output")
-             st.json(normalized)
-
-            # ------------------------------------------------
-            # Combine Skills for ML / Skill Gap
-            #
-            # `technical_skills` alone was missing every skill the
-            # extractor put under `tools` (Python, SQL, Power BI,
-            # Tableau, Excel, Azure, ...). Those never reached the ML
-            # model or the skill-gap engine, so they showed up as
-            # "missing skills" even when clearly present in the job
-            # posting. `normalized["tools_normalized"]` now carries
-            # those same tools through ConfidenceEngine in the same
-            # {original, normalized, skill_type, ...} shape as
-            # technical_skills, so we merge both lists into one
-            # complete picture before anything downstream uses it.
-            # ------------------------------------------------
-
-            all_skills = (
-                normalized["technical_skills"]
-                + normalized["tools_normalized"]
-            )
-
-            # ------------------------------------------------
-            # Machine Learning Prediction
-            # ------------------------------------------------
-
-            prediction = predictor.predict(
-                all_skills
-            )
-
-            # ------------------------------------------------
-            # DEBUG 3
-            # ------------------------------------------------
-
-            if developer_mode:
-
-             st.subheader("DEBUG 3 - Skills Sent to ML")
-             st.json(all_skills)
-
-            # ------------------------------------------------
-            # Top Predictions
-            # ------------------------------------------------
-
-            top_predictions = predictor.predict_top_n(
-                all_skills
-            )
-
-            # ------------------------------------------------
-            # Skill Gap Analysis
-            # ------------------------------------------------
-
-            skill_gap_result = skill_gap.analyze(
-                prediction["predicted_role"],
-                all_skills
-            )
-
-            # ------------------------------------------------
-            # Results
-            # ------------------------------------------------
+            # =====================================================
+            # RESULTS
+            # =====================================================
 
             render_results(
                 normalized
             )
+
+
+            # =====================================================
+            # ROLE PREDICTION
+            # =====================================================
 
             render_prediction(
                 prediction,
                 top_predictions
             )
 
+
+            # =====================================================
+            # SKILL GAP
+            # =====================================================
+
             render_skill_gap(
                 skill_gap_result
             )
+
+
+            # =====================================================
+            # EXPLAINABLE AI
+            # =====================================================
 
             render_explainable_ai(
                 prediction,
                 normalized
             )
 
+
+            # =====================================================
+            # DASHBOARD
+            # =====================================================
+
             render_dashboard(
                 normalized
             )
 
-            render_history(database)
+
+            # =====================================================
+            # HISTORY
+            # =====================================================
+
+            render_history(
+                database
+            )
 
 
-            # ------------------------------------------------
-            # Save Analysis to Database
-            # ------------------------------------------------
+            # =====================================================
+            # SAVE TO DATABASE
+            # =====================================================
 
             database.execute(
 
@@ -266,34 +398,69 @@ if analyze_button:
                 )
 
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-
                 """,
 
                 (
 
-                    prediction["predicted_role"],
+                    prediction.get(
+                        "predicted_role"
+                    ),
 
-                    prediction["confidence"],
+                    prediction.get(
+                        "confidence"
+                    ),
 
-                    normalized.get("education"),
+                    normalized.get(
+                        "education"
+                    ),
 
-                    normalized.get("experience"),
+                    normalized.get(
+                        "experience"
+                    ),
 
-                    json.dumps(extracted.get("technical_skills", [])),
+                    json.dumps(
+                        extracted.get(
+                            "technical_skills",
+                            []
+                        )
+                    ),
 
-                    json.dumps(all_skills),
+                    json.dumps(
+                        all_skills
+                    ),
 
-                    json.dumps(extracted.get("tools", [])),
+                    json.dumps(
+                        extracted.get(
+                            "tools",
+                            []
+                        )
+                    ),
 
-                    json.dumps(extracted.get("soft_skills", [])),
+                    json.dumps(
+                        extracted.get(
+                            "soft_skills",
+                            []
+                        )
+                    ),
 
-                    json.dumps(extracted.get("certifications", [])),
+                    json.dumps(
+                        extracted.get(
+                            "certifications",
+                            []
+                        )
+                    ),
 
-                    json.dumps(skill_gap_result)
+                    json.dumps(
+                        skill_gap_result
+                    )
 
                 )
-
             )
+
+
+            # =====================================================
+            # DOWNLOADS
+            # =====================================================
 
             render_downloads(
                 extracted,
@@ -301,4 +468,36 @@ if analyze_button:
                 prediction
             )
 
+
+            # =====================================================
+            # FOOTER
+            # =====================================================
+
             render_footer()
+
+
+        # ========================================================
+        # ERROR HANDLING
+        # ========================================================
+
+        except Exception as e:
+
+            st.error(
+                "Unable to complete the analysis."
+            )
+
+            if developer_mode:
+
+                st.subheader(
+                    "DEBUG - Application Error"
+                )
+
+                st.exception(e)
+
+            else:
+
+                st.info(
+                    "Please enable Developer Mode and "
+                    "run the analysis again to view "
+                    "diagnostic information."
+                )
