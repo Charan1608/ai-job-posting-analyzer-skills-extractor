@@ -17,9 +17,9 @@ from src.config.settings import MODEL_NAME, TEMPERATURE, MAX_TOKENS
 from src.ai.prompts.prompt_loader import load_prompt
 
 
-# ---------------------------------------------------------
-# Load Environment Variables
-# ---------------------------------------------------------
+# =========================================================
+# ENVIRONMENT
+# =========================================================
 
 ROOT = Path(__file__).resolve().parents[3]
 
@@ -28,10 +28,7 @@ load_dotenv(ROOT / ".env")
 API_KEY = os.getenv("GROQ_API_KEY")
 
 
-# ---------------------------------------------------------
-# Streamlit Cloud Secrets Fallback
-# ---------------------------------------------------------
-
+# Streamlit Cloud Secrets
 if not API_KEY:
     try:
         import streamlit as st
@@ -40,200 +37,185 @@ if not API_KEY:
         API_KEY = None
 
 
-# ---------------------------------------------------------
-# Initialize Groq Client
-# ---------------------------------------------------------
-
-client = None
-
-if API_KEY:
-    client = Groq(api_key=API_KEY)
+if not API_KEY:
+    raise ValueError(
+        "GROQ_API_KEY is not configured. "
+        "Add GROQ_API_KEY to Streamlit Cloud Secrets."
+    )
 
 
-# ---------------------------------------------------------
-# Groq Client
-# ---------------------------------------------------------
+# =========================================================
+# GROQ CLIENT
+# =========================================================
+
+client = Groq(api_key=API_KEY)
+
 
 class GroqClient:
 
     def __init__(self):
+
         self.client = client
         self.prompt = load_prompt()
 
-    # -----------------------------------------------------
-    # AI Extraction
-    # -----------------------------------------------------
+    # =====================================================
+    # EXTRACT
+    # =====================================================
 
     @retry(
         stop=stop_after_attempt(3),
-        wait=wait_exponential(multiplier=2),
+        wait=wait_exponential(
+            multiplier=1,
+            min=1,
+            max=8
+        ),
         reraise=True
     )
-    def extract_with_groq(self, job_description: str):
+    def extract(self, job_description: str):
+
+        if not job_description or not job_description.strip():
+            raise ValueError(
+                "Job description cannot be empty."
+            )
 
         response = self.client.chat.completions.create(
+
             model=MODEL_NAME,
-            temperature=TEMPERATURE,
+
+            temperature=0,
+
             max_tokens=MAX_TOKENS,
+
             response_format={
                 "type": "json_object"
             },
+
             messages=[
+
                 {
                     "role": "system",
                     "content": self.prompt
                 },
+
                 {
                     "role": "user",
-                    "content": job_description
+                    "content": (
+                        "Analyze the following job posting and "
+                        "extract EVERY explicit professional skill, "
+                        "technology, tool, certification, education "
+                        "and experience requirement.\n\n"
+                        "Return ONLY valid JSON following the "
+                        "required schema.\n\n"
+                        "JOB POSTING:\n"
+                        + job_description
+                    )
                 }
+
             ]
         )
 
+        # =================================================
+        # READ RESPONSE
+        # =================================================
+
+        if not response.choices:
+            raise ValueError(
+                "Groq returned no choices."
+            )
+
         result = response.choices[0].message.content
 
-        return json.loads(result)
+        if not result:
+            raise ValueError(
+                "Groq returned an empty response."
+            )
 
-    # -----------------------------------------------------
-    # Public Extraction Method
-    # -----------------------------------------------------
-
-    def extract(self, job_description: str):
+        # =================================================
+        # PARSE JSON
+        # =================================================
 
         try:
 
-            if not self.client:
-                raise ValueError(
-                    "Groq API client is not configured."
-                )
+            data = json.loads(result)
 
-            return self.extract_with_groq(job_description)
+        except json.JSONDecodeError as e:
 
-        except Exception as e:
+            raise ValueError(
+                f"Groq returned invalid JSON: {result}"
+            ) from e
 
-            print(
-                f"GROQ ERROR TYPE: {type(e).__name__}"
-            )
+        # =================================================
+        # ENSURE REQUIRED KEYS
+        # =================================================
 
-            print(
-                f"GROQ ERROR: {e}"
-            )
+        data.setdefault("technical_skills", [])
+        data.setdefault("soft_skills", [])
+        data.setdefault("tools", [])
+        data.setdefault("certifications", [])
+        data.setdefault("experience", None)
+        data.setdefault("education", None)
 
-            # -------------------------------------------------
-            # Demonstration fallback
-            # -------------------------------------------------
+        # =================================================
+        # NORMALIZE TYPES
+        # =================================================
 
-            return self.fallback_extraction(job_description)
+        for key in [
+            "technical_skills",
+            "soft_skills",
+            "tools",
+            "certifications"
+        ]:
 
-    # -----------------------------------------------------
-    # Fallback Skill Extraction
-    # -----------------------------------------------------
+            value = data.get(key)
 
-    def fallback_extraction(self, job_description: str):
+            if value is None:
+                data[key] = []
 
-        text = job_description.lower()
+            elif isinstance(value, str):
+                data[key] = [value]
 
-        skill_dictionary = {
+            elif not isinstance(value, list):
+                data[key] = list(value)
 
-            "Python": ["python"],
-            "SQL": ["sql"],
-            "Excel": ["excel", "microsoft excel"],
-            "Power BI": ["power bi", "powerbi"],
-            "Tableau": ["tableau"],
-            "R": [" r ", "r programming"],
-            "Java": ["java"],
-            "AWS": ["aws", "amazon web services"],
-            "Azure": ["azure"],
-            "GCP": ["gcp", "google cloud"],
-            "Machine Learning": [
-                "machine learning",
-                "machine-learning"
-            ],
-            "Artificial Intelligence": [
-                "artificial intelligence",
-                " ai "
-            ],
-            "Statistics": [
-                "statistics",
-                "statistical analysis"
-            ],
-            "Data Analysis": [
-                "data analysis",
-                "data analytics"
-            ],
-            "Data Visualization": [
-                "data visualization",
-                "data visualisation"
-            ],
-            "Business Intelligence": [
-                "business intelligence"
-            ],
-            "Pandas": ["pandas"],
-            "NumPy": ["numpy"],
-            "PySpark": ["pyspark"],
-            "Spark": ["spark"],
-            "Hadoop": ["hadoop"],
-            "NLP": [
-                "natural language processing",
-                "nlp"
+        # =================================================
+        # REMOVE EMPTY VALUES
+        # =================================================
+
+        for key in [
+            "technical_skills",
+            "soft_skills",
+            "tools",
+            "certifications"
+        ]:
+
+            data[key] = [
+                str(item).strip()
+                for item in data[key]
+                if str(item).strip()
             ]
-        }
 
-        detected_skills = []
-
-        for skill, keywords in skill_dictionary.items():
-
-            for keyword in keywords:
-
-                if keyword in text:
-
-                    detected_skills.append(skill)
-
-                    break
-
-        # -----------------------------------------------------
-        # Basic Role Detection
-        # -----------------------------------------------------
-
-        if "data scientist" in text:
-            predicted_role = "Data Scientist"
-
-        elif "data engineer" in text:
-            predicted_role = "Data Engineer"
-
-        elif "business analyst" in text:
-            predicted_role = "Business Analyst"
-
-        elif "data analyst" in text:
-            predicted_role = "Data Analyst"
-
-        else:
-            predicted_role = "Business Analyst"
-
-        return {
-            "skills": detected_skills,
-            "predicted_role": predicted_role,
-            "source": "Fallback extraction"
-        }
+        return data
 
 
-# ---------------------------------------------------------
-# Local Test
-# ---------------------------------------------------------
+# =========================================================
+# LOCAL TEST
+# =========================================================
 
 if __name__ == "__main__":
 
     sample = """
-    Looking for a Business Analyst with Python, SQL,
-    Power BI, Tableau, Excel and Azure experience.
+    We are looking for a Business Analyst with experience in
+    Python, SQL, Power BI, Tableau, Microsoft Excel,
+    Statistics, Business Analysis, Machine Learning and Azure.
+
+    Responsibilities include gathering business requirements,
+    performing data analysis, creating dashboards and reports,
+    and working with stakeholders.
 
     Bachelor's degree required.
-
-    3-5 years experience.
-
-    AWS certification preferred.
-
-    Strong communication and leadership skills.
+    3-5 years of experience preferred.
+    AWS certification is preferred.
+    Strong communication and leadership skills required.
     """
 
     groq_client = GroqClient()
