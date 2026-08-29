@@ -14,6 +14,7 @@ langdetect
 # LLM integration
 groq
 pydantic
+tenacity
 
 # Analytics / databases
 duckdb
