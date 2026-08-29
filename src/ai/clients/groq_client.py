@@ -23,7 +23,6 @@ from src.ai.prompts.prompt_loader import load_prompt
 
 ROOT = Path(__file__).resolve().parents[3]
 
-# Load .env file for local development
 load_dotenv(ROOT / ".env")
 
 API_KEY = os.getenv("GROQ_API_KEY")
@@ -36,30 +35,19 @@ API_KEY = os.getenv("GROQ_API_KEY")
 if not API_KEY:
     try:
         import streamlit as st
-
         API_KEY = st.secrets.get("GROQ_API_KEY")
-
     except Exception:
         API_KEY = None
-
-
-# ---------------------------------------------------------
-# Validate API Key
-# ---------------------------------------------------------
-
-if not API_KEY:
-    raise ValueError(
-        "GROQ_API_KEY is not configured. "
-        "Add it to .env locally or configure it in "
-        "Streamlit Cloud Secrets."
-    )
 
 
 # ---------------------------------------------------------
 # Initialize Groq Client
 # ---------------------------------------------------------
 
-client = Groq(api_key=API_KEY)
+client = None
+
+if API_KEY:
+    client = Groq(api_key=API_KEY)
 
 
 # ---------------------------------------------------------
@@ -73,7 +61,7 @@ class GroqClient:
         self.prompt = load_prompt()
 
     # -----------------------------------------------------
-    # Extract Skills Using Groq LLM
+    # AI Extraction
     # -----------------------------------------------------
 
     @retry(
@@ -81,51 +69,47 @@ class GroqClient:
         wait=wait_exponential(multiplier=2),
         reraise=True
     )
+    def extract_with_groq(self, job_description: str):
+
+        response = self.client.chat.completions.create(
+            model=MODEL_NAME,
+            temperature=TEMPERATURE,
+            max_tokens=MAX_TOKENS,
+            response_format={
+                "type": "json_object"
+            },
+            messages=[
+                {
+                    "role": "system",
+                    "content": self.prompt
+                },
+                {
+                    "role": "user",
+                    "content": job_description
+                }
+            ]
+        )
+
+        result = response.choices[0].message.content
+
+        return json.loads(result)
+
+    # -----------------------------------------------------
+    # Public Extraction Method
+    # -----------------------------------------------------
+
     def extract(self, job_description: str):
 
         try:
 
-            response = self.client.chat.completions.create(
+            if not self.client:
+                raise ValueError(
+                    "Groq API client is not configured."
+                )
 
-                model=MODEL_NAME,
-
-                temperature=TEMPERATURE,
-
-                max_tokens=MAX_TOKENS,
-
-                response_format={
-                    "type": "json_object"
-                },
-
-                messages=[
-                    {
-                        "role": "system",
-                        "content": self.prompt
-                    },
-                    {
-                        "role": "user",
-                        "content": job_description
-                    }
-                ]
-            )
-
-            # -------------------------------------------------
-            # Read LLM Response
-            # -------------------------------------------------
-
-            result = response.choices[0].message.content
-
-            # -------------------------------------------------
-            # Convert JSON String to Python Dictionary
-            # -------------------------------------------------
-
-            return json.loads(result)
+            return self.extract_with_groq(job_description)
 
         except Exception as e:
-
-            # -------------------------------------------------
-            # Diagnostic Error Information
-            # -------------------------------------------------
 
             print(
                 f"GROQ ERROR TYPE: {type(e).__name__}"
@@ -135,9 +119,102 @@ class GroqClient:
                 f"GROQ ERROR: {e}"
             )
 
-            # Re-raise the original exception so that
-            # Tenacity/Streamlit can display the real error.
-            raise
+            # -------------------------------------------------
+            # Demonstration fallback
+            # -------------------------------------------------
+
+            return self.fallback_extraction(job_description)
+
+    # -----------------------------------------------------
+    # Fallback Skill Extraction
+    # -----------------------------------------------------
+
+    def fallback_extraction(self, job_description: str):
+
+        text = job_description.lower()
+
+        skill_dictionary = {
+
+            "Python": ["python"],
+            "SQL": ["sql"],
+            "Excel": ["excel", "microsoft excel"],
+            "Power BI": ["power bi", "powerbi"],
+            "Tableau": ["tableau"],
+            "R": [" r ", "r programming"],
+            "Java": ["java"],
+            "AWS": ["aws", "amazon web services"],
+            "Azure": ["azure"],
+            "GCP": ["gcp", "google cloud"],
+            "Machine Learning": [
+                "machine learning",
+                "machine-learning"
+            ],
+            "Artificial Intelligence": [
+                "artificial intelligence",
+                " ai "
+            ],
+            "Statistics": [
+                "statistics",
+                "statistical analysis"
+            ],
+            "Data Analysis": [
+                "data analysis",
+                "data analytics"
+            ],
+            "Data Visualization": [
+                "data visualization",
+                "data visualisation"
+            ],
+            "Business Intelligence": [
+                "business intelligence"
+            ],
+            "Pandas": ["pandas"],
+            "NumPy": ["numpy"],
+            "PySpark": ["pyspark"],
+            "Spark": ["spark"],
+            "Hadoop": ["hadoop"],
+            "NLP": [
+                "natural language processing",
+                "nlp"
+            ]
+        }
+
+        detected_skills = []
+
+        for skill, keywords in skill_dictionary.items():
+
+            for keyword in keywords:
+
+                if keyword in text:
+
+                    detected_skills.append(skill)
+
+                    break
+
+        # -----------------------------------------------------
+        # Basic Role Detection
+        # -----------------------------------------------------
+
+        if "data scientist" in text:
+            predicted_role = "Data Scientist"
+
+        elif "data engineer" in text:
+            predicted_role = "Data Engineer"
+
+        elif "business analyst" in text:
+            predicted_role = "Business Analyst"
+
+        elif "data analyst" in text:
+            predicted_role = "Data Analyst"
+
+        else:
+            predicted_role = "Business Analyst"
+
+        return {
+            "skills": detected_skills,
+            "predicted_role": predicted_role,
+            "source": "Fallback extraction"
+        }
 
 
 # ---------------------------------------------------------
